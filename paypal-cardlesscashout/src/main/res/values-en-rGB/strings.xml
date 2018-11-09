@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cca_intro_body">Now with the PayPal app, you can simply scan a code at participating ATMs for a quicker and more secure way to withdraw cash than with a card.</string>
+    <string name="cca_camera_permission_subject">Allow access to your camera</string>
+    <string name="cca_camera_permission_button">Access the camera</string>
+    <string name="cca_atm_screen_instruction">Select \"Mobile Cash\" on the ATM screen</string>
+    <string name="cca_balance_too_low_message">You can\'t withdraw cash at the moment as your available PayPal balance is below the %s minimum.</string>
+    <string name="cca_success_body">Your balance will reflect this withdrawal shortly.</string>
+    <string name="cca_fee_subject">A fee applies</string>
+    <string name="got_it">Got it.</string>
+    <string name="accessibility_fee_info">Click for fee information</string>
+    <string name="donate_intro_next">Get Started</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="direct_deposit_account_number_title">PayPal 할당 계좌 번호</string>
+    <string name="direct_deposit_routing_number_title">ABA 라우팅 및 지점 번호</string>
+    <string name="direct_deposit_account_type_title">계좌 유형</string>
+    <string name="direct_deposit_bank_address_title">금융 기관 이름 및 주소</string>
+    <string name="direct_deposit_bank_address_desc">자금이 %1$s의 위탁 계좌에 보류됩니다. \n</string>
+    <string name="direct_deposit_title">자동 이체 설정</string>
+    <string name="direct_deposit_description">급여를 PayPal 계정으로 자동 이체하려면 아래 세부정보를 고용주의 자동 이체 양식에 입력하세요.</string>
+    <string name="direct_deposit_tax_refund_title">자동 이체 세부정보</string>
+    <string name="direct_deposit_tax_refund_link">&lt;br/&gt;&lt;br/&gt;세금 환급금을 입금하려면 &lt;a href="#"&gt;다음 안내에 따라&lt;/a&gt; 세금 양식을 작성하세요.</string>
+    <string name="direct_deposit_error_title">죄송합니다.</string>
+    <string name="direct_deposit_error_content">해당 정보를 표시하는 중 문제가 발생했습니다. 잠시 후에 다시 시도해 주세요.</string>
+    <string name="direct_deposit_try_again">다시 시도</string>
+    <string name="direct_deposit_copy_pill_text">복사</string>
+    <string name="direct_deposit_copy_account_number_message">계좌 번호 복사</string>
+    <string name="direct_deposit_copy_routing_number_message">라우팅 번호 복사</string>
+    <string name="direct_deposit_copy_message_negative">취소</string>
+</resources>

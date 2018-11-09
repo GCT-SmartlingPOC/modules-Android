@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="direct_deposit_account_number_title">PayPal assigned account number</string>
+    <string name="direct_deposit_routing_number_title">ABA routing and transit number</string>
+    <string name="direct_deposit_account_type_title">Account type</string>
+    <string name="direct_deposit_bank_address_title">Financial Institution Name and Address</string>
+    <string name="direct_deposit_bank_address_desc">Your money will be held in a custodial account at %1$s \n</string>
+    <string name="direct_deposit_title">Set up direct deposit</string>
+    <string name="direct_deposit_description">To directly deposit your paychecks into your PayPal account, enter the details below on your employer\'s direct deposit form.</string>
+    <string name="direct_deposit_tax_refund_title">Direct Deposit Details</string>
+    <string name="direct_deposit_tax_refund_link">&lt;br/&gt;&lt;br/&gt;To deposit your tax refund, &lt;a href=&quot;#&quot;&gt;follow these instructions&lt;/a&gt; when you fill out your tax form.</string>
+    <string name="direct_deposit_error_title">Sorry about that</string>
+    <string name="direct_deposit_error_content">We\'re having trouble showing you that info right now. Try again in a minute or two.</string>
+    <string name="direct_deposit_try_again">Try again</string>
+    <string name="direct_deposit_copy_pill_text">Copy</string>
+    <string name="direct_deposit_copy_account_number_message">Copy Account Number</string>
+    <string name="direct_deposit_copy_routing_number_message">Copy Routing Number</string>
+    <string name="direct_deposit_copy_message_positive">OK</string>
+    <string name="direct_deposit_copy_message_negative">Cancel</string>
+</resources>

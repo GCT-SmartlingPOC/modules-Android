@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="places_add_cash_title">Add cash at a shop</string>
+    <string name="places_map_show_store_list">See shops</string>
+    <string name="places_map_location_service_body">Change your device settings so you can search for nearby shops that connect with PayPal.</string>
+    <string name="places_map_select_store">Select Shop</string>
+    <string name="accessibility_search_action">Double-click to search</string>
+    <string name="atm_finder_intro_body3">Use your PayPal debit card to withdraw at any MoneyPass ATM without a fee.</string>
+    <string name="atm_finder_intro_body4">Don\'t have your card handy\? No problem – you can still withdraw from many ATMs using your PayPal app.</string>
+    <string name="eci_address_search_hint">Enter an address, town/city, postcode</string>
+    <string name="eci_instore_intro_body">Pay with your mobile at some of your favourite shops, restaurants and more. Since you\'re using PayPal, your financial information is securely encrypted.</string>
+    <string name="eci_instore_intro_subject">The shops you love,\n the security you\'re used to</string>
+    <string name="eci_instore_title">Pay instore</string>
+    <string name="eci_order_intro_body">Pay ahead too, then collect it and go. It\'s perfect for picking up food on the way.</string>
+    <string name="eci_order_intro_subject">Order ahead and pay now.</string>
+    <string name="error_no_internet_description">Please make sure your device is not in flight mode and is connected to either Wi-Fi or mobile data.</string>
+    <string name="get_closer_to_pay">You need to be closer to pay.</string>
+    <string name="location_service_body">Get an up-to-the-minute list of nearby shops, restaurants and more that accept PayPal.</string>
+    <string name="location_service_subject">Turn On Location Services</string>
+    <string name="no_matches_found_body">Please check back soon. We\'re adding new restaurants, shops and more all the time.</string>
+    <string name="nothing_nearby_popup_body">Try searching in a different location or moving the map around.</string>
+    <string name="try_again_subject">Please try again</string>
+    <string name="try_again">Please try again</string>
+    <string name="eci_mobile_pin_subheader_text_line2">2. Enter your mobile phone number</string>
+    <string name="paycode_error_sub_text">We\'re sorry, we hit a snag. Give it another try shortly.</string>
+    <string name="eci_link_card_header_text">Add a card</string>
+    <string name="eci_add_card_button_text">Add a card</string>
+    <string name="eci_link_card_subheader_text">Add your credit or debit card to pay in store.  If you\'ve already added a card to your PayPal account, it might have expired or it may not have been confirmed yet.</string>
+    <string name="eci_paypal_balance_string">PayPal balance</string>
+    <string name="eci_mobile_pin_goto_profile">Go to your Settings</string>
+    <string name="eci_confirm_mobile_pin_subheader_text">Confirm your mobile number and create a PIN in your account. When you\'re ready to pay, choose PayPal at the till, enter your mobile number and PIN, and you\'re good to go.</string>
+    <string name="eci_create_pin_subheader_text">Take a moment to create a PIN in your Settings. Then, when you\'re ready to pay, choose PayPal at the till, enter your mobile number and PIN, and you\'re good to go.</string>
+    <string name="accessibility_eci_webview_leave">Leave seller\'s site</string>
+</resources>

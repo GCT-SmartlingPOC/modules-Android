@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fragment_message_center_title">메시지 센터</string>
+    <string name="message_center_all_done_title">현재 모두 완료됨</string>
+    <string name="message_center_all_done_subtitle">계정을 최적의 상태로 유지하는 데 유용한 팁을 나중에 다시 확인해 보세요.</string>
+    <string name="message_center_morning_salutation">%1$s 님, 다시 방문하신 것을 환영합니다.</string>
+    <string name="message_center_afternoon_salutation">%1$s 님, 다시 방문하신 것을 환영합니다.</string>
+    <string name="message_center_evening_salutation">%1$s 님, 다시 방문하신 것을 환영합니다.</string>
+    <string name="message_center_header_TO_DO">할 일</string>
+    <string name="message_center_header_MORE_TO_EXPLORE">더 많은 기능 둘러보기</string>
+    <string name="message_center_header_PAYPAL_TIPS">PayPal 사용 요령</string>
+    <string name="message_center_header_UNKNOWN">알 수 없음</string>
+    <string name="accessibility_notification_center_dismiss">해제</string>
+</resources>

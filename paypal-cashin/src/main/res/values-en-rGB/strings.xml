@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ppcash_store_info_title_description">A %1$s fee will apply when you add cash at a shop.</string>
+    <string name="ppcash_store_info_instruction_text">Take your code to Walmart MoneyCenter or to the Customer Service desk (not the cashier).</string>
+    <string name="ppcash_store_info_generate_barcode">Generate barcode</string>
+    <string name="ppcash_store_info_error_title">We\'re sorry,</string>
+    <string name="ppcash_store_info_error_content">we\'re having trouble showing you that information at the moment. Please try again in a minute or two.</string>
+    <string name="ppcash_store_list_content_eligible">Choose a shop below to create a barcode. You won\'t pay the fee until you\'ve added money at a shop.</string>
+    <string name="ppcash_store_list_last_visited">Last visited shop</string>
+    <string name="ppcash_cip_dialog_body">Once you\'ve provided this, you can start adding cash to your PayPal balance at local shops for only %1$s.</string>
+    <string name="ppcash_barcode_ppcash_faq_link_text">How does PayPal Cash work\?</string>
+    <string name="ppcash_map_show_store_list">See shops</string>
+    <string name="ppcash_map_select_store">Select Shop</string>
+    <string name="add_cash_title">Add cash at a shop</string>
+</resources>

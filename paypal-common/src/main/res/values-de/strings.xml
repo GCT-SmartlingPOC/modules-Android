@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_dialog_default_positive">OK</string>
+    <string name="alert_dialog_default_negative">Abbrechen</string>
+    <string name="error_no_connection">Keine Verbindung</string>
+    <string name="send_email">E-Mail senden an</string>
+    <string name="lets_get_started">Los geht\'s!</string>
+    <string name="empty_list">Keine Werte verfügbar</string>
+    <string name="app_config_reset_button">Zurücksetzen</string>
+    <string name="app_config_edit_button">Bearbeiten</string>
+    <string name="change_endpoint_success_dialog_title">Endpunkt erfolgreich geändert</string>
+    <string name="app_config_success_dialog_title">App config erfolgreich geändert</string>
+    <string name="enable_login_from_home_success_dialog_title">\"Von zu Hause anmelden\" aktiviert</string>
+    <string name="app_config_search_placeholder">Suchen</string>
+    <string name="accessibility_toolbar_back">Zurück</string>
+    <string name="accessibility_progress_indicator">In Bearbeitung</string>
+    <string name="accessibility_backspace">Rücktaste</string>
+    <string name="complete_action_using">Aktion abschließen mit</string>
+    <string name="general_page_error">Es gibt ein Problem auf dieser Seite.</string>
+    <string name="general_intent_handling_error">Es ist ein Problem aufgetreten.</string>
+    <string name="search_box_hint">Name, E-Mail-Adresse oder Handynr.</string>
+    <string name="done_label">Fertig</string>
+    <string name="on">Aktiviert</string>
+    <string name="off_caps">AUS</string>
+    <string name="accessibility_close">Abbrechen</string>
+    <string name="accessibility_number_pad_double_zero">Doppel-Null</string>
+    <string name="payment_generic_error_message">Bei uns ist ein Fehler aufgetreten. Versuchen Sie es in einigen Minuten erneut.</string>
+    <string name="withdraw_error_text">Laden nicht möglich</string>
+    <string name="card_expired_msg">Abgelaufen</string>
+    <string name="verify_apps_unconfimed_dialog_title">Bevor Sie beginnen...</string>
+    <string name="verify_apps_unconfimed_dialog_message">Öffnen Sie die Einstellungen Ihres Handys und aktivieren Sie unter \"Sicherheit\" die Option \"Apps verifizieren\". So können wir Ihre PayPal-App noch besser schützen. Sie können sich erst einloggen, nachdem Sie diese Funktion aktiviert haben.</string>
+    <string name="verify_apps_unconfimed_positive_button">Gehen Sie zu \"Einstellungen\"</string>
+    <string name="verify_apps_unconfimed_negative_button">Abbrechen</string>
+    <string name="marshmallow_storage_camera_permission_required">Um Fotos zu machen, geben Sie PayPal Zugriff auf Ihre Kamera und Fotos.</string>
+    <string name="marshmallow_camera_permission_required">Um Fotos zu machen, geben Sie PayPal Zugriff auf Ihre Kamera.</string>
+    <string name="marshmallow_storage_permission_required">Um ein Foto hinzuzufügen, geben Sie PayPal Zugriff auf Ihre Fotos.</string>
+    <string name="phone_settings">Einstellungen</string>
+</resources>

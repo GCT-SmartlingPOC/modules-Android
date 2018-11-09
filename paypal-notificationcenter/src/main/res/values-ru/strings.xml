@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fragment_message_center_title">Центр обработки сообщений</string>
+    <string name="message_center_all_done_title">Все готово</string>
+    <string name="message_center_all_done_subtitle">Заходите позже и ознакомьтесь с простыми советами по управлению вашим счетом.</string>
+    <string name="message_center_morning_salutation">Доброе утро, %1$s!</string>
+    <string name="message_center_afternoon_salutation">Добрый день, %1$s!</string>
+    <string name="message_center_evening_salutation">Добрый вечер, %1$s!</string>
+    <string name="message_center_header_TO_DO">План действий</string>
+    <string name="message_center_header_MORE_TO_EXPLORE">Узнать больше</string>
+    <string name="message_center_header_PAYPAL_TIPS">Советы PayPal</string>
+    <string name="message_center_header_UNKNOWN">Неизвестно</string>
+    <string name="accessibility_notification_center_dismiss">Отклонить</string>
+</resources>

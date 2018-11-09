@@ -1,0 +1,651 @@
+<resources>
+
+    <string name="try_again_subject">Let\'s try that again</string>
+    <!-- Address related strings -->
+    <string name="pobox_validation_error">You can\'t use a PO box.</string>
+    <string name="dpo_validation_error">You can\'t use a DPO.</string>
+    <string name="carousel_default_title">Choose a card or bank</string>
+
+    <!-- Add CC / DB flow strings -->
+    <string name="credebit_card_credit">Credit</string>
+    <string name="credebit_card_debit">Debit</string>
+    <string name="credebit_card_prepaid">Prepaid</string>
+    <string name="billing_address_label">Billing address</string>
+    <string name="enter_card_hint">Card number</string>
+    <string name="csc_hint">CSC</string>
+    <string name="select_billing_address_link">Select Billing Address</string>
+    <string name="add_billing_address_title">Add your billing address</string>
+    <string name="edit_billing_address_title">Edit your billing address</string>
+    <string name="select_or_add_billing_address_title">Billing addresses</string>
+    <string name="select_billing_address_title">Choose a Billing Address</string>
+    <string name="select_billing_address_edit">Edit</string>
+    <string name="save_button">Save</string>
+    <string name="use_this_billing_address">Use this billing address</string>
+    <string name="enter_credebitcard_linkcard">Link a Card</string>
+    <string name="enter_credebitcard_linkcard_button">Link Card</string>
+    <!-- L10N-CREDIT-START -->
+    <string name="fi_selector_available_credit">Available credit: %s</string>
+    <!-- L10N-CREDIT-END -->
+    <string name="account_profile_add_item">Add</string>
+    <string name="account_profile_edit_item">Change</string>
+    <string name="account_profile_address_add_title">Add an address</string>
+    <string name="account_profile_address_edit_title">Edit an address</string>
+
+    <!-- Edit CC-->
+    <string name="cvv_hint">%s digits</string>
+    <string name="edit_card_title">Edit your card</string>
+    <string name="error_cannot_edit_card">For now, you’ll need to edit this card on our website.</string>
+
+    <!-- Billing Address Strings -->
+    <string name="billingAddress_default_error_text">This does not look correct!</string>
+    <string name="billing_address_error">Check your address details and try again.</string>
+    <string name="billing_address_add_error">Error saving your new billing address.</string>
+
+    <!-- 3DS strings -->
+    <string name="send_money_three_ds_overlay_timer_submitting_otp_title_singular">Submitting your code in %1$s second</string>
+    <string name="send_money_three_ds_overlay_timer_submitting_otp_title_plural">Submitting your code in %1$s seconds</string>
+    <string name="send_money_three_ds_overlay_submitting_otp_title">Submitting your code&#8230;</string>
+    <string name="send_money_three_ds_title">Complete your payment</string>
+    <string name="send_money_three_ds_overlay_manual_enter_otp_title">Enter your code</string>
+    <string name="send_money_three_ds_overlay_manual_enter_otp_description">Please enter the one-time code that was sent to your device.</string>
+    <string name="send_money_three_ds_overlay_manual_enter_pin_done_button">Submit</string>
+    <string name="send_money_three_ds_overlay_manual_enter_pin_title">Enter your 3D Secure PIN</string>
+    <string name="send_money_three_ds_overlay_manual_enter_pin_description">Use the code provided by your card issuer.</string>
+    <string name="send_money_three_ds_overlay_getting_otp_title">Getting your code&#8230;</string>
+    <string name="send_money_three_ds_overlay_getting_otp_description">The code will enter automatically.<![CDATA[<br />]]>Or <![CDATA[<a href="#">enter it manually</a>]]> if you already have it.</string>
+
+    <!--Payment-->
+    <string name="fragment_payment_accounts_title">Banks and Cards</string>
+    <string name="fragment_payment_accounts_title_subtitle">We keep your financial details secure so no one sees your sensitive info.</string>
+    <string name="payment_accounts_no_fi">Link your favorite banks, debit, and credit cards so you can pay, get paid, and send money to friends while you\'re on the go.\n\nWe keep your financial details secure so no one sees your sensitive information.</string>
+    <string name="link_card_bank">Link a Card or Bank</string>
+    <string name="add_payment_account_title">Link a bank or card</string>
+    <string name="enter_card_failure_message">Please check your card info and try again.</string>
+    <string-array name="add_payment_account_list_item_labels">
+        <item>Bank account</item>
+        <item>Debit or credit card</item>
+    </string-array>
+
+    <string name="add_payment_account_list_item_label_debit_card">Debit card</string>
+    <string name="add_bank_positive_button">Go to Our Website</string>
+    <string name="add_bank_alert_negative_button">Not Now</string>
+    <string name="remove_label">Remove</string>
+    <string name="fi_name_label">Name</string>
+    <string name="expiration_date_label">Expires on</string>
+    <string name="address_label">Billing address</string>
+    <string name="bank_account_type_label">Account type</string>
+    <string name="bank_account_status">Status</string>
+    <string name="card_expired_msg">Expired</string>
+    <string name="bank_confirmed">Confirmed</string>
+    <string name="bank_unconfirmed">Unconfirmed</string>
+    <string name="enter_card_hint_issuer_number">Issuer Number</string>
+    <string name="enter_card_hint_issue_number_secondary_text">1&#8211;2 Digits</string>
+    <string name="enter_card_hint_start_date">Start Date</string>
+    <string name="enter_card_hint_date_of_birth">Date of birth</string>
+    <string name="link_bank_account_title">Link your bank on our website.</string>
+    <string name="link_bank_account_message">We\'re adding features as fast as we can. For now, you can link your bank on our website.</string>
+    <string name="scan_card">Scan a Card</string>
+    <string name="enter_card_number_label">Let\'s start with your number.</string>
+    <string name="enter_security_code_label">Almost done! Just enter your card security code.</string>
+    <string name="enter_expiration_date_label">Thanks! Now enter your expiration date.</string>
+    <string name="send_money_button">Send Money</string>
+    <string name="choose_card_type">Choose Your Card Type</string>
+    <string name="card_unconfirmed">Unconfirmed</string>
+    <string name="link_card_three_ds_title">Link Card</string>
+    <string name="confirm_card_three_ds_title">Confirm your card</string>
+    <string name="confirm_card_button">Confirm Card</string>
+
+    <!-- Pull Provisioning -->
+    <string name="pull_provisioning_link_cards_title">Choose how to link your cards</string>
+    <string name="pull_provisioning_link_card_manual">Link a card manually</string>
+    <string name="pull_provisioning_link_cards_issuers">Quickly link the cards issued by your bank</string>
+    <string name="pull_provisioning_link_card_manual_text">Debit or credit card</string>
+    <string name="pull_provisioning_brand_agg_title">Link all your cards</string>
+    <string name="pull_provisioning_brand_agg_btn_label">Agree and Continue</string>
+    <string name="pull_provisioning_brand_agg_link_cards">Link all your cards from %1$s to PayPal</string>
+    <string name="pull_provisioning_brand_agg_benefits">By linking %1$s you can:</string>
+    <string name="pull_provisioning_brand_agg_benefits_bullet" translatable="false">•\t\t</string>
+    <string name="pull_provisioning_brand_agg_benefits_1">Link all your cards to PayPal at once.</string>
+    <string name="pull_provisioning_brand_agg_benefits_2">Use %1$s points toward eligible purchases for a statement credit.</string>
+    <string name="pull_provisioning_brand_agg_terms">By tapping "Agree and Continue," you agree to let PayPal access your information from %1$s.</string>
+    <string name="card_rewards_amount_with_points">%1$s %2$s available (%3$s)</string>
+    <string name="card_rewards_amount_with_cashback">%1$s %2$s available</string>
+    <string name="card_rewards_amount_error">We can\'t load your balance</string>
+    <string name="pull_provisioning_card_details_chasepaybenefits">Use Chase Pay for additional benefits</string>
+    <string name="pull_provisioning_card_details_remove_chasepay">Remove Chase Pay®</string>
+    <string name="pull_provisioning_card_details_chasepay_settings">Manage your <![CDATA[<a href=%1$s>Chase Pay settings</a>]]> and log in again here to see your changes.</string>
+    <string name="pull_provisioning_banks_and_card_pipe" translatable="false">| %s</string>
+
+    <!-- Rewards -->
+    <string name="link_rewards">Link your %s</string>
+    <string name="agree_and_link">Agree and Link</string>
+    <string name="use_reward_program">Use your %s when you pay</string>
+    <string name="choose_reward_amount">Choose the amount of %s you\'d like to use for eligible purchases when you check out with PayPal.</string>
+    <string name="choose_reward_amount_issuer">The balance will be charged to your %s card.</string>
+    <string name="terms_intro">By linking your %s, you agree to:</string>
+    <string name="rewards_program_tc">\u2022 &#160;&#160;&#160; %1$s &lt;a href=&quot;%2$s&quot;&gt;terms &amp; conditions&lt;/a&gt;</string>
+    <string name="paypal_tc">\u2022 &#160;&#160;&#160; PayPal\'s &lt;a href=&quot;%1$s&quot;&gt;terms &amp; conditions&lt;/a&gt; for using your rewards</string>
+    <string name="terms_title">PayPal Terms and Conditions</string>
+    <string name="rewards_congrats">Congrats! You\'re ready to use your %s</string>
+    <string name="rewards_balance">%1$s %2$s available (%3$s)</string>
+    <string name="rewards_cashback">%1$s %2$s available</string>
+    <string name="rewards_success_footer">The next time you use your %1$s card to check out with PayPal, you can use your available %2$s for eligible purchases.</string>
+    <string name="paypal_rewards_terms" translatable="false">"https://www.paypal.com/us/webapps/mpp/popup/about-payment-methods#pay-with-rewards"</string>
+
+    <!-- Balance -->
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="to_label_withdraw">To</string>
+    <string name="done_label">Done</string>
+    <string name="transfer_to_bank_button">Transfer to Bank</string>
+    <string name="transfer">Transfer</string>
+    <string name="add_money_button">Add Money</string>
+    <string name="no_fi_button">Link a Bank or Card</string>
+    <string name="available">Available</string>
+    <string name="fee_label">Fee: %s</string>
+    <string name="free_label">None</string>
+    <string name="withdraw_risk_holding_default">Transfers usually take 2&#8211;3 business days.</string>
+    <string name="add_funds_risk_holding_default">Can take up to 5 days</string>
+    <string name="available_label">Available: %s</string>
+    <string name="change_amount_available_balance">PayPal balance: %s (available)</string>
+    <string name="change_amount_available_paypal_balance">Available PayPal balance</string>
+    <string name="change_amount_error_no_amount">How much do you want to transfer?</string>
+    <string name="change_amount_error_more_amount">That\'s more than your balance.</string>
+    <string name="paypal_balance_name">%s PayPal balance</string>
+    <string name="paypal_balance_name_no_balance_user">%s</string>
+    <string name="balance_desc_title">PayPal works with or without a balance</string>
+    <string name="balance_desc_text_zero_balance">When you have a balance, use it automatically when you pay. When you don\'t, pay securely using your preferred bank or card.</string>
+    <string name="balance_desc_text_zero_balance_enrolled">Add Money to your balance for free by using direct deposit, transferring from your bank, or depositing cash in stores.</string>
+    <string name="balance_desc_text_positive_balance">Leave the money in your balance and use it automatically when you send money or buy something. Or transfer it to your bank account.</string>
+    <string name="balance_desc_text_positive_balance_enrolled_goals_available">Use your PayPal balance to pay online and with the PayPal Cash Card. You can also <![CDATA[<a href="%1$s">create a goal</a>]]> and set money aside.</string>
+    <string name="balance_desc_text_positive_balance_enrolled_goals_not_available">Use your PayPal balance to shop online, pay with the PayPal Cash Card, get cash at ATMs, and send money to family and friends.</string>
+    <string name="balance_fdic_insurance_info">More Info</string>
+    <string name="balance_available_multi_currencies">Available\n(Estimated total of all currencies)</string>
+    <string name="balance_negative_warning_title">Add money to your negative balance</string>
+    <string name="balance_negative_warning_subtitle">We don\'t charge penalty fees for this, but you won\'t be able to send money or make purchases until you add money.</string>
+    <string name="balance_pending_text" note="Example: $32.45 pending">%s pending</string>
+    <string name="add_funds_success_msg">You added %s to your PayPal balance</string>
+    <string name="withdraw_success_msg" note="Example: You transferred $120.28 to Citibank Checking (2345)">You transferred %1$s to %2$s (%3$s)</string>
+    <string name="withdraw_success_msg_new">You transferred %1$s</string>
+    <string name="withdraw_conversion_amount_info" formatted="false">This will be converted to about %1$s</string>
+    <string name="withdraw_default_risk_holding_period">Transfers usually take 2&#8211;3 business days.</string>
+    <string name="add_funds_default_risk_holding_period">Transfers can take up to 5 days.</string>
+    <string name="add_funds_title">Enter the amount</string>
+    <string name="change_amount_button">Change Amount</string>
+    <string name="withdraw_title">Transfer</string>
+    <string name="withdraw_change_amount_title">Type in the amount</string>
+    <string name="withdraw_change_currency_title">Choose a PayPal Balance</string>
+    <string name="withdraw_change_currency_conversion_info" formatted="false">%1$s (1 %2$s = %3$s %4$s)</string>
+    <string name="withdraw_change_fi_title">Transferring to</string>
+    <string name="add_funds_change_fi_title">Adding from</string>
+    <string name="add_funds_review_title">Add Money</string>
+    <string name="add_funds_next_button">Continue</string>
+    <string name="refresh">Refresh</string>
+    <string name="transfer_artifact_text" note="Example: Citibank Checking (2345)">%1$s (%2$s)</string>
+    <string name="withdraw_review_fi_type">%1$s %2$s</string>
+    <string name="withdraw_review_button">Transfer</string>
+    <string name="add_funds_review_button">Add to Your Balance</string>
+    <string name="carousel_text_overlay" note="Example: Checking ••••9624">%1$s ••••%2$s</string>
+    <string name="carousel_text_overlay_card_art" note="Example: ••••9624">••••%1$s</string>
+    <string name="checking">Checking</string>
+    <string name="savings">Savings</string>
+    <string name="withdraw_review_conversion_legal_info">This rate includes our conversion fee.</string>
+    <string name="change_currency_conversion_legal_info">This rate includes our conversion fee.</string>
+    <string name="transfer_in_progress">Transfer still is progress&#8230;</string>
+    <string name="balance_link_a_bank">Link a Bank</string>
+    <string name="balance_add_funds_link_bank_desc">To add money to your balance, you\'ll need to link your bank to your PayPal account.</string>
+    <string name="balance_withdraw_link_bank_desc">To transfer your balance to a bank, you\'ll need to link one to your PayPal account.</string>
+    <string name="balance_link_bank_not_now">Not Now</string>
+    <string name="balance_confirm_your_bank">Confirm your Bank</string>
+    <string name="balance_confirm_bank_desc">You’ll need to confirm your bank account before you can transfer money from it.</string>
+    <string name="balance_confirm_bank">Confirm</string>
+    <string name="withdraw_default_risk_holding_period_exception">Estimated arrival: 1 business day</string>
+    <string name="withdraw_risk_holding_default_exception_message">Transfers made after 7:00 PM ET or on weekends or holidays take longer. All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="oct_phase1_exception_message">You transferred money to your bank using your %1$s %2$s ••••%3$s.</string>
+    <string name="bottom_sheet_transfer_to_bank">Transfer to Bank</string>
+    <string name="bottom_sheet_withdraw_at_atm">Withdraw at ATM</string>
+    <string name="bottom_sheet_get_cash">Get cash</string>
+    <string name="button_withdraw">Transfer Money</string>
+    <string name="balance_link_a_card">Link a Card</string>
+    <string name="withdraw_duration">Typically takes about %1$s</string>
+    <string name="withdraw_duration_bank_exception">Estimated arrival: %1$s</string>
+    <plurals name="withdraw_risk_holding_days">
+        <item quantity="one">1 business day</item>
+        <item quantity="other">%1$s business days</item>
+    </plurals>
+    <plurals name="withdraw_risk_holding_hours">
+        <item quantity="one">1 hour</item>
+        <item quantity="other">%1$s hours</item>
+    </plurals>
+    <plurals name="withdraw_risk_holding_minutes">
+        <item quantity="one">1 minute</item>
+        <item quantity="other">%1$s minutes</item>
+    </plurals>
+    <string name="withdraw_card_oct_disclaimer">All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="withdraw_card_oct_intro_title_new">Try an Instant Transfer to your bank</string>
+    <string name="withdraw_card_oct_intro_desc_new">You\'ll typically see the money in your bank account within minutes when you use your eligible debit card. There\'s a $0.25 fee. Or, you can use the free, standard option. Transfers may take up to 30 minutes and vary by bank.</string>
+    <string name="withdraw_card_oct_min_amount_error">Amount is less than the required %1$s minimum.</string>
+    <string name="withdraw_converted_from">Converted from %1$s</string>
+    <string name="withdraw_fee_deducted">%1$s fee deducted</string>
+    <string name="withdraw_cancel_title">You canceled your transfer</string>
+    <string name="withdraw_cancel_message">The money remains in your PayPal balance</string>
+    <string name="withdraw_risk_decline_title">There\'s a problem</string>
+    <string name="withdraw_risk_decline_message">Right now, we\'re not able to complete this transaction. Please try again later.</string>
+    <string name="withdraw_risk_hold_title">Your transfer is delayed</string>
+    <string name="withdraw_risk_hold_message">For security reasons we need a bit more time to review this transaction. This can take up to %s hours, but we\'ll email you as soon as we have an update.</string>
+    <string name="withdraw_risk_hold_message_without_duration">For security reasons we need a bit more time to review this transaction. We\'ll email you as soon as we have an update.</string>
+    <string name="withdraw_risk_compliance_title">Your transfer is pending</string>
+    <string name="withdraw_risk_compliance_message">Regulations require us to take a closer look at some transactions. Your payment is temporarily pending while we review it.</string>
+    <string name="withdraw_risk_compliance_message_fee">\n\nBecause your transfer is delayed, you won\'t be charged the %s fee.</string>
+    <string name="withdraw_risk_compliance_message_fee_empty">\n\nBecause your transfer is delayed, you won\'t be charged any fee.</string>
+    <string name="withdraw_change_currency_title_no_balance_user">Choose a currency</string>
+
+    <string name="fi_selector_toolbar_title">Transfer to your bank</string>
+    <string name="fi_selector_disclaimer_title">Don\'t see all of your banks and cards?</string>
+    <string name="fi_selector_disclaimer_desc">Certain banks and card issuers don\'t allow transfers.</string>
+    <string name="fi_selector_empty_card">Link an eligible debit card</string>
+    <string name="fi_selector_empty_bank">Link a bank account</string>
+    <string name="fi_selector_disclaimer">Transfers may take up to 30 minute and vary by bank. All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="fi_selector_error_choose_option">Please choose an option below.</string>
+    <string name="fi_selector_snack_bar_card">You linked your %1$s\n%2$s ••••%3$s card.</string>
+    <string name="fi_selector_snack_bar_bank">You linked your %1$s\n%2$s ••••%3$s account.</string>
+    <string name="fi_selector_disclaimer_credebit">Transfers may take up to 30 minutes and vary by bank. All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="fi_selector_disclaimer_merchant_cap_credebit">Fee:%1$s%% (%2$s maximum)\n\nTransfers may take up to 30 minutes and vary by bank. All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="fi_selector_disclaimer_bank">Transfers made after 7:00 PM ET or on weekends or holidays take longer. All transfers are subject to review and could be delayed or stopped if we identify an issue.</string>
+    <string name="fi_selector_button_update">Update</string>
+    <string name="withdraw_risk_holding_minutes_oct_phase1_value">in minutes</string>
+    <string name="oct_ineligible_card_added_title">Your %1$s\n%2$s ••••%3$s is linked but isn\'t eligible for Instant Transfers.</string>
+    <string name="oct_card_section_left">Instant: typically in minutes</string>
+    <string name="oct_card_section_right">$0.25</string>
+    <string name="oct_card_section_right_with_cap_merchant">%1$s%% fee (%2$s maximum) will be deducted</string>
+    <string name="oct_bank_section_left">Standard: typically in 1 business day</string>
+    <string name="oct_bank_section_right">Free</string>
+    <string name="oct_risk_hold_dialog_title">Your transfer will be delayed</string>
+    <string name="oct_risk_message">For security reasons, we need a bit more time to review this transaction. This can take up to 5 days. You won’t be charged the $0.25 fee. Would you still like to continue with your transfer?</string>
+    <string name="oct_risk_dialog_positive_btn_text">Transfer in %s Hours</string>
+    <string name="oct_risk_dialog_negative_btn_text">Cancel Transfer</string>
+    <string name="oct_amount_label">You\'ll get:</string>
+    <string name="oct_fee_label">Fee:</string>
+    <string name="oct_fee_value_free">Free</string>
+    <string name="oct_to_label">To:</string>
+    <string name="oct_risk_cancel_transfer">Cancel transfer</string>
+    <string name="oct_risk_message_debit_card">For security reasons, we need a bit more time to review this transaction. This can take up to %1$s hours. You won’t be charged the %2$s fee. Would you still like to continue with your transfer?</string>
+    <string name="oct_risk_message_bank">For security reasons, we need a bit more time to review this transaction. This can take up to %s hours. Would you still like to continue with your transfer?</string>
+    <string name="oct_risk_hold_estimated_arrival_content">Estimated arrival: %1$s hours</string>
+    <string name="oct_risk_hold_fulfillment_title">Your transfer will be delayed</string>
+    <string name="oct_risk_hold_card_success_msg">For security reasons, we need a bit more time to review this transaction. We\'ll email you as soon as we have an update. You won\'t be charged the %s fee. Or, you can cancel your transfer.</string>
+    <string name="oct_risk_hold_card_success_msg_without_cancel">For security reasons, we need a bit more time to review this transaction. We\'ll email you as soon as we have an update. You won\'t be charged the %s fee.</string>
+    <string name="oct_risk_hold_bank_success_msg">For security reasons, we need a bit more time to review this transaction. We\'ll email you as soon as we have an update. Or, you can cancel your transfer.</string>
+    <string name="oct_risk_hold_bank_success_msg_without_cancel">For security reasons, we need a bit more time to review this transaction. We\'ll email you as soon as we have an update.</string>
+    <string name="oct_risk_hold_withdrawal_amount">You\'ll get: %s</string>
+    <string name="oct_default_merchant_user_fee">Fee Applies</string>
+    <string name="oct_default_normal_user_fee">$0.25</string>
+    <string name="oct_merchant_user_fee">%1$s%%</string>
+    <string name="oct_fee_deducted_text">%1$s fee will be deducted</string>
+    <string name="oct_pricing_fee">%1$s%% fee</string>
+
+    <string name="options_title">What do you want to do with your money?</string>
+    <string name="options_text_1">Transfer it to your bank</string>
+    <string name="options_text_2">Keep it in PayPal</string>
+    <string name="options_description_1">Move your money to your debit card in minutes or to your bank in about a day.</string>
+    <string name="options_description_2">Send or spend securely from your balance. Use it as fun money or save for a rainy day.</string>
+    <string name="options_button_1">Transfer Now</string>
+    <string name="options_button_2">Keep it</string>
+    <string name="cip_activity_toolbar_title">Confirm your identity</string>
+    <string name="cip_activity_content_title">To keep your money in PayPal, we need a bit more info</string>
+    <string name="cip_activity_content_desc">Confirming customer identities is one of the best ways we keep your account secure. You\'ll only do this once.</string>
+    <string name="cip_activity_button_next">Next</string>
+    <string name="cip_success_title">Thanks! You\'re all set</string>
+    <string name="cip_success_manual_review_title">Thanks for sending your info</string>
+    <string name="cip_success_manual_review_description">We\'ll send an email as soon as we\'re done reviewing your docs. This usually takes 2&#8211;3 business days.</string>
+    <string name="cip_in_progress_and_no_tasks_description">We\'re still reviewing your info. We\'ll send you an email as soon as we\'re done.</string>
+    <string name="cip_success_sub_title">Your money is now available in your PayPal balance. Send it, spend it, or just keep it as your stash of fun money.</string>
+    <string name="cip_failure_title_scenario1">We couldn\'t confirm your info</string>
+    <string name="cip_failure_title_scenario2">Sorry about that…</string>
+    <string name="cip_failure_sub_title_scenario1">For now, you can transfer your money to your bank account.</string>
+    <string name="cip_failure_sub_title_scenario2">It looks like something went wrong on our end.</string>
+    <string name="cip_transfer_to_bank">Transfer to Your Bank</string>
+    <string name="cip_aborted_confirmation_title">Are you sure?</string>
+    <string name="cip_aborted_description">Until you confirm your info, you won\'t be able to send or spend money in your PayPal account.</string>
+    <string name="cip_aborted_left_btn_text">Keep Going</string>
+    <string name="cip_aborted_right_btn_text">Back to Summary</string>
+    <string name="cip_success_manual_review_left_btn_text">Transfer to Bank</string>
+    <string name="cip_success_manual_review_right_btn_text">Done</string>
+    <string name="cip_success_manual_review_additional_description">While you\'re waiting, you can always transfer the money to your bank.</string>
+    <string name="cip_preemptive_failure_okay_button">OK</string>
+    <string name="cip_send_money_content_title">Create a PayPal balance with a quick, one-time confirmation</string>
+    <string name="cip_send_money_content_desc">Then you can easily send, spend, or save your unclaimed money and any other money you may receive.</string>
+    <string name="cip_send_money_aborted_title">Confirm your info now so you can send or spend the money in your PayPal account. If not, you can always transfer the money to your bank account from your Summary.</string>
+    <string name="cip_send_money_aborted_desc">If you want to send money right now, try using a linked bank or card.</string>
+    <string name="cip_send_money_aborted_left_btn_text">Confirm Now</string>
+    <string name="cip_send_money_aborted_right_btn_text">Back to Send Money</string>
+    <string name="cip_send_money_success_manual_review_description">We\'ll send an email as soon as we\'re done reviewing your info. This usually takes 2-3 business days.</string>
+
+    <!-- Add Cash-->
+    <string name="add_cash_title">Add cash at a store</string>
+    <string name="add_cash_label">Add cash to PayPal</string>
+    <string name="add_cash_content">Bring your cash to a participating store and show the cashier your barcode.  The money will be added to your PayPal balance in just 15 minutes.</string>
+    <string name="add_cash_available_at">Available at:</string>
+    <string name="add_money_from_bank_menu">Add from your bank</string>
+    <string name="add_money_from_cash_menu">Add cash</string>
+    <string name="add_money_from_direct_deposit_menu">Direct deposit</string>
+    <string name="add_money_from_check">Cash a Check</string>
+    <string name="add_cash_error_bold_text">We couldn\'t load your info</string>
+    <string name="add_cash_error_text">Looks like something went wrong on our end. Please try again in a minute or two.</string>
+    <string name="add_cash_error_try_again_button_text">Try Again</string>
+
+    <string name="paypal_credit_make_payment_dialog_continue_button">Continue</string>
+
+    <string name="paypal_balance">PayPal Balance</string>
+
+    <string name="ofac_done_button">OK</string>
+    <string name="ofac_pending_title">Your payment is pending</string>
+    <string name="ofac_pending_message">Regulations require us to take a closer look at some transactions. Your payment is temporarily pending while we review it.</string>
+    <string name="converted_balance">%1$s in %2$s</string>
+
+    <!-- Payment Dialog -->
+    <string name="payment_dialog_artifact_delete_title">Are you sure&#63;</string>
+    <string name="payment_dialog_card_delete_message">If you\'ve made any payments that haven\'t completed yet, we\'ll charge those to your card even after you remove it.</string>
+    <string name="payment_dialog_bank_delete_message">Do you want to remove %1$s %2$s&#63;</string>
+    <string name="payment_dialog_positive_button">Remove</string>
+    <string name="payment_dialog_negative_button">Keep It</string>
+    <string name="payment_dialog_partial_card_number">•••• %1$s</string>
+    <string name="ok">OK</string>
+    <string name="payment_generic_error_message">Looks like something went wrong on our end. Please try again in a minute or two.</string>
+    <string name="try_again">Try Again</string>
+    <string name="withdraw_error_text">Unable to load</string>
+
+
+    <!-- Online payment preference-->
+    <string name="payment_pref_title">Payment Preferences</string>
+    <string name="payment_and_transfers_title">Payments and Transfers</string>
+    <string name="payment_pref_title_description">When it\'s time to pay, you\'ve got options. Check out your preferences below.</string>
+    <string name="payment_and_transfers_description">When it\'s time to pay or get paid, you\'ve got options. Check out your preferences below.</string>
+    <string name="payment_pref_pref_way_to_pay">PREFERRED WAY TO PAY</string>
+    <string name="payment_pref_online_purchases_title">Online purchases</string>
+    <string name="payment_pref_setup">CHOOSE</string>
+    <string name="payment_pref_sending_money_title">Sending money</string>
+    <string name="payment_pref_sending_money_desc">Sending money to friends and family will default to your balance or bank to save you a fee.</string>
+    <string name="payment_pref_sending_money_desc_no_balance">When sending to friends and family, we\'ll use your bank if we can save you a fee.</string>
+    <string name="payment_pref_fi">%1$s (%2$s)</string>
+    <string name="preferred_fi_title">Preferred when paying online</string>
+    <string name="new_preferred_fi_title">Pick a new preferred way to pay</string>
+    <string name="preferred_fi_subtitle">We\'ll use this when you shop online or send money for goods and services. \n%s</string>
+    <string name="preferred_fi_about_payment_prefs">More about payment preferences</string>
+    <string name="preferred_fi_done_button">Done</string>
+    <!-- L10N-CREDIT-START -->
+    <string name="choice_available_credit">Available credit</string>
+    <!-- L10N-CREDIT-END -->
+    <string name="add_card_success">You linked your %1$s card (%2$s). %3$s</string>
+    <string name="make_preferred_way">Make it your preferred.</string>
+    <string name="confirm_bank_success_message_choice">You confirmed your %1$s %2$s account (%3$s). %4$s</string>
+    <string name="no_preferable_fi_dialog_title">Before you choose…</string>
+    <string name="no_preferable_fi_dialog_message">It looks like there\'s an issue with your payment method. It might be unconfirmed or expired. Find out more in the Banks and Cards section.</string>
+    <string name="no_preferable_fi_dialog_button_positive">Banks and Cards</string>
+    <string name="no_preferable_fi_dialog_button_negative">Cancel</string>
+    <string name="preferred_fi_remove_dialog_message">This is your preferred way to pay. If you have any outstanding purchases, those will complete even if this is removed.</string>
+    <string name="fragment_payment_accounts_choice_subtitle">We keep your financial details secure so no one sees your sensitive information. %1$s</string>
+    <string name="preferred_balance_pop_up_desc">If you don\'t have enough money in your balance, we\'ll ask you to pick one of your other payment methods.</string>
+    <string name="access_selected">selected</string>
+    <string name="payment_pref_automatic_transfers_title_none">Set up automatic transfers</string>
+    <string name="payment_pref_automatic_transfers_description_none">Every time you receive money, we\'ll transfer it right to your bank account.</string>
+    <string name="payment_pref_automatic_transfers_title">Automatic transfers</string>
+    <string name="payment_pref_automatic_transfers_title_active">Automatic transfer to</string>
+    <string name="payment_pref_automatic_transfers_setup_on">ON</string>
+    <string name="payment_pref_automatic_transfers_setup_off">OFF</string>
+
+    <!--Manual Add Bank -->
+    <string name="manual_add_bank_title">Link a bank</string>
+    <string name="manual_link_bank">Link This Bank</string>
+    <string name="routing_number">Routing number</string>
+    <string name="account_number">Account number</string>
+    <string name="bank_type">Type</string>
+    <string name="routing_no_info_title">Finding a routing number</string>
+    <string name="routing_no_info_desc">It’s the 9-digit number at the lower left corner of your checks. No checks? Log into your online banking and you can find it there.</string>
+    <string name="routing_no_content_desc">How to find a routing number</string>
+    <string name="account_no_info_title">Finding an account number</string>
+    <string name="account_no_info_desc">It’s the 3-17 digit number on your checks or bank statements. Or log into your online banking and you can find it there, too.</string>
+    <string name="account_no_content_desc">How to find an account number </string>
+    <string name="link_bank_agree_title">Agree and Link</string>
+    <string name="link_bank_agree_description">By tapping \"Agree,\" you agree to let PayPal send 2 small deposits  and retrieve them in 1 withdrawal.&lt;br /&gt;&lt;br /&gt;This &lt;b&gt;%1$s&lt;/b&gt; bank account may be used as your default payment method. To learn how to change your preferences, view <![CDATA[<a href="%2$s">PayPal policies and your payment method rights</a>]]>.</string>
+    <string name="link_bank_agree">Agree</string>
+    <string name="error_routing_no">Please enter your routing number</string>
+    <string name="error_account_no">Please enter your account number</string>
+    <string name="link_bank_success_header">You linked your bank</string>
+    <string name="link_bank_success_description_confirmation">Now you can transfer money from your PayPal balance to this bank. Confirm it and use your bank to pay or send money.</string>
+    <string name="link_bank_success_description_no_confirmation">Now you can transfer money from your PayPal balance to this bank.</string>
+    <string name="add_bank_confirm_ok">OK</string>
+    <string name="bank_account_type_checking">Checking</string>
+    <string name="bank_account_type_savings">Savings</string>
+    <string name="bank_detail_failure_title">Let\'s try that again</string>
+    <string name="bank_detail_failure_message">Looks like something went wrong on our end. Please try again in a minute or two.</string>
+    <string name="connecting_to_bank">Connecting to your bank...</string>
+    <string name="error_no_matching_bank">No matching bank found.</string>
+    <string name="bank_confirm_status">Confirm your bank now</string>
+    <string name="bank_unconfirmed_desc">Check back in a couple of days.</string>
+    <string name="confirm_bank_dialog_title">Confirm your bank</string>
+    <string name="confirm_bank_dialog_desc">Check your online banking in a few days for &lt;b&gt;2 small deposits&lt;/b&gt;, then come back to the app and enter them.</string>
+    <string name="deposit_confirm">Confirm</string>
+    <string name="confirm_deposit_title">Confirm your bank</string>
+    <string name="deposit_enter_amount_text">Enter the amounts of the 2 deposits we made to your %1$s(%2$s) account</string>
+    <string name="confirm_bank_error_title">You tried too many times</string>
+    <string name="confirm_bank_error_message">If you need help, <![CDATA[<a href="https://www.paypal.com/selfhelp/home">contact us</a>]]>. Or you can link and confirm a different bank.</string>
+    <string name="confirm_bank_success_message">You confirmed your %1$s %2$s account (%3$s)</string>
+    <string name="iban_supported_countries_title">Supported Countries</string>
+    <string name="iban_supported_countries_desc">You can link a bank account that\'s registered in one of the following countries:</string>
+
+    <!-- SEPA AddBank -->
+    <string name="account_owner">Account Owner:</string>
+    <string name="country">Country</string>
+    <string name="country_prompt_label">Select the country of your bank account.</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="error_date_of_birth">Please enter your date of birth</string>
+    <string name="dob_prompt_label">You must be at least 18 years old.</string>
+    <string name="hint_iban">IBAN</string>
+    <string name="edt_error_iban">IBAN number should be %1$s characters</string>
+    <string name="edt_error_iban_min_max">IBAN number should be %1$s - %2$s characters</string>
+    <string name="iban_prompt_label">By tapping Link This Bank, you consent to an &lt;a href="%1$s"&gt;identity and credit check&lt;/a&gt;.</string>
+    <string name="iban_info_dialog_title">What is IBAN?</string>
+    <string name="iban_info_dialog_message">We need your International Bank Account Number (IBAN) to better identify and process payments. You can find your IBAN on your bank statement or online banking, or by contacting your bank.</string>
+    <string name="mandate_page_title">Mandate</string>
+    <string name="mandate_page_subtitle">Thanks for providing your %1$s details. You can now transfer money from PayPal to your bank account.\n\nPlease accept the direct debit mandate below if you’d also like us to automatically pull payments from your bank when you make PayPal purchases.</string>
+    <string name="mandate_sepa_title">SEPA Direct Debit Mandate</string>
+    <string name="mandate_account_owner">ACCOUNT OWNER</string>
+    <string name="mandate_iban">IBAN</string>
+    <string name="mandate_bank_name">BANK NAME</string>
+    <string name="mandate_bic">BIC</string>
+    <string name="mandate_date">DATE</string>
+    <string name="mandate_location">LOCATION</string>
+    <string name="mandate_creditor">CREDITOR</string>
+    <string name="mandate_creditor_id">CREDITOR ID</string>
+    <string name="mandate_reference_no">MANDATE REFERENCE NUMBER</string>
+    <string name="mandate_authorization_desc">By tapping Accept you agree to the SEPA direct debit mandate and authorize PayPal to send instructions to your bank account. You also authorize your bank to debit your account in accordance with the instructions from PayPal. A refund must be claimed within 8 weeks, starting from the date on which your account was debited.</string>
+    <string name="mandate_skip">Skip</string>
+    <string name="mandate_cancel">Cancel</string>
+    <string name="mandate_accept">Accept</string>
+    <string name="mandate_skip_dialog_title">Are you sure?</string>
+    <string name="mandate_skip_dialog_message">To be able to buy online or send money, you must accept the Direct Debit Mandate.</string>
+    <string name="mandate_accept_dialog_title">Confirm your bank</string>
+    <string name="mandate_accept_dialog_message">Check your bank in a few days for the &lt;b&gt;confirmation code&lt;/b&gt; we\'ve sent, then come back and enter the code.</string>
+    <string name="mandate_accept_dialog_ok">OK</string>
+    <string name="hint_four_digit_confirm_code">Confirmation code (4 digits)</string>
+    <string name="four_digit_confirm_code_description">Enter below the code we sent you, so we can confirm your bank account has been properly set up with PayPal.</string>
+    <string name="four_digit_confirm_code_info_dialog_title">Confirmation Code</string>
+    <string name="four_digit_confirm_code_info_dialog_desc">We sent a confirmation code to your bank. Log into your online banking or call your bank to get the code. To make sure you get it, we\'ll send the code each time you make a transaction until you confirm your bank.</string>
+    <string name="fi_detail_mandate_authorization">Mandate</string>
+    <string name="fi_detail_mandate_unauthorization">Accept direct debit authorization now</string>
+    <string name="fi_detail_mandate_and">&#160;and&#160;</string>
+    <string name="mandate_accepted">Accepted</string>
+    <string name="error_confirm_bank_input">Please check your input</string>
+    <string name="mandate_unauthorized">Unauthorized</string>
+    <string name="link_bank_next">Next</string>
+    <string name="error_sort_code">Sort code should be %1$s digits</string>
+    <string name="electronic_mandate_title">Submit Direct Debit Instruction</string>
+    <string name="electronic_mandate_account_holder">NAME OF ACCOUNT HOLDER</string>
+    <string name="electronic_mandate_description">Payments will appear as PAYPAL on your bank statement. A copy of your &lt;a href=&quot;%1$s&quot;&gt;Direct Debit Instruction&lt;/a&gt; will be emailed to you.&lt;br /&gt;&lt;br /&gt;If your bank account requires more than one person\'s signature to authorise a Direct Debit Instruction, please select Finish Later and go to paypal.com to print the instructions and post us a signed copy.</string>
+    <string name="electronic_mandate_finish_later">Finish Later</string>
+    <string name="electronic_mandate_submit">Submit Instruction</string>
+    <string name="error_enter_bank_name">Please enter the bank name</string>
+    <string name="edt_bank_name">Bank name</string>
+    <string name="bank_transit">Bank transit</string>
+    <string name="bank_transit_info_title">Finding bank transit</string>
+    <string name="bank_transit_info_desc">Your bank transit is a 5 digit number located on your bank statement.</string>
+    <string name="error_bank_transit">Please enter your bank transit number</string>
+    <string name="routing_number2">Institution</string>
+    <string name="routing_number2_info_title">Finding institution</string>
+    <string name="routing_number2_info_desc">Institution is a 3 digit number located on your bank statement.</string>
+    <string name="routing_number2_content_desc">How to find an institution</string>
+    <string name="error_routing_number2">Please enter your Institution</string>
+    <string name="link_bank_agree_description_no_bank_name">By tapping \"Agree,\" you agree to let PayPal send 2 small deposits  and retrieve them in 1 withdrawal.&lt;br /&gt;&lt;br /&gt;This bank account may be used as your default payment method. To learn how to change your preferences, view <![CDATA[<a href="%1$s">PayPal policies and your payment method rights</a>]]>.</string>
+    <string name="bank_account_type_chequing">Chequing</string>
+    <string name="bsb_number">BSB number</string>
+    <string name="error_bsb_number">BSB number should be %1$s digits</string>
+
+    <string name="country_us">United States</string>
+
+    <!-- Accessibility strings -->
+    <string name="accessibility_next">Next</string>
+    <string name="accessibility_fi_selector_floating_button_tool_bar">Link a bank or card</string>
+    <string name="accessibility_payment_accounts_add">Link a new bank or card</string>
+    <string name="accessibility_edit_billing_address">Enter your billing address</string>
+    <string name="accessibility_add_your_billing_address">Add your billing address</string>
+
+    <string name="send_money_three_ds_overlay_submitting_otp_description">The code will now be submitted automatically.</string>
+    <string name="send_money_three_ds_overlay_could_not_get_otp_timeout_title">Couldn\'t get the code&#8230;</string>
+    <string name="send_money_three_ds_overlay_could_not_get_otp_timeout_description">Unable to fetch the code automatically\nyou can enter it manually.</string>
+    <string name="send_money_three_ds_overlay_could_not_get_otp_timeout_button">OK</string>
+
+
+    <!-- Select funding source -->
+    <string name="select_funding_source_exchange_rate">(%1$s = %2$s)</string>
+    <string name="select_funding_source_policy">If there\'s an issue with your preferred payment method, we\'ll try the remaining payment methods linked to your PayPal account. &lt;a href=&quot;%1$s&quot;&gt;View PayPal policies.&lt;/a&gt;</string>
+    <string name="select_funding_source_option_available">Available</string>
+
+    <string name="onepin_change_pin_hint">Enter new 4-digit PIN</string>
+    <string name="onepin_change_pin_confirm_hint">Enter your PIN again</string>
+    <string name="onepin_pin_confirm_title">Confirm your in-store PIN</string>
+    <string name="onepin_set_pin_instructions">Make sure your PIN is hard to guess.</string>
+    <string name="onepin_pins_do_not_match">The PIN you entered did not match.</string>
+    <string name="onepin_pin_invalid_error">Avoid using easy to guess PINs like 1234 or 5555.</string>
+    <string name="onepin_pin_entry_hint">4 digit pin number</string>
+    <string name="onepin_update_pin_title">Change your PIN</string>
+    <string name="onepin_create_pin_title">Create an in-store PIN</string>
+
+    <!-- Pull Provisioning -->
+    <string name="list_item_pipe_separator">|</string>
+    <string name="link_cards_success_main_text">You linked %1$s cards to PayPal</string>
+    <string name="link_cards_success_singular_text">You linked %1$s card to PayPal</string>
+    <string name="link_cards_success_sub_text">To manage Chase Pay, look for the link on the card details screen.</string>
+    <string name="link_cards_success_footer_main_text">Don\'t see all of your cards?</string>
+    <string name="link_cards_success_footer_sub_text">You can always link one manually.</string>
+    <string name="pull_provisioning_spinner_default_message">Communicating with your bank</string>
+    <string name="pull_provisioning_spinner_connecting_message">Redirecting to %s …</string>
+    <string name="pull_provisioning_choose_cards_title">Choose your cards</string>
+    <string name="pull_provisioning_choose_cards_subtitle">Here\'s your card information provided by %s. Now, choose which cards to link to your PayPal account.</string>
+    <string name="pull_provisioning_next_toc">By tapping \"Next,\" you agree to Paypal\'s terms and conditions for linking your card</string>
+    <string name="pull_provisioning_next_toc_long">We will share your account information with %1$s in order to facilitate the services you request, keep your account updated, and help manage risk and fraud.\n\nBy tapping \"Agree and Link,\" you agree to Paypal\'s terms and conditions for linking your card</string>
+    <string name="pull_provisioning_choose_cards_footer">We\'ll share your information with %1$s to facilitate the services you request, display available card features, and keep your account updated.</string>
+    <string name="pull_provisioning_next_toc_link_text">terms and conditions</string>
+    <string name="pull_provisioning_no_cards_selected">Select a card to continue.</string>
+    <string name="pull_provisioning_exit_dialog_title">Are you sure you don\'t want to link any cards?</string>
+    <string name="pull_provisioning_exit_dialog_positive_button">Don\'t link</string>
+    <string name="pull_provisioning_bank_name_default">your bank</string>
+    <string name="pull_provisioning_cvv_count">Enter your security code (%1$s of %2$s)</string>
+    <string name="pull_provisioning_cvv_text">Enter your security code</string>
+    <string name="pull_provisioning_security_code_error_message">Check the security code and try again.</string>
+    <string name="pull_provisioning_confirm_card_tool_bar_text">Confirm your card</string>
+    <string name="pull_provisioning_confirm_card_dialog_title">Are you sure you want to exit? Not all of your cards have been linked.</string>
+    <string name="pull_provisioning_bank_error_cancel">cancel</string>
+
+    <string name="pull_provisioning_choose_cards_button">Agree and Link</string>
+    <string name="pull_provisioning_general_error_title">We\'re sorry, things don\'t appear to be working right now.</string>
+    <string name="pull_provisioning_general_error_message">You can always link a card manually instead.</string>
+    <string name="card_rewards_opt_out_btn">Stop using %1$s with PayPal</string>
+    <string name="card_rewards_amount">%1$s available (%2$s)</string>
+    <string name="card_rewards_cashback">%1$s available</string>
+    <string name="card_rewards_benefits">The next time you check out with PayPal, you can use your available %1$s for eligible purchases.</string>
+    <string name="chase_pay_reward_benefits">The next time you check out with PayPal, you can use your available %1$s for a statement credit.</string>
+    <string name="card_rewards_opt_out_dlg_title">Are you sure?</string>
+    <string name="card_rewards_opt_out_dlg_message">You’ll no longer be able to use your %1$s for eligible purchases. Pending payments with %2$s will still be processed even after you decide to stop using your %3$s with PayPal. </string>
+    <string name="card_rewards_opt_out_dlg_keep_it">Keep It</string>
+    <string name="card_rewards_opt_out_dlg_stop_using">Stop Using</string>
+    <string name="incorrect_cvv_alert_text">We couldn\'t link your %1$s %2$s ••••%3$s.</string>
+    <string name="failed_cards_section_header">These card(s) could not be linked</string>
+    <string name="failed_cards_title_header">We\'re sorry, things don\'t appear to be working right now.\nTry again later.</string>
+    <string name="failed_cards_title_description">You can always link a card manually instead.</string>
+
+    <!-- Chase Pay Benefits -->
+    <string name="chase_pay_benefits_desc_title">Benefits of using %s\n with PayPal</string>
+    <string name="chase_pay_benefits_page_title"> %s Benefits</string>
+    <string name="chase_pay_benefits_bullets1_description" >Use your %1$s  %2$s for a statement credit on eligible purchases when you shop online.</string>
+    <string name="chase_pay_benefits_bullets2_description" >Never worry about an expired card or outdated info. Your cards will stay updated automatically.</string>
+
+    <string name="reward_opt_out_error">We can\'t remove your %1$s right now. Try again later.</string>
+    <string name="refresh_checkout_balance">Refresh to checkout your %1$s balance</string>
+
+    <string name="chase_pay_settings_info">Don’t want to remove %1$s entirely? You can hide a card anytime by updating your <![CDATA[<a href=%2$s> %3$s settings.</a>]]></string>
+    <string name="remove_chase_pay_description">When you remove %1$s, you’ll no longer see any of the cards you linked with %2$s. You can always manually link these cards instead.</string>
+    <string name="remove_chase_pay">Remove %1$s</string>
+    <string name="removing_cards_title">You\'re removing these cards:</string>
+    <string name="remove_chase_pay_error">We’re not able to remove %1$s right now. Try again later.</string>
+    <string name="chase_pay_settings">%1$s settings</string>
+
+    <!-- Auto Transfer -->
+    <string name="auto_transfer_header_primary">Make your transfers automatic</string>
+    <string name="auto_transfer_header_primary_off">Automatic transfers are off</string>
+    <string name="auto_transfer_header_primary_on">Automatic transfers are on</string>
+    <string name="auto_transfer_header_secondary_on">Every time you receive money, we\'ll transfer it right to your bank account.</string>
+    <string name="auto_transfer_header_secondary_off">Turn it on, and every time you receive money, we\'ll transfer it right to your bank account.</string>
+    <string name="auto_transfer_turn_on">Turn It On</string>
+    <string name="auto_transfer_turn_off">Turn It Off</string>
+    <string name="auto_transfer_error_message_fi_removed">Looks like you chose a bank or debit card that\'s been removed. Choose another bank or card.</string>
+    <string name="auto_transfer_error_message_fi_expired">Looks like your debit card has expired. Choose another bank or debit card.</string>
+    <string name="auto_transfer_error_message_risk_fi">For your security, we turned off automatic transfers. Choose another debit card or bank to turn it back on.</string>
+    <string name="auto_transfer_success_message_title">You\'re all set</string>
+    <string name="auto_transfer_success_message_description">Now, every time you receive money, we\'ll transfer all of it to your %1$s. You can always turn this off in your Profile.</string>
+    <string name="auto_transfer_success_message_additional_description">Estimated arrival: %1$s</string>
+    <string name="auto_transfer_invalid_fi_title">There\'s an issue with your bank or debit card</string>
+    <string name="auto_transfer_invalid_fi_message">Choose a different bank or debit card to turn on automatic transfers.</string>
+    <string name="auto_transfer_not_now">Not Now</string>
+    <string name="auto_transfer_ppwc_error_description">We had to turn off automatic transfers for the moment. You can still transfer money to your bank.</string>
+    <string name="auto_transfer_withdrawal_not_setup">Make your transfers automatic. No need to log in. Go to your Profile to turn this on.</string>
+    <string name="auto_transfer_setup_fail_title">There\'s a problem</string>
+    <string name="auto_transfer_setup_fail_description">Right now, we\'re not able to set up automatic transfers for you. You can try again the next time you transfer money to your bank. Or try turning them on in your Profile.</string>
+    <string name="auto_transfer_full_screen_button_ok">OK</string>
+    <string name="auto_transfer_generic_error_title">Sorry about that</string>
+    <string name="auto_transfer_generic_error_description">Looks like something went wrong on our end.</string>
+    <string name="auto_transfer_fi_selector_button_update">Update</string>
+    <string name="auto_transfer_full_screen_success_done">Done</string>
+    <string name="auto_transfer_full_screen_settings_service_failure_button_text">Choose a different Bank or Card</string>
+    <string name="auto_transfer_account_info">%1$s %2$s ••••%3$s</string>
+    <string name="auto_transfer_withdraw_success_snackbar_message">You transferred %1$s to your bank using your %2$s.</string>
+
+    <!--WithdrawIdCaptureIdentityFragment page -->
+    <string name="withdraw_id_capture_identity_title">We\'re reviewing your transfer</string>
+    <string name="withdraw_id_capture_identity_content_first">To help keep your account secure, we\'ll take a closer look at this transfer. The review could take up to %1$s hours.</string>
+    <string name="withdraw_id_capture_identity_content_second">You can help speed up the review process by confirming your identity.</string>
+    <string name="withdraw_id_capture_identity_button_skip">Skip &amp; Wait</string>
+    <string name="withdraw_id_capture_identity_button_confirm">Confirm Identity</string>
+    <!--WithdrawIdCaptureSuccessfulFragment page-->
+    <string name="withdraw_id_capture_successful_title">You\'re all set</string>
+    <string name="withdraw_id_capture_successful_content_first">We\'ll review your photo and ID. If we\'re able to confirm your identity, we may release your funds sooner.</string>
+    <string name="withdraw_id_capture_successful_content_second">You\'ll get a notification with an update in the next 5 minutes. </string>
+    <string name="withdraw_id_capture_done_button">Done</string>
+    <!--WithdrawIdCaptureFailureFragment page-->
+    <string name="withdraw_id_capture_failure_title">Sorry that didn\'t work out</string>
+    <string name="withdraw_id_capture_failure_content">Looks like we had some trouble getting a good photo of you. Don\'t worry. We\'ll manually review your %1$s transfer, and your funds will be released within %2$s hours.</string>
+
+    <!-- Shared FI -->
+    <string name="link_shared_card_consent_title">There\'s one more step</string>
+    <string name="link_shared_card_consent_message">It looks like you share this card with someone else. We\'ll text that person before adding the card to your account.</string>
+    <string name="link_shared_card_consent_description">Here\'s what we\'ll send:</string>
+    <string name="link_shared_card_consent_sms_title">PayPal</string>
+    <string name="link_shared_card_consent_sms_message">PayPal: %1$s wants to link your %2$s ••%3$s to PayPal. For security, we won\'t do anything until you respond. Text YES to approve, NO to decline.</string>
+    <string name="link_shared_card_consent_negative_button">Not Now</string>
+    <string name="link_shared_card_consent_positive_button">Send the Text</string>
+    <string name="link_shared_card_success_title">We sent the text</string>
+    <string name="link_shared_card_success_message">You\'ll see a notification in PayPal once the other account holder responds, and we\'ll show the card in your account if it\'s approved.</string>
+    <string name="link_shared_card_success_button">Done</string>
+    <string name="link_shared_card_general_error_title">We\'re sorry, things don\'t appear to be working right now.</string>
+
+</resources>

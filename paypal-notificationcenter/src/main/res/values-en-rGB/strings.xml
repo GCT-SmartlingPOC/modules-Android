@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fragment_message_center_title">Message Centre</string>
+    <string name="message_center_all_done_title">All done for now</string>
+    <string name="message_center_morning_salutation">Morning, %1$s</string>
+    <string name="message_center_afternoon_salutation">Afternoon, %1$s</string>
+    <string name="message_center_evening_salutation">Evening, %1$s</string>
+    <string name="message_center_header_TO_DO">To do</string>
+    <string name="message_center_header_MORE_TO_EXPLORE">More to explore</string>
+    <string name="message_center_header_PAYPAL_TIPS">PayPal tips</string>
+</resources>

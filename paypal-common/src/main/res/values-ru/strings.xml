@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_dialog_default_positive">OK</string>
+    <string name="alert_dialog_default_negative">Отмена</string>
+    <string name="error_no_connection">Нет соединения</string>
+    <string name="send_email">Эл. адрес</string>
+    <string name="lets_get_started">Приступим!</string>
+    <string name="empty_list">Нет значений для отображения</string>
+    <string name="app_config_reset_button">Восстановить</string>
+    <string name="app_config_edit_button">Редактировать</string>
+    <string name="change_endpoint_success_dialog_title">Конечная точка успешно изменена</string>
+    <string name="app_config_success_dialog_title">Конфигурация приложения успешно изменена</string>
+    <string name="enable_login_from_home_success_dialog_title">Вход с домашней страницы успешно разрешен. </string>
+    <string name="app_config_search_placeholder">Поиск</string>
+    <string name="accessibility_toolbar_back">Назад</string>
+    <string name="accessibility_progress_indicator">В обработке</string>
+    <string name="accessibility_backspace">Клавиша Backspace</string>
+    <string name="complete_action_using">Выполнить действие с помощью</string>
+    <string name="general_page_error">Похоже, возникла ошибка.</string>
+    <string name="general_intent_handling_error">Похоже, возникла ошибка.</string>
+    <string name="search_box_hint">Введите имя, адрес электронной почты или мобильный телефон</string>
+    <string name="ok">Закрыть</string>
+    <string name="done_label">Готово</string>
+    <string name="on">Вкл.</string>
+    <string name="off_caps">Откл.</string>
+    <string name="accessibility_close">Отмена</string>
+    <string name="accessibility_number_pad_double_zero">Двойной нуль</string>
+    <string name="payment_generic_error_message">Возникла проблема с нашей стороны. Повторите попытку через несколько минут.</string>
+    <string name="withdraw_error_text">Не удалось выполнить загрузку</string>
+    <string name="card_expired_msg">Срок истек</string>
+    <string name="verify_apps_unconfimed_dialog_title">Прежде чем вы войдете…</string>
+    <string name="verify_apps_unconfimed_dialog_message">Перейдите на вкладку «Безопасность» в разделе «Настройки» вашего телефона и включите «Проверить приложения». Это помогает нам обеспечить безопасность вашего приложения PayPal. Вы не можете войти в систему, пока вы не включите его.</string>
+    <string name="verify_apps_unconfimed_positive_button">Перейти в раздел «Настройки»</string>
+    <string name="verify_apps_unconfimed_negative_button">Отмена</string>
+    <string name="marshmallow_storage_camera_permission_required">Для фото нужен доступ к камере и памяти.</string>
+    <string name="marshmallow_camera_permission_required">Для фото PayPal нужен доступ к камере.</string>
+    <string name="marshmallow_storage_permission_required">Для фото PayPal нужен доступ к памяти.</string>
+    <string name="phone_settings">Настройки</string>
+</resources>

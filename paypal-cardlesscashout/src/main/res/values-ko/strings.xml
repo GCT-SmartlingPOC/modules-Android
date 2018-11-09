@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">동의</string>
+    <string name="atm_finder_tab_use_app">앱 사용</string>
+    <string name="cca_at_atm">지금 ATM 앞에 있습니다.</string>
+    <string name="cca_intro_subject">카드 없이도 현금 인출</string>
+    <string name="cca_intro_body">이제 가맹 ATM에서 PayPal 앱으로 코드를 스캔하기만 하면 카드를 이용하는 것보다 빠르고 안전하게 현금을 인출할 수 있습니다.</string>
+    <string name="cca_onboarding_hint">ATM 인출을 위해 기기를 활성화하는 동안 기다려 주세요…</string>
+    <string name="cca_amount_selection_title">금액을 선택합니다.</string>
+    <string name="cca_daily_limit">일일 최대 인출 한도</string>
+    <string name="cca_daily_limit_subject_to">사용가능 잔액에 따름</string>
+    <string name="cca_camera_permission_subject">카메라 액세스 허용</string>
+    <string name="cca_camera_permission_body">PayPal이 있는 ATM에서 코드를 스캔할 수 있도록 기기의 설정을 변경하세요.</string>
+    <string name="cca_camera_permission_button">카메라에 액세스하기</string>
+    <string name="cca_atm_screen_instruction">ATM 화면에서 \"모바일 현금\"을 선택하세요.</string>
+    <string name="cca_phone_scan_instruction">전화기로 ATM에 있는 코드를 스캔하세요.</string>
+    <string name="cca_barcode_title">코드 스캔</string>
+    <string name="cca_barcode_instruction">ATM에서 \"모바일 현금\"을 선택하고 전화기의 카메라로 QR 코드를 프레임에 넣으세요.</string>
+    <string name="cca_withdrawal_amount_label">인출 금액</string>
+    <string name="cca_balance_too_low_label">잔액이 너무 적습니다.</string>
+    <string name="cca_balance_too_low_message">현재 PayPal 잔액이 %s의 최소 금액 미만이기 때문에 현금을 인출할 수 없습니다.</string>
+    <string name="cca_success_subject">ATM에서 현금을 수령하세요.</string>
+    <string name="cca_success_body">이 이체 건은 잠시 후 잔액에 반영됩니다.</string>
+    <string name="cca_fee_subject">수수료가 있습니다.</string>
+    <string name="cca_fee_body">이 ATM 소유자가 수수료를 부과합니다. 추가적으로 외부 네트워크 ATM을 이용한 현금 인출에 PayPal 수수료가 부과됩니다.</string>
+    <string name="cca_atm_owner_fee">ATM 소유자 수수료</string>
+    <string name="cca_network_fee">PayPal 외부 네트워크 수수료</string>
+    <string name="cca_cancelled">거래가 정상적으로 취소되었습니다.</string>
+    <string name="processing_transaction">거래 처리 중…</string>
+    <string name="min">최소</string>
+    <string name="max">최대</string>
+    <string name="got_it">확인</string>
+    <string name="amount_requested">요청된 금액</string>
+    <string name="receipt">영수증</string>
+    <string name="accessibility_fee_info">수수료 정보를 보려면 클릭하세요</string>
+    <string name="cca_available_paypal_balance">사용 가능한 PayPal 잔액</string>
+    <string name="cca_daily_cash_withdrawl_limit">일일 현금 인출 한도</string>
+    <string name="donate_intro_next">시작!</string>
+    <string name="rtr_info_total">총계</string>
+    <string name="change_amount_available_balance">PayPal 잔액: %s(사용 가능)</string>
+    <string name="add_funds_next_button">계속</string>
+    <string name="paypal_credit_make_payment_dialog_continue_button">계속</string>
+</resources>

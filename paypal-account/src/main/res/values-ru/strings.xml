@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_no_internet_title">Отсутствует интернет-соединение</string>
+    <string name="error_no_internet_description">Убедитесь, что ваше устройство не находится в режиме полета и подключено через Wi-Fi или мобильную сеть.</string>
+    <string name="common_webview_error_header">Приносим свои извинения...</string>
+    <string name="common_webview_error_sub_header">Не удается отобразить эту информацию прямо сейчас.</string>
+    <string name="dialog_sure_button">Оцените приложение</string>
+    <string name="dialog_remind_me_later_button">Позже</string>
+    <string name="dialog_no_thanks_button">Закрыть окно</string>
+    <string name="dialog_rating_title">Вам понравилось приложение\?</string>
+    <string name="dialog_rating_message">Поделитесь своим мнением.</string>
+    <string name="account_profile_photo_take">Сделать новое фото</string>
+    <string name="account_profile_photo_delete">Удалить фото</string>
+    <string name="account_profile_photo_delete_dialog_title">Вы уверены\? Если вы удалите свою фотографию, ваши друзья и родственники не смогут узнать, что это действительно вы.</string>
+    <string name="account_profile_photo_delete_dialog_positive">Удалить</string>
+    <string name="account_profile_photo_delete_dialog_negative">Отмена</string>
+    <string name="accessibility_add_your_info">Добавьте свои данные</string>
+    <string name="account_profile_photo_choose">Выбрать из ранее сохраненных</string>
+</resources>

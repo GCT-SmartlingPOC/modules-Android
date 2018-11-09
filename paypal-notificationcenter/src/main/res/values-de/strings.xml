@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fragment_message_center_title">Meine Nachrichten</string>
+    <string name="message_center_all_done_title">Das war’s fürs Erste</string>
+    <string name="message_center_all_done_subtitle">Kommen Sie später wieder und erhalten Sie praktische Tipps für Ihr Konto.</string>
+    <string name="message_center_morning_salutation">Guten Morgen %1$s!</string>
+    <string name="message_center_afternoon_salutation">Hallo %1$s!</string>
+    <string name="message_center_evening_salutation">Guten Abend %1$s!</string>
+    <string name="message_center_header_TO_DO">Nicht vergessen</string>
+    <string name="message_center_header_MORE_TO_EXPLORE">Mehr entdecken</string>
+    <string name="message_center_header_PAYPAL_TIPS">Tipps</string>
+    <string name="message_center_header_UNKNOWN">Unbekannt</string>
+    <string name="accessibility_notification_center_dismiss">Verwerfen</string>
+</resources>

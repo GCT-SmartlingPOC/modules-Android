@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="payment_pref_title_description">Hier legen Sie fest, wie Sie zahlen wollen. Unten sehen Sie Ihre Optionen.</string>
+    <string name="payment_pref_sending_money_desc">Wenn Sie Geld an Freunde und Familie senden, verwenden wir standardmäßig Ihr Guthaben oder Ihr Bankkonto.</string>
+    <string name="link_bank_success_description_confirmation">Sie können jetzt Geld von Ihrem PayPal-Konto auf dieses Bankkonto abbuchen. Bestätigen Sie es nur noch und Sie können mit Ihrem Bankkonto Ihre Einkäufe bezahlen und Geld senden.</string>
+    <string-array name="add_payment_account_list_item_labels">
+        <item>Bankkonto</item>
+        <item>Kreditkarte</item>
+    </string-array>
+</resources>

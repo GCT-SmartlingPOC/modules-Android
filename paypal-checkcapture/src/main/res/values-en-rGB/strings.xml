@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_capture_info_title">Cash a Cheque</string>
+    <string name="check_capture_title">Cheque capture</string>
+    <string name="check_capture_info_step_one">1. First, snap a photo of each side of your signed cheque.</string>
+    <string name="check_capture_info_step_two">2. Next, enter the cheque amount.</string>
+    <string name="check_capture_info_step_three">3. Once approved, void the cheque. We\'ll add the money to your balance.</string>
+    <string name="check_capture_info_footer_note">This service is provided by First Century Bank, N.A. and Ingo Money, Inc., which are third-party service providers that operate independently from PayPal. PayPal may share some of your profile information with Ingo and First Century to help service your cash-a-cheque request.</string>
+    <string name="check_capture_permission_error">Permission error</string>
+    <string name="check_capture_permission_rationale_title">To cash your cheques, we\'ll need access to your location, camera and phone calls.</string>
+    <string name="check_capture_permission_rationale_message">You\'ll be asked to grant permission on the next screens.</string>
+    <string name="check_capture_permission_rationale_title_change_permission">You\'ll need to change your permissions to allow PayPal to access your camera, location and phone calls.</string>
+</resources>

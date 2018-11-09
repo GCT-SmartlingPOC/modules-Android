@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_select_country_web">Can\'t see your country\? Sign up at &lt;a href="%1$s"&gt;paypal.co.uk&lt;/a&gt;</string>
+    <string name="onboarding_create_account">Agree and Create Account</string>
+    <string name="onboarding_agree_and_create_account">I have read and agree to PayPal\'s &lt;a href="%1$s"&gt;User Agreement&lt;/a&gt; and &lt;a href="%2$s"&gt;Privacy Policy&lt;/a&gt;.</string>
+    <string name="onboarding_account_already_exists">This email is already registered with PayPal.</string>
+    <string name="onboarding_create_account_success_label">Great! Now, let\'s set up your new account.</string>
+    <string name="onboarding_create_account_success_prompt">You can &lt;a href="%1$s"&gt;manage your communication preferences settings&lt;/a&gt; in your account settings</string>
+    <string name="onboarding_activation_tile_error_title">Please try again</string>
+    <string name="onboarding_activation_tile_error_prompt">We\'re sorry, something seems to have gone wrong. Please try again in a minute or two.</string>
+    <string name="onboarding_activation_tile_error_button_text">Please try again</string>
+    <string name="onboarding_offer_interstitial_subtitle">Earn cashback rewards when you pay with PayPal. * &lt;u&gt;&lt;a href="%1$s"&gt;T&amp;C apply&lt;/a&gt;&lt;/u&gt;</string>
+    <string name="onboarding_activation_add_card_title">Add your debit or credit card</string>
+    <string name="onboarding_activation_add_card_prompt">It\'s the fastest way to set up your account and start shopping and sending money. We\'ll keep your card details securely encrypted.</string>
+    <string name="onboarding_activation_add_card_mandatory_prompt">Buy from anywhere in the world with confidence after you\'ve added a payment card to PayPal.</string>
+    <string name="onboarding_activation_add_card_yes">Add Card</string>
+    <string name="onboarding_activation_add_card_success_title">You\'re ready! Let\'s get you started with your new account.</string>
+    <string name="onboarding_activation_add_card_success_prompt">Now that your card is added, no need to enter your details again.</string>
+    <string name="onboarding_activation_add_card_success_order_ahead">You\'re ready to order ahead. Just pick your favourite place.</string>
+    <string name="onboarding_activation_add_card_success_toast">You\'ve added your card. Use it to shop or send money to friends.</string>
+    <string name="onboarding_activation_add_bank_title">Bank Accounts and Cards</string>
+    <string name="onboarding_activation_add_bank_yes">Add Bank Account</string>
+    <string name="onboarding_activation_add_bank_prompt">Add your bank accounts and cards so you can shop, pay and send money to friends on the go.</string>
+    <string name="onboarding_activation_add_bank_prompt2">We keep your financial details and sensitive information secure.</string>
+    <string name="onboarding_activation_tiles_home">Explore the app</string>
+    <string name="onboarding_activation_tile_item_send_money_sub_title">Pay a friend back quickly and easily.</string>
+    <string name="onboarding_activation_tile_item_order_ahead_sub_title">Then simply pick up and go.</string>
+    <string name="onboarding_activation_tile_item_paypal_me_title">Get your link to get paid</string>
+    <string name="onboarding_activation_tile_item_paypal_me_sub_title">PayPal.Me/[your name]</string>
+    <string name="onboarding_address_lookup_hint">Enter your postcode</string>
+    <string name="onboarding_address_lookup_prompt">Enter your postcode to look up your address. Include a house number or name to narrow down the results.</string>
+    <string name="onboarding_address_lookup_no_result">We\'re sorry, no address has been found</string>
+    <string name="onboarding_address_autocomplete_hint">Start typing in your address</string>
+    <string name="onboarding_address_autocomplete_prompt">Look up your address to save time. Or fill in the form yourself.</string>
+    <string name="onboarding_address_autocomplete_no_suggestions_available">We\'re sorry, we couldn\'t find a match. Please fill in the form instead.</string>
+    <string name="onboarding_address_autocomplete_validation_error">We\'re sorry, we couldn\'t verify this information. Try again here or fill in the form.</string>
+    <string name="onboarding_marshmallow_alertdialog_body">Allow us to access your contact information so we can fill it in for you.</string>
+    <string name="onboarding_web_signup_info_text">We\'re adding features to your country\'s PayPal app as fast as we can. For now, please go to our website to create your account.</string>
+    <string name="onboarding_phone_confirmation_rationale">For your security, let\'s confirm your mobile number. By continuing, you confirm that you\'re authorised to use this phone number and agree to receive a text.\nNetwork provider fees may apply.</string>
+    <string name="cao_enter_phone_number">Enter your mobile number</string>
+    <string name="cao_data_rates_consent">By continuing, you confirm that you are authorised to use this phone number and agree to receive a text. Mobile network fees may apply.</string>
+    <string name="cao_enter_zip_code">Enter your billing postcode</string>
+    <string name="cao_customerinfo_consent">By continuing, you authorise %1$s to disclose the following to PayPal for a faster sign-up: your name, address and billing information, if available.</string>
+    <string name="cao_permission_dialogue_title">Sign up faster with the auto-fill option from your mobile provider</string>
+    <string name="cao_permission_dialogue_message">Just enter your mobile number and billing postcode. We\'ll send you a confirmation code and then automatically fill in the rest for you.</string>
+    <string name="cao_permission_dialogue_autofill">Auto-fill</string>
+    <string name="cao_main_title">Auto-fill sign-up</string>
+    <string name="cao_zip_code_title">Enter your postcode</string>
+    <string name="cao_invalid_phone_number">This isn\'t a valid mobile number, please try again.</string>
+    <string name="cao_invalid_zip">Check your billing postcode and try again.</string>
+    <string name="first_time_use_title_uno">The simple, more secure way to send, spend and manage your money.</string>
+    <string name="first_time_use_title_dos">Send payments quickly to almost anyone.</string>
+    <string name="first_time_use_content_dos">All you need is their email address to send or request money. If they don\'t have a PayPal account yet, we\'ll help them set one up.</string>
+    <string name="first_time_use_title_tres">Shop more securely on millions of sites and apps.</string>
+    <string name="first_time_use_content_tres">Skip entering your card details when you pay with PayPal, knowing your eligible purchases can be protected by our Buyer Protection.</string>
+    <string name="first_time_use_content_cuatro">Send, spend and receive using your preferred cards and bank accounts. Keep track of it all, wherever you are.</string>
+    <string name="accessibility_help_first_time_use_two_finger_swipe">Use two-finger swipe for more information about the new PayPal app</string>
+    <string name="onboarding_address_search_no_address_found">I can\'t see my address</string>
+    <string name="onboarding_enter_card_header">Add a card to your new account</string>
+    <string name="onboarding_enter_card_subheader">When friends send you money, a debit card is the quickest way to withdraw money to your bank account.</string>
+    <string name="onboarding_explore_account">Explore Your Account</string>
+    <string name="onboarding_normalize_address_failure">We\'re sorry, we can\'t pre-fill this address. Please fill in the form instead.</string>
+</resources>

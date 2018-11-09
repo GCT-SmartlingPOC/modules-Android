@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send_money_review_friends_and_family_no_fee_explanation">Sie zahlen keine Gebühren, wenn Sie Geld im Inland mit Ihrem Bankkonto oder Guthaben senden.</string>
+    <string name="send_money_review_friends_and_family_freep2p_no_fee_explanation">Sie zahlen keine Gebühren, wenn Sie Geld in EUR innerhalb der EU senden.</string>
+    <string name="send_money_review_friends_and_family_fee_explanation">Es fallen Gebühren an, wenn Sie Geld mit einer Kreditkarte, in ein anderes Land oder in einer anderen Währung senden.</string>
+    <string name="send_money_review_friends_and_family_with_conversion_no_fee_explanation">Sie zahlen keine Gebühren, wenn Sie Geld im Inland mit Ihrem Bankkonto oder Guthaben senden.</string>
+    <string name="send_money_review_friends_and_family_freep2p_with_conversion_no_fee_explanation">Sie zahlen keine Gebühren, wenn Sie Geld in EUR innerhalb der EU senden.</string>
+    <string name="send_money_review_friends_and_family_with_conversion_fee_explanation">Es fallen Gebühren an, wenn Sie Geld mit einer Kreditkarte, in ein anderes Land oder in einer anderen Währung senden.</string>
+    <string name="send_money_funding_mix_selector_no_fi_alert_body">Verwenden Sie für diese Zahlung Ihr PayPal-Guthaben (%1$s). Sie können auch eine Kreditkarte in den Einstellungen hinzufügen.</string>
+    <string name="send_money_cross_border_intro_page_description">Senden Sie Zahlungen an Ihre Familie in der Heimat oder laden Sie im Handumdrehen Guthaben auf das Prepaid-Handy eines Verwandten. Wählen Sie Ihr Land aus und erfahren Sie, wie einfach Sie mit PayPal und Xoom Ihre Lieben unterstützen können.</string>
+    <string name="web_view_title_purchase_protection">Käuferschutz</string>
+</resources>

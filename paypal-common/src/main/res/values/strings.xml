@@ -1,0 +1,77 @@
+<resources>
+
+    <string name="alert_dialog_default_positive">Ok</string>
+    <string name="alert_dialog_default_negative">Cancel</string>
+    <string name="error_no_connection">No Connection</string>
+    <string name="send_email">Email</string>
+    <string name="lets_get_started">Let\'s Get Started!</string>
+
+    <!-- App Config-->
+    <string name="empty_list">No Values to display</string>
+    <string name="app_config_reset_button">Reset</string>
+    <string name="app_config_edit_button">Edit</string>
+    <string name="change_endpoint_success_dialog_title">Endpoint changed successfully</string>
+    <string name="app_config_success_dialog_title">App config changed successfully</string>
+    <string name="enable_login_from_home_success_dialog_title">Enable login from home success</string>
+    <string name="app_config_search_placeholder">Search</string>
+
+    <!-- Accessibility strings -->
+    <string name="accessibility_toolbar_back">Back</string>
+    <string name="accessibility_progress_indicator">In Progress</string>
+    <string name="accessibility_backspace">Backspace</string>
+
+    <!-- Date Formats -->
+    <string name="date_format_mm_yyyy" translatable="false">MM/yy</string>
+    <string name="date_format_mmm_dd" translatable="false">MMM. dd</string>
+    <string name="date_format_mmm_dd_no_dot" translatable="false">MMM dd</string>
+    <string name="expiration_date_hint" translatable="false">MM/YY</string>
+    <string name="activity_item_header_date_format" translatable="false">MMM d, y</string>
+    <string name="transaction_info_date_template" translatable="false">k:mm z</string>
+    <string name="date_format_MM_dd_yyyy" translatable="false">MM/dd/yyyy</string>
+    <string name="time_format_HH_mm" translatable="false">HH:mm</string>
+
+    <string name="complete_action_using">Complete action using</string>
+
+    <!-- Locale Changer-->
+    <string name="get_default_text" translatable="false">getDefault</string>
+    <string name="get_configuration_text" translatable="false">getConfiguration</string>
+    <string name="update_configuration_text" translatable="false">updateConfiguration</string>
+    <string name="get_user_locale_text" translatable="false">userSetLocale</string>
+    <string name="native_class_path" translatable="false">android.app.ActivityManagerNative</string>
+    <string name="generic_error" translatable="false">Error</string>
+    <string name="unknown_error" translatable="false">Unknown error</string>
+
+    <!-- Generic Errors -->
+    <string name="general_page_error">Looks like there\'s a problem on this page.</string>
+    <string name="general_intent_handling_error">Looks like something went wrong.</string>
+
+    <string name="search_box_hint">Enter a name, email, or mobile</string>
+    <string name="ok">OK</string>
+    <string name="done_label">Done</string>
+
+    <string name="on">On</string>
+    <string name="off_caps">OFF</string>
+
+    <!-- Accessibility strings -->
+    <string name="accessibility_close">Cancel</string>
+    <string name="accessibility_number_pad_double_zero">Double Zero</string>
+
+    <!-- Payment Dialog -->
+    <string name="payment_generic_error_message">Looks like something went wrong on our end. Please try again in a minute or two.</string>
+    <string name="withdraw_error_text">Unable to load</string>
+
+    <!--Payment-->
+    <string name="card_expired_msg">Expired</string>
+
+    <!-- Verify Apps Not Confirmed -->
+    <string name="verify_apps_unconfimed_dialog_title">Before you come in…</string>
+    <string name="verify_apps_unconfimed_dialog_message">Go to Security in your phone\'s Settings and turn on \"Verify Apps\." This helps us keep your PayPal app more secure. You can\'t log in until you turn it on.</string>
+    <string name="verify_apps_unconfimed_positive_button">Go to Settings</string>
+    <string name="verify_apps_unconfimed_negative_button">Cancel</string>
+
+    <!--Marshmallow AccountProfile-->
+    <string name="marshmallow_storage_camera_permission_required">To take photos, let PayPal access the camera and storage.</string>
+    <string name="marshmallow_camera_permission_required">To take photos, let PayPal access the camera.</string>
+    <string name="marshmallow_storage_permission_required">To take photos, let PayPal access the storage.</string>
+    <string name="phone_settings">SETTINGS</string>
+</resources>

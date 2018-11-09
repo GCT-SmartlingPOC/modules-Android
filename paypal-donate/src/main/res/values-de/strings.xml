@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="donation_home_tile_title">Spenden</string>
+    <string name="donation_home_tile_subtitle">Spenden Sie für einen guten Zweck.</string>
+    <string name="donate_intro_title">Für einen guten Zweck spenden</string>
+    <string name="donate_intro_body">Unterstützen Sie soziale Projekte weltweit direkt von Ihrem Handy aus. Einfach tippen, geben und Gutes bewirken.</string>
+    <string name="donate_intro_next">Los geht\'s</string>
+    <string name="donate_location_turn_on_location_services">Ortungsdienste aktivieren</string>
+    <string name="donate_location_body">Ändern Sie die Geräteeinstellungen, um sich Orte in der Nähe anzeigen zu lassen, an denen Sie mit PayPal zahlen können.</string>
+    <string name="donate_skip">Überspringen</string>
+    <string name="donate_next">Weiter</string>
+    <string name="donate_search_hint">Gemeinnützige Organisation suchen</string>
+    <string name="donate_tab_for_you">Für Sie</string>
+    <string name="donate_tab_popular">Beliebt</string>
+    <string name="donate_see_nearby_charities_subject">Gemeinnützige Organisationen anzeigen</string>
+    <string name="donate_see_nearby_charities_text">Es ist einfach, gemeinnützige Organisationen in Ihrer Umgebung zu unterstützen. Aktivieren Sie einfach die Ortungsdienste, um sich gemeinnützige Organisationen in der Nähe anzeigen zu lassen.</string>
+    <string name="donate_popular_footer_text">Andere gemeinnützige Organisationen bei PayPal Giving Fund suchen</string>
+    <string name="donate_type_featured">Empfohlen</string>
+    <string name="donate_type_all">Alle gemeinnützigen Organisationen</string>
+    <string name="donate_type_nearby">In der Nähe</string>
+    <string name="donate_type_search_results">Suchergebnisse</string>
+    <string name="donate_charity_number">Nummer der gemeinnützigen Organisation: %1$s</string>
+    <string name="donate_ca_cra">CRA-Nummer: %1$s</string>
+    <string name="donate_us_ppgf_disclaimer">PayPal übernimmt alle Transaktionskosten für Spenden auf dieser Website. Damit jede Spende zu 100%% einer gemeinnützigen Organisation zugute kommt. Ihre Spende geht an PayPal Giving Fund, eine beim IRS eingetragene gemeinnützige 501(c)(3)-Organisation (Steuernummer: 45-0931286). PayPal Giving Fund stellt Ihren Spendenbeleg zur Verfügung. Die Spende unterliegt den &lt;a href="%1$s"&gt;Spender-Nutzungsbedingungen&lt;/a&gt;. Wir überprüfen, ob die gemeinnützigen Organisationen über einen Nachweis der Steuerbefreiung beim IRS verfügen und in keiner Liste mit Wirtschaftssanktionen aufgeführt werden. Gemeinnützige Organisationen, die bei PayPal Giving Fund registriert sind, erhalten die Spenden in der Regel innerhalb von 15 bis 45 Tagen nach dem Eingang einer Spende bei PayPal Giving Fund auf ihr PayPal-Konto. Gemeinnützige Organisationen, die nicht bei PayPal Giving Fund registriert sind, werden zusätzlich geprüft. Erfüllen sie alle Voraussetzungen, erhalten sie ihr Geld in der Regel innerhalb von 90 Tagen auf anderem Wege, z.B. per Scheck. PayPal Giving Fund verwaltet alle Spenden auf einem unverzinslichen Konto. Alle Spenden unterliegen dem Ermessen von PayPal Giving Fund. In seltenen Fällen kann Geld umgeleitet werden, wenn eine gemeinnützige Organisation rechtliche oder sonstige Voraussetzungen in der &lt;a href="%2$s"&gt;Zertifizierungsrichtlinie für gemeinnützige Organisationen von PayPal Giving Fund&lt;/a&gt; nicht erfüllt.</string>
+    <string name="donate_gb_ppgf_enrolled_disclaimer">Spenden Sie mit PayPal für wohltätige Zwecke. Ihre Spende geht an PayPal Giving Fund UK, eine eingetragene gemeinnützige Organisation (Nr. 1110538). PayPal Giving Fund sendet Ihnen per E-Mail einen Spendenbeleg mit einen Link zu Gift Aid. Dank der Unterstützung von PayPal gibt PayPal Giving Fund 100%% der auf dieser Seite gesammelten Spenden für wohltätige Zwecke weiter. &lt;br /&gt;&lt;br /&gt;In der Regel erhält die von Ihnen empfohlene gemeinnützige Organisation das Geld 15–45 Tage nach Ihrer Spende. In seltenen Fällen können wir das Geld möglicherweise nicht an die von Ihnen empfohlene gemeinnützige Organisation auszahlen. Wenn dies der Fall ist, empfehlen Sie eine andere gemeinnützige Organisation. Danach kann das Geld ausgezahlt werden. Weitere Informationen finden Sie in der &lt;a href="%1$s"&gt;Richtlinie zur Spendenausschüttung&lt;/a&gt; von PayPal Giving Fund.</string>
+    <string name="donate_gb_ppgf_unenrolled_disclaimer">Spenden Sie mit PayPal für wohltätige Zwecke. Ihre Spende geht an PayPal Giving Fund UK, eine eingetragene gemeinnützige Organisation (Nr. 1110538). PayPal Giving Fund sendet Ihnen per E-Mail einen Spendenbeleg mit einen Link zu Gift Aid. Dank der Unterstützung von PayPal gibt PayPal Giving Fund 100%% der auf dieser Seite gesammelten Spenden für wohltätige Zwecke weiter. &lt;br /&gt;&lt;br /&gt;In der Regel erhält die von Ihnen empfohlene gemeinnützige Organisation das Geld 90 Tage nach Ihrer Spende bzw. 15–45 Tage, wenn sie bei PayPal Giving Fund registriert ist. In seltenen Fällen können wir das Geld möglicherweise nicht an die von Ihnen empfohlene gemeinnützige Organisation auszahlen. Wenn dies der Fall ist, empfehlen Sie eine andere gemeinnützige Organisation. Danach kann das Geld ausgezahlt werden. Weitere Informationen finden Sie in der &lt;a href="%1$s"&gt;Richtlinie zur Spendenausschüttung&lt;/a&gt; von PayPal Giving Fund.</string>
+    <string name="donate_au_ppgf_disclaimer">Ihre Spende geht an PayPal Giving Fund (ABN 65 105 950 945), ein öffentlicher Hilfsfonds und eine bei der Australian Charities and Not-for-profits Commission (ACNC) eingetragene gemeinnützige Organisation. Weitere Informationen finden Sie in &lt;a href="%1$s"&gt;unseren Richtlinien&lt;/a&gt;.</string>
+    <string name="donate_ca_ppgf_disclaimer">PayPal übernimmt alle Transaktionskosten für Spenden auf dieser Website. Damit jede Spende zu 100%% einer gemeinnützigen Organisation zugute kommt. Ihre Spende geht an PayPal Giving Fund Canada, eine bei der Canada Revenue Agency eingetragene gemeinnützige Organisation (CRA-Nummer 081286775RR0001). PayPal Giving Fund Canada stellt Ihren Spendenbeleg zur Verfügung. Die Spende unterliegt den &lt;a href="%1$s"&gt;Spender-Nutzungsbedingungen&lt;/a&gt;. Wir überprüfen, ob die empfangenden gemeinnützigen Organisationen bei der Canada Revenue Agency als solche eingetragenen sind und in keiner Liste mit Wirtschaftssanktionen aufgeführt werden. Gemeinnützige Organisationen, die bei PayPal Giving Fund Canada registriert sind, erhalten die Spenden in der Regel innerhalb von 15 bis 45 Tagen nach dem Eingang einer Spende bei PayPal Giving Fund Canada auf ihr PayPal-Konto. Gemeinnützige Organisationen, die nicht bei PayPal Giving Fund Canada registriert sind, werden zusätzlich geprüft. Erfüllen sie alle Voraussetzungen, erhalten sie ihr Geld in der Regel innerhalb von 90 Tagen auf anderem Wege, z.B. per Scheck. PayPal Giving Fund Canada verwaltet alle Spenden auf einem unverzinslichen Konto. Alle Spenden unterliegen dem Ermessen von PayPal Giving Fund Canada. In seltenen Fällen kann Geld umgeleitet werden, wenn eine gemeinnützige Organisation rechtliche oder sonstige Voraussetzungen in der &lt;a href="%2$s"&gt;Zertifizierungsrichtlinie für gemeinnützige Organisationen&lt;/a&gt; nicht erfüllt.</string>
+    <string name="donate_disclaimer_default">Ihre Spende geht an das auf dieser Seite beschriebene %1$s Unternehmen. Indem Sie auf den Spenden-Button klicken und den Wert Ihrer Spende auswählen, stimmen Sie der beschriebenen Spende an die oben genannte gemeinnützige Organisation zu.</string>
+    <string name="donate_policy_webview_header">PayPal Giving Fund – Richtlinie</string>
+    <string name="donate_charity_website">Website aufrufen</string>
+    <string name="donate_charity_bookmark">Lesezeichen setzen</string>
+    <string name="donate_charity_source">Quelle: %1$s</string>
+    <string name="paypal_giving_fund">Profil von PayPal Giving Fund</string>
+    <string name="charity_commission_public_information">Öffentliche Informationen der Charity Commission</string>
+    <string name="donate_minimum">Mindestbetrag für eine Spende: %1$s</string>
+    <string name="donate_share_user_info_us">Meinen Namen und meine E-Mail-Adresse an diese gemeinnützige Organisation weitergeben.</string>
+    <string name="donate_share_user_info_uk_enrolled">Geben Sie Ihren Namen und Ihre E-Mail-Adresse an diese gemeinnützige Organisation weiter, damit die Spende bestätigt werden kann.</string>
+    <string name="donate_share_user_info_uk_un_enrolled">Geben Sie Ihren Namen und Ihre E-Mail-Adresse an diese gemeinnützige Organisation weiter, wenn sie sich bei PayPal Giving Fund registriert.</string>
+    <string name="donate_share_user_info_au">Meinen Namen und meine E-Mail-Adresse an die gemeinnützige Organisation weitergeben. Wenn Sie dieses Kästchen ankreuzen, kann Ihre empfohlene gemeinnützige Organisation Sie kontaktieren.</string>
+    <string name="donate_share_user_info_ca_enrolled">Meinen Namen, meine E-Mail-Adresse und Spendendetails an meine empfohlene gemeinnützige Organisation weitergeben, damit sie mich kontaktieren kann.</string>
+    <string name="donate_share_user_info_ca_un_enrolled">Meinen Namen, meine E-Mail-Adresse und Spendendetails an meine empfohlene gemeinnützige Organisation weitergeben, damit sie mich kontaktieren kann, wenn sie sich bei PayPal Giving Fund registriert.</string>
+    <string name="donate_description">Spenden mit PayPal Giving Fund für %1$s</string>
+    <string name="donate_description_global">Spende für %1$s</string>
+    <string name="donate_webview_header_default">Spenden mit PayPal Giving Fund</string>
+    <string name="donate_webview_header_global">Spenden mit PayPal</string>
+    <string name="donate_done">Fertig</string>
+    <string name="donate_more">Mehr spenden</string>
+    <string name="donate_success_title">Sie haben %1$s gespendet.</string>
+    <string name="donate_success_title_2">Sie haben %2$s %1$s gespendet.</string>
+    <string name="donate_success_title_3">Vielen Dank für Ihre Spende</string>
+    <string name="donate_success_details">Ihre Spende hilft einer guten Sache, die Ihnen am Herzen liegt.</string>
+    <string name="donate_success_share_this_cause">Jetzt teilen</string>
+    <string name="donate_success_share_title">Spenden mit PayPal Giving Fund</string>
+    <string name="donate_success_share_text">Ich habe %1$s mit einer Spende unterstützt. Ihr könnt auch helfen. Gemeinsam können wir etwas bewirken. %2$s</string>
+    <string name="donate_success_view_activity">Spende in Aktivitäten anzeigen</string>
+    <string name="donate_pending_title">Ihre Spende ist offen</string>
+    <string name="donate_pending_details">Wir sind gesetzlich verpflichtet, diese Zahlung zu überprüfen. Wir teilen Ihnen den Status Ihrer Spende innerhalb von 24–72 Stunden mit.</string>
+    <string name="donate_pending_view_activity">Transaktion in Aktivitäten anzeigen</string>
+    <string name="donate_empty_header">Schauen Sie demnächst noch einmal nach.</string>
+    <string name="donate_empty_text">Wir fügen ständig neue gemeinnützige Organisationen hinzu.</string>
+    <string name="donate_error_message">Bei uns ist ein Fehler aufgetreten. Versuchen Sie es erneut. </string>
+    <string name="donate_alert_dialog_title">Sind Sie sicher\?</string>
+    <string name="donate_alert_dialog_text"> Wollen Sie zurück\? </string>
+    <string name="donate_alert_dialog_invalid_link_title">Der Link ist leider falsch</string>
+    <string name="donate_alert_dialog_invalid_link_text">Sie haben anscheinend einen Link erhalten, der nicht stimmt. Suchen Sie am besten einfach nach der gemeinnützigen Organisation.</string>
+    <string name="donate_try_again">Erneut versuchen</string>
+    <string name="accessibility_donate_webview_leave">Spenden-Website verlassen</string>
+    <string name="accessibility_donate_clear">Löschen</string>
+    <string name="donate_charity_list_error_header">Laden nicht möglich</string>
+    <string name="donate_charity_list_error">Bei uns ist ein Fehler aufgetreten. Versuchen Sie es in Kürze erneut.</string>
+</resources>

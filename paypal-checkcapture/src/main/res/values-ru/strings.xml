@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_capture_info_title">Обналичить чек</string>
+    <string name="check_capture_title">Получение чека</string>
+    <string name="check_capture_info_description">Пополняйте ваш счет PayPal в три простых шага:</string>
+    <string name="check_capture_info_step_one">1. Сначала сфотографируйте подписанный вами чек с обеих сторон.</string>
+    <string name="check_capture_info_step_two">2. Затем введите сумму чека.</string>
+    <string name="check_capture_info_step_three">3. После утверждения аннулируйте чек. Мы переведем средства на баланс вашего счета.</string>
+    <string name="check_capture_info_footer_note">Данная услуга предоставлена First Century Bank, N.A. and Ingo Money, которые являются сторонними поставщиками услуг, действующими независимо от PayPal. PayPal может предоставлять часть ваших данных в распоряжение Ingo и First Century для обработки ваших запросов на обналичивание чеков.</string>
+    <string name="check_capture_info_start_button">Начать работу</string>
+    <string name="check_capture_permission_error">Ошибка разрешения</string>
+    <string name="check_capture_permission_error_go_back">Назад</string>
+    <string name="check_capture_permission_rationale_title">Чтобы обналичить ваши чеки, нам необходим доступ к вашему местоположению, фотокамере и телефонным звонкам.</string>
+    <string name="check_capture_permission_rationale_message">Вам будет предложено предоставить разрешение на следующем экране.</string>
+    <string name="check_capture_permission_rationale_title_change_permission">Вам необходимо изменить разрешения, чтобы разрешить PayPal доступ к фотокамере, местоположению и телефонным звонкам.</string>
+    <string name="check_capture_permission_rationale_action_change_permission">Изменить разрешения</string>
+</resources>

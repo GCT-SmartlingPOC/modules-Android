@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_account_already_exists">Diese E-Mail gehört schon zu einem Konto.</string>
+</resources>

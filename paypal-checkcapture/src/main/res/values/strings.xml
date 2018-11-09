@@ -1,0 +1,29 @@
+<!--
+  ~ Copyright (c) 2017 PayPal, Inc.
+  ~
+  ~ All rights reserved.
+  ~
+  ~ THIS CODE AND INFORMATION ARE PROVIDED 'AS IS' WITHOUT WARRANTY OF ANY
+  ~ KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  ~ IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+  ~ PARTICULAR PURPOSE.
+  -->
+
+<resources>
+
+    <!-- Check capture -->
+    <string name="check_capture_info_title">Cash a Check</string>
+    <string name="check_capture_title">Check Capture</string>
+    <string name="check_capture_info_description">Add money to your PayPal balance in 3 easy steps:</string>
+    <string name="check_capture_info_step_one">1. First, snap a photo of each side of your signed check.</string>
+    <string name="check_capture_info_step_two">2. Next, enter the check amount.</string>
+    <string name="check_capture_info_step_three">3. Once approved, void the check. We\'ll add money to your balance.</string>
+    <string name="check_capture_info_footer_note">This service is provided by First Century Bank, N.A. and Ingo Money, Inc., which are third-party service providers that operate independently from PayPal. PayPal may share some of your profile information with Ingo and First Century to help service your Cash a Check request.</string>
+    <string name="check_capture_info_start_button">Get Started</string>
+    <string name="check_capture_permission_error">Permission Error</string>
+    <string name="check_capture_permission_error_go_back">Back</string>
+    <string name="check_capture_permission_rationale_title">To cash your checks, we\'ll need access to your location, camera, and phone calls.</string>
+    <string name="check_capture_permission_rationale_message">You\'ll be asked to give permission on the next screens.</string>
+    <string name="check_capture_permission_rationale_title_change_permission">You\'ll need to change your permissions to allow PayPal to access your camera, location, and phone calls.</string>
+    <string name="check_capture_permission_rationale_action_change_permission">Change Permissions</string>
+</resources>

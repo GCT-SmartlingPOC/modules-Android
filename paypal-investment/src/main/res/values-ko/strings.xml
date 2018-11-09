@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_balance">PayPal 잔액</string>
+    <string name="invest_details_title">Acorns 계정 금액</string>
+    <string name="invest_details_contributed">내 투자금: </string>
+    <string name="invest_details_net_gain_loss">총 이득/손실: </string>
+    <string name="invest_details_data_provided_by">Acorns에서 제공하는 데이터</string>
+    <string name="invest_details_auto_transfers_on">반복 이체 켜짐</string>
+    <string name="invest_details_auto_transfers_off">반복 이체 꺼짐</string>
+    <string name="invest_details_auto_transfers_onhold">반복 이체 중지됨</string>
+    <string name="invest_details_transfer_button_transfer_text">금액 이체</string>
+    <string name="invest_details_transfer_button_invest_text">금액 이체</string>
+    <string name="invest_details_manage_button_text">Acorns 관리</string>
+    <string name="invest_details_activity_transfer_type_manual">일회성 이체</string>
+    <string name="invest_details_activity_transfer_type_auto">반복 이체</string>
+    <string name="invest_details_activity_transfer_type_withdrawal">인출</string>
+    <string name="invest_details_activity_transfer_subtype_paused">일시 중지됨</string>
+    <string name="invest_details_activity_transfer_subtype_failed">실패</string>
+    <string name="invest_details_errors_toolbar_title">Acorns로 투자하기</string>
+    <string name="invest_details_errors_disconnected_header">Acorns와 PayPal 계정이 연결되지 않았습니다.</string>
+    <string name="invest_details_errors_disconnected_sub_header">PayPal 계정과 Acorns를 함께 이용하려면\n계정을 연결해야 합니다.</string>
+    <string name="invest_details_errors_disconnected_action_text">지금 연결</string>
+    <string name="invest_details_errors_paused_header">투자금이 보류 중입니다.</string>
+    <string name="invest_details_errors_paused_sub_header">고객님이 투자금을 보류했거나, 이체에 실패하여 Acorns가 투자금을 보류했을 수도 있습니다. 투자를 다시 시작하는 방법을 알아보려면 Acorns 계정에 로그인하세요.</string>
+    <string name="invest_details_errors_paused_action_text">Acorns로 이동</string>
+    <string name="invest_details_errors_denied_header">Acorns 계정을 생성할 수 없습니다.</string>
+    <string name="invest_details_errors_denied_sub_header">자세한 내용은 Acorns에 직접 문의하세요.</string>
+    <string name="invest_details_errors_denied_action_text">Acorns에 문의</string>
+    <string name="invest_details_errors_verify_header">이 계좌 확인</string>
+    <string name="invest_details_errors_verify_sub_header">Acorns는 고객님의 계정을 인증하기 위해\n추가 정보가 필요합니다.</string>
+    <string name="invest_details_errors_verify_action_text">Acorns 인증하기</string>
+    <string name="invest_details_errors_no_data_header">Acorns에서 데이터를 검색할 수 없습니다.</string>
+    <string name="invest_details_errors_no_data_sub_header">몇 분 후에 다시 확인하세요</string>
+    <string name="invest_details_errors_no_data_action_text">새로 고침</string>
+    <string name="invest_details_errors_connection_issue_header">죄송합니다.</string>
+    <string name="invest_details_errors_connection_issue_sub_header">해당 정보를 표시하는 중 문제가 발생했습니다. 잠시 후에 다시 시도해 주세요.</string>
+    <string name="invest_details_errors_connection_issue_action_text">다시 시도</string>
+    <string name="invest_details_no_activity_title">아직 금액을 추가하지 않았습니다.</string>
+    <string name="invest_details_no_activity_subtitle">Acorns 투자를 시작하려면 PayPal에서 금액을 이체 합니다.</string>
+    <string name="invest_details_no_pp_funding_title">PayPal로 자금을 투자하세요.</string>
+    <string name="invest_details_no_pp_funding_subtitle">PayPal을 이용해 Acorns 계정으로 투자하세요. 더 빠르게 금액을 이체하고 PayPal 계정에서 Acorns 계정 정보를 바로 볼 수 있습니다.</string>
+    <string name="invest_details_change_funding">PayPal로 투자하기</string>
+    <string name="invest_details_pending_subtitle">보안을 위해 Acorns가 고객님의 계정을 확인하고 48시간 이내에 확인 이메일을 보내 드립니다.</string>
+    <string name="invest_details_pending_special_portfolio_button_text">내 포트폴리오에 대해 알아보기</string>
+    <string name="invest_details_pending_special_faq_button_text">Acorns 자주 묻는 질문(FAQ) 확인하기</string>
+    <string name="invest_details_pending_title">눈 깜짝할 사이에 투자자가 될 수 있습니다!</string>
+    <string name="invest_details_menu_edit_account">계정 설정 편집</string>
+    <string name="invest_details_loading_toolbar_title">Acorns로 투자하기</string>
+    <string name="invest_intro_bottom_button_text">이용 방법 알아보기</string>
+    <string name="invest_intro_title">Acorns로 쉽게 투자하기</string>
+    <string name="invest_intro_text">5달러와 단 몇 분이면 Acorns에 투자 계정을 설정할 수 있습니다. PayPal에 연결하면 PayPal에서 바로 투자하고 모니터링할 수 있습니다.&lt;br /&gt;&lt;br /&gt;Acorns 계정이 이미 있으신가요\? &lt;u&gt;&lt;a href="#"&gt;로그인&lt;/a&gt;&lt;/u&gt;</string>
+    <string name="invest_intro_learn_more_text">사용법을 확인해 보세요.</string>
+    <string name="invest_details_activity_header_pending">대기 중</string>
+    <string name="invest_details_activity_header_upcoming">예약됨</string>
+    <string name="invest_details_activity_header_completed">완료됨</string>
+</resources>

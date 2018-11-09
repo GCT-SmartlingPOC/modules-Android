@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- PPCash -->
+    <string name="ppcash_store_info_title_description">A %1$s fee will apply when you add cash at a store.</string>
+    <string name="ppcash_store_info_address_text">%1$s • %2$s &lt;br/&gt;</string>
+    <string name="ppcash_store_info_barcode_expiry">Your mobile barcode will expire in %1$s hour.</string>
+    <string name="ppcash_store_info_code_expiry">Your mobile code will expire in %1$s hour.</string>
+    <string name="ppcash_store_info_barcode_expiry_more">Your mobile barcode will expire in %1$s hours.</string>
+    <string name="ppcash_store_info_code_expiry_more">Your mobile code will expire in %1$s hours.</string>
+    <string name="ppcash_store_info_amount_to_add">You can add from %1$s up to %2$s to your PayPal account for this transaction. <![CDATA[<a href="#">Learn more</a>]]></string>
+    <string name="ppcash_store_info_time_info"><![CDATA[<b>The money will be added to your PayPal account in just %1$s minutes.</b>]]></string>
+    <string name="ppcash_store_info_limit_info"><![CDATA[<a href="#"><b>Daily limit: %1$s | Monthly limit: %2$s</b></a>]]></string>
+    <string name="ppcash_store_info_service_unavailable"><![CDATA[<b>Service temporarily unavailable at all Florida locations</b>]]></string>
+    <string name="ppcash_store_info_instruction_text">Take your code to Walmart MoneyCenter or Customer Service desk (not the cashier).</string>
+    <string name="ppcash_store_info_generate_barcode">Generate Barcode</string>
+    <string name="ppcash_store_info_generate_code">Generate Code</string>
+    <string name="ppcash_store_info_map_view_fee">%1$s fee</string>
+    <string name="ppcash_store_info_map_view">Map</string>
+    <string name="ppcash_store_info_error_title">Sorry about that</string>
+    <string name="ppcash_store_info_error_content">We\'re having trouble showing you that info right now. Try again in a minute or two.</string>
+    <string name="ppcash_about">About PayPal Cash</string>
+    <string name="ppcash_store_list_content_eligible">Choose a store below to create a barcode. You won\'t pay the fee until you add money at a store.</string>
+    <string name="ppcash_store_list_last_visited">Last visited store</string>
+    <string name="ppcash_store_list_service_fee">%1$s fee</string>
+    <string name="ppcash_store_list_service_fee_range">%1$s to %2$s fee</string>
+    <string name="ppcash_cip_dialog_title">We need a little more information</string>
+    <string name="ppcash_cip_dialog_body">Once you provide this, you can start adding cash to your PayPal balance at local stores for only %1$s.</string>
+    <string name="ppcash_cip_negative_button_title">I\'ll do it later</string>
+    <string name="ppcash_cip_positive_button_title">Continue</string>
+
+    <!-- PayPal Cash Barcode -->
+    <string name="ppcash_barcode_expiry_advise">Barcode expires %1$s at %2$s</string>
+    <string name="ppcash_code_expiry_advise">Code expires %1$s at %2$s</string>
+    <string name="ppcash_barcode_page_title">CASHIER INSTRUCTIONS</string>
+    <string name="ppcash_barcode_partner_title">Protect yourself from fraud.</string>
+    <string name="ppcash_barcode_partner_text">Only use this barcode to add money to your own PayPal account. If you receive this barcode from someone else, it\'s a scam.</string>
+    <string name="ppcash_code_partner_text">Only use this code to add money to your own PayPal account. If you receive this code from someone else, it\'s a scam.</string>
+    <string name="ppcash_barcode_ppcash_faq_link_text">How does PayPal Cash work</string>
+    <string name="ppcash_barcode_page_indicator_text_1">Swipe to learn more</string>
+    <string name="ppcash_barcode_page_indicator_text_2">Swipe to go back</string>
+    <string name="ppcash_manual_code_step_1_title">1. Enter the Code</string>
+    <string name="ppcash_manual_code_step_1_body">Enter the code displayed below</string>
+
+    <!-- PayPal Cash Map View -->
+    <string name="ppcash_map_show_store_list">See stores</string>
+    <string name="ppcash_map_select_store">Select Store</string>
+    <string name="ppcash_map_switch_to_list">List</string>
+
+    <!-- Add Cash-->
+    <string name="add_cash_title">Add cash at a store</string>
+    <string name="add_cash_label">Add cash to PayPal</string>
+    <string name="add_cash_content">Bring your cash to a participating store and show the cashier your barcode.  The money will be added to your PayPal balance in just 15 minutes.</string>
+
+</resources>

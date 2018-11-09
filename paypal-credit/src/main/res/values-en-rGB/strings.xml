@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ebay_card_title">eBay Mastercard</string>
+    <string name="past_payment_due">Your payment is overdue</string>
+    <string name="auto_pay">Direct Debit payments scheduled</string>
+    <string name="home_past_due">Overdue</string>
+    <string name="home_auto_pay">DIRECT DEBIT PAYMENT SCHEDULED</string>
+    <string name="credit_make_payment_no_bank_dialog_message">We\'ll take you to paypal.co.uk so you can pay. To make a payment using our app, add a bank account.</string>
+    <string name="credit_make_payment_no_bank_dialog_message_uk">We\'ll take you to paypal.co.uk so you can pay. To make a payment in our app, add a bank account or card.</string>
+    <string name="choose_what_to_pay">Choose how much to pay each month.</string>
+    <string name="youre_paying_message">Same-day payments made by 11:59 pm Pacific Time will show in your account with today\'s date. They cannot be changed or cancelled after 2:00 pm Pacific Time.</string>
+    <string name="credit_due_date">%s (Due date)</string>
+    <string name="credit_pay_confirmation_message">By selecting Pay, I authorise this scheduled payment in accordance with the &lt;a href="%1$s"&gt;PayPal User Agreement&lt;/a&gt;.</string>
+    <string name="credit_success_message">We\'ll update your account as soon as this payment has been processed.</string>
+    <string name="credit_enter_amount_amount_exceeded">Amount can\'t exceed your current PayPal balance.</string>
+    <string name="credit_choose_payment_method_error">Choose a funding source</string>
+    <string name="credit_paypal_balance_not_enough_error">Your PayPal balance won\'t cover this amount</string>
+    <string name="credit_paid_in_full_message">Good news. You\'ve already paid your balance in full.</string>
+    <string name="credit_auto_pay_title">Set up Direct Debit</string>
+    <string name="credit_auto_pay_description">Tell us how you\'d like to set up your Direct Debits.</string>
+    <string name="credit_auto_pay_description_uk">Tell us how you\'d like to set up your Direct Debit payments.</string>
+    <string name="credit_auto_pay_done">Congratulations!\ndirect debits have been set up. </string>
+    <string name="credit_auto_pay_done_uk">Congratulations!\nDirect Debit is all set up.</string>
+    <string name="credit_auto_pay_success_message_uk">Your payments will start on the date they are due.\n\nEach month, we\'ll withdraw the %1$s from %2$s.\n\nWe\'ll send you an email in advance with the exact amount we plan to withdraw.</string>
+    <string name="credit_auto_pay_success_message_other_amount_uk">Your payments will start on the date they are due.\n\nEach month, we\'ll withdraw %1$s from %2$s.\n\nWe\'ll send you an email in advance with the exact amount we plan to withdraw.</string>
+    <string name="credit_auto_pay_success_message_noncycled_uk">Your payments will appear on your next statement.\n\nEach month, we\'ll withdraw the %1$s from %2$s.\n\nWe\'ll send you an email in advance with the exact amount we plan to withdraw.</string>
+    <string name="credit_auto_pay_success_message_noncycled_other_amount_uk">Your payments will appear on your next statement.\n\nEach month, we\'ll withdraw %1$s from %2$s.\n\nWe\'ll send you an email in advance with the exact amount we plan to withdraw.</string>
+    <string name="credit_auto_pay_confirmation_message">By clicking Agree and Schedule, I authorise the automatic payments in accordance with the &lt;a href="%1$s"&gt;User Agreement&lt;/a&gt;.</string>
+    <string name="credit_auto_pay_confirmation_message_uk">By selecting Agree and Schedule Direct Debit, I authorise Direct Debit payments in accordance with the &lt;a href="%1$s"&gt;User Agreement&lt;/a&gt;.</string>
+    <string name="credit_auto_pay_everything">Does everything look OK\?</string>
+    <string name="credit_posting_date">Scheduled payment date</string>
+    <string name="credit_auto_pay_no_bank_dialog_title">Set up Direct Debits on our website.</string>
+    <string name="credit_auto_pay_no_bank_dialog_message">We\'ll take you to paypal.com so you can set up Direct Debits. You may need to log in again.</string>
+    <string name="credit_auto_pay_no_bank_dialog_title_uk">Set Up Direct Debit</string>
+    <string name="credit_auto_pay_no_bank_dialog_message_uk">We\'ll take you to paypal.co/uk so you can set up Direct Debits. You may need to log in again.</string>
+    <string name="credit_due_date_message">Payments will recur on the date they are due.</string>
+    <string name="credit_monthly_amount_uk_content_review_screen">We\'ll never withdraw more than your last statement balance or less than the minimum payment due.</string>
+    <string name="credit_messaging_card_title">Are you unable to see your cards\?</string>
+    <string name="credit_messaging_card_description">You can only use a confirmed bank account to make automatic payments.</string>
+    <string name="credit_not_now">Not Now</string>
+    <string name="credit_try_again">Try again</string>
+    <string name="credit_manage_credit_subtitle">Get all the advantages of %s with helpful features like setting your preferred funding source.</string>
+    <string name="credit_paypal_credit_preferred_desc">We\'ll use %s when you shop online or send money for goods or services.</string>
+    <string name="credit_paypal_credit_preferred_desc_uk">We\'ll use %s when you shop online.</string>
+    <string name="credit_choice_settings_legal_message">&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;Setting PayPal Credit as your preferred way to pay online helps you check out even faster.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;When PayPal Credit is set as your preferred way to pay, we\'ll use it automatically every time you check out. You can always choose a different way to pay any time at checkout.&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;PayPal Credit can\'t currently be used for Send Money transactions.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;For more information, please read our &lt;b&gt;&lt;a href="%1$s"&gt;User Agreement&lt;/a&gt;&lt;/b&gt;.</string>
+    <string name="credit_choice_settings_legal_message_uk">Setting PayPal Credit as your preferred way to pay online helps you check out even faster.&lt;br /&gt;&lt;br /&gt;         When PayPal Credit is set as your preferred way to pay, we\'ll use it automatically every time you check out. You can always choose a different way to pay any time at checkout.&lt;br /&gt;&lt;br /&gt;         PayPal Credit can\'t currently be used for Send Money transactions.&lt;br /&gt;&lt;br /&gt;         For more information, please read our &lt;a href="%1$s"&gt;User Agreement&lt;/a&gt;.</string>
+    <string name="credit_no_worries">No more worries – pay on time</string>
+    <string name="credit_edit_autopay_message">To edit Direct Debits, log in to our website and go to Manage Payments.</string>
+    <string name="credit_auto_pay_scheduled_title">Direct Debits have been scheduled</string>
+    <string name="credit_auto_pay_scheduled_title_uk">Direct Debit has been scheduled</string>
+    <string name="credit_auto_pay_scheduled_cycled_title">Direct Debits have been scheduled for %s</string>
+    <string name="credit_auto_pay_scheduled_subtitle">You\'ll pay the %s.  Edit</string>
+    <string name="credit_auto_pay_scheduled_other_amount_subtitle">You\'ll pay %s. Edit</string>
+    <string name="credit_auto_pay_edit_dialog_title">Edit Direct Debit on our website</string>
+    <string name="credit_auto_pay_edit_dialog_subtitle">After you log in, go to Manage Payments to edit Direct Debits.</string>
+    <string name="credit_date_template">DD/MM/YYYY</string>
+    <string name="credit_auto_pay">DIRECT DEBITS</string>
+    <string name="credit_auto_pay_payment_due_dialog_message">Direct Debits are all set up!\n\nJust remember that your %s payment will not be automatic.</string>
+    <string name="credit_auto_pay_payment_due_dialog_message_uk">Direct Debit will start after your next due date.\n\nYou\'ll need to make a single payment to cover the amount due on %s.</string>
+    <string name="credit_auto_pay_payment_due_title">Direct Debits will start being paid monthly on %s.</string>
+    <string name="credit_line_text">CREDIT LIMIT %s</string>
+    <string name="credit_auto_pay_scheduled">DIRECT DEBIT SCHEDULED</string>
+    <string name="credit_paypal_later_message">We\'re taking you to\nyour plan details</string>
+    <string name="credit_fullscreen_error_title">We\'re sorry,</string>
+    <string name="credit_paypal_later_error_message">we can\'t display your plan(s) right now. Please check again later.</string>
+    <string name="credit_syf_transfer_error_message">We\'re sorry, we\'re having trouble processing this request right now. Please try again in a few minutes.</string>
+    <string name="credit_server_error_title">We\'re sorry,</string>
+    <string name="credit_server_error_message">something seems to have gone wrong. Please try again.</string>
+    <string name="credit_server_error_full_message">We\'re sorry, something seems to have gone wrong. Please try again.</string>
+    <string name="credit_webview_app_experience_signup_prompt_title">Are you sure you want to exit your application for PayPal Credit\?</string>
+    <string name="credit_webview_app_experience_signup_prompt_body">The information you\'ve entered won\'t be saved if you exit.</string>
+    <string name="credit_annual_income">Annual income after taxes</string>
+    <string name="credit_sri_main_subheader">Provide your current income to make sure you don\'t miss out on possible credit limit increases.</string>
+    <string name="credit_sri_disclaimer">You don\'t need to include maintenance, child support or separate maintenance income unless relied upon for credit. You may include the amount that you have available each year to spend from your assets.</string>
+    <string name="credit_sri_info_icon_description">credit self-reported income information</string>
+    <string name="credit_sri_review_income">Review your current income to make sure it\'s accurate.</string>
+    <string name="credit_save_income">Save income</string>
+    <string name="credit_sri_dialog_message">We review your credit limit and income periodically to see if you\'re eligible for a credit limit increase.&lt;br /&gt;&lt;br /&gt; If you\'re checking out with PayPal Credit and don\'t have enough available credit to cover your purchase, we may evaluate your account for a credit limit increase. This process happens seamlessly during checkout and doesn\'t slow down the checkout process.</string>
+    <string name="credit_sri_success_message">You\'ve updated your annual income after taxes.</string>
+</resources>

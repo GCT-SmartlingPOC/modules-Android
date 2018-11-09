@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ppcard_details_automatic_topup">Automatic top-up</string>
+    <string name="ppcard_details_report_lost_card">Report your card as lost or stolen</string>
+    <string name="ppcard_details_card_reissue_requested">We\'re reissuing your card \nending in ••••%1$s.</string>
+    <string name="ppcard_details_card_reissue_shipped">Your replacement card is \nscheduled to arrive by %1$s.</string>
+    <string name="ppcard_details_card_reissue_not_receive">Haven\'t received your card\?</string>
+    <string name="ppcard_card_error_message">We\'re sorry, please try again later</string>
+    <string name="ppcard_set_pin_done_title">You\'ve created a PIN</string>
+    <string name="ppcard_card_lost_damage_title">Lost, stolen or damaged card</string>
+    <string name="ppcard_card_replace_title">Get Your Card</string>
+    <string name="gcm_liftoff_card_activation">It\'s been %1$s days since your card was sent to you by post. Activate it now.</string>
+    <string name="gcm_liftoff_action_label_not_receive_card">I didn\'t receive my card</string>
+    <string name="gcm_liftoff_remote_input_label_default">Enter input</string>
+    <string name="gcm_liftoff_remote_input_label_expiry_date">Expiry date (MM/YY)</string>
+    <string name="gcm_liftoff_card_returned">Your PayPal Cash Card has been returned to us. Please confirm your address so we can send you your card again.</string>
+    <string name="gcm_liftoff_card_returned_second_attempt">Your PayPal Cash Card has been returned to us for the second time. Call Customer Service on %1$s so we can send you your card.</string>
+    <string name="emv_progressBar_protip">Pro Tip: Once your card has been saved, use it to make purchases in shops.</string>
+    <string name="emv_customer_service_instruction">If you haven\'t received your card, call Customer Service on %1$s.</string>
+    <string name="emv_card_detected_dialog_content">We\'ve detected your card. We\'re now ready to activate your card.</string>
+</resources>

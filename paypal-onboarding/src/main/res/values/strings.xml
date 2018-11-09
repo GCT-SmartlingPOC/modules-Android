@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Onboarding -->
+    <string name="onboarding_select_country">Choose country or region</string>
+    <string name="onboarding_select_country_search">Search</string>
+    <string name="onboarding_select_country_web">Don\'t see your country? Sign up on <![CDATA[<a href="%1$s">PayPal.com</a>]]></string>
+    <string name="onboarding_setup_account">Let\'s get started</string>
+    <string name="onboarding_welcome">Hello</string>
+    <string name="onboarding_welcome_name">Hello %1$s</string>
+    <string name="onboarding_show_password">Show</string>
+    <string name="onboarding_hide_password">Hide</string>
+    <string name="onboarding_account_exists_log_in">Log in</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_create_account">Agree &amp; Create Account</string>
+    <string name="onboarding_agree_and_continue">Agree &amp; Continue</string>
+    <string name="onboarding_web_to_native_login_failure">Please log in to access your new account.</string>
+
+    <string name="onboarding_welcome_note">Welcome back</string>
+    <string name="onboarding_swipe_to_see">Swipe to see what\'s new</string>
+
+    <!-- The dialog message for agreeing to T&C is applicable only for US account. -->
+    <string name="onboarding_agree_and_create_account">I have read and agree to PayPal\'s <![CDATA[<a href="%1$s">User Agreement</a>]]> &amp; <![CDATA[<a href="%2$s">Privacy Policy</a>]]>.</string>
+    <string name="onboarding_agree">Agree</string>
+    <string name="onboarding_account_already_exists">This email already exists with PayPal.</string>
+    <string name="onboarding_create_account_success_label">Super! Next, let\'s set up your new account</string>
+    <string name="onboarding_create_account_success_prompt">You can <![CDATA[<a href="%1$s">manage your communication preferences settings</a>]]> from your profile</string>
+    <string name="onboarding_create_account_success_get_started">Get Started</string>
+    <string name="onboarding_activation_tile_error_title">Let\'s try again</string>
+    <string name="onboarding_activation_tile_error_prompt">Looks like something went wrong on our end. Please try again in a minute or two.</string>
+    <string name="onboarding_activation_tile_error_button_text">Try Again</string>
+    <string name="onboarding_offer_interstitial_title">Shop with confidence worldwide</string>
+    <string name="onboarding_offer_interstitial_subtitle">Earn cashback rewards when you pay with PayPal. *<![CDATA[<u><a href="%1$s">T&C Apply</a></u>]]></string>
+    <string name="onboarding_activation_add_card_title">Link your debit or credit card</string>
+    <string name="onboarding_activation_add_card_prompt">It\'s the fastest way to get set up to shop and send money. We keep your card info secure.</string>
+    <string name="onboarding_activation_add_card_mandatory_prompt">Buy from anywhere in the world with confidence after you link a payment card to PayPal.</string>
+    <string name="onboarding_activation_add_card_yes">Link Card</string>
+    <string name="onboarding_activation_add_card_success_title">You\'re ready! Let\'s get you going with your new account.</string>
+    <string name="onboarding_activation_add_card_success_prompt">Now that your card is linked, no need to fill in your details again.</string>
+    <string name="onboarding_activation_add_card_success_yes">Get Started</string>
+    <string name="onboarding_activation_add_card_success_send_money">You\'re ready to send money. Start by typing in your friend\'s name or email address.</string>
+    <string name="onboarding_activation_add_card_success_request_money">You\'re ready to request money. Start by typing in your friend\'s name or email address.</string>
+    <string name="onboarding_activation_add_card_success_order_ahead">You\'re ready to order ahead. Just pick your favorite place.</string>
+    <string name="onboarding_activation_add_card_success_toast">You linked your card. Use it to shop or send money to friends.</string>
+    <string name="onboarding_activation_add_bank_title">Banks and Cards</string>
+    <string name="onboarding_activation_add_bank_yes">Link Bank</string>
+    <string name="onboarding_activation_add_bank_prompt">Link your favorite banks, debit, and credit cards so you can shop, pay, and send money to friends while you\'re on the go.</string>
+    <string name="onboarding_activation_add_bank_prompt2">We keep your financial details private so no one sees your sensitive info.</string>
+    <string name="onboarding_activation_user_intent_not_available_title">How about something else?</string>
+    <string name="onboarding_activation_user_intent_not_available_prompt">%1$s isn\'t available in your country just yet. But you can still take a look around and try some of our other popular features.</string>
+    <string name="onboarding_activation_no">Not Now</string>
+    <string name="onboarding_activation_no_intent_based">Not now</string>
+    <string name="onboarding_intent_tile_title">Try some of the most popular ways to use PayPal</string>
+    <string name="onboarding_intent_skip">Skip for now</string>
+    <string name="onboarding_activation_tiles_title">%1$s, what\'s next?</string>
+    <string name="onboarding_activation_tiles_sub_title">Here\'s what most people do first.</string>
+    <string name="onboarding_activation_tiles_home">Explore the App</string>
+    <string name="onboarding_activation_tile_item_send_money_title">Send money</string>
+    <string name="onboarding_activation_tile_item_send_money_sub_title">Pay back a friend. It\'s fast and secure.</string>
+    <string name="onboarding_activation_tile_item_request_money_title">Request money</string>
+    <string name="onboarding_activation_tile_item_request_money_sub_title">Getting paid back is simple.</string>
+    <string name="onboarding_activation_tile_item_order_ahead_title">Order ahead</string>
+    <string name="onboarding_activation_tile_item_order_ahead_sub_title">Skip the line when you get there.</string>
+    <string name="onboarding_activation_tile_item_paypal_me_title">Get your personal link to get paid</string>
+    <string name="onboarding_activation_tile_item_paypal_me_sub_title">www.paypal.me/[your name]</string>
+    <string name="onboarding_search_no_results_found">No results found</string>
+    <string name="onboarding_address_lookup_title">Find your address</string>
+    <string name="onboarding_address_lookup_hint">Type in your postcode</string>
+    <string name="onboarding_address_lookup_prompt">Enter your postcode to look up your address. Include a house number or name to narrow the results.</string>
+    <string name="onboarding_address_lookup_no_result">Sorry, no address found</string>
+    <string name="onboarding_address_lookup_enter_address_manually">Enter your address manually</string>
+    <string name="onboarding_address_autocomplete_title">Look up address</string>
+    <string name="onboarding_address_autocomplete_hint">Start typing your address</string>
+    <string name="onboarding_address_autocomplete_prompt">Look up your address to save time. Or fill out the form yourself.</string>
+    <string name="onboarding_address_autocomplete_no_suggestions_available">Sorry, we couldn\'t find a match. Please fill out the form instead.</string>
+    <string name="onboarding_address_autocomplete_validation_error">Sorry, we can\'t verify this info. Try again here or fill out the form.</string>
+    <string name="onboarding_address_autocomplete_enter_full_address">Go Back to Form</string>
+
+    <!-- Onboarding Android M permission strings-->
+    <string name="onboarding_marshmallow_alertdialog_title">Can we help?</string>
+    <string name="onboarding_marshmallow_alertdialog_body">Allow us to access your contact info so we can fill it out for you.</string>
+    <string name="onboarding_marshmallow_alertdialog_btn_cancel">Not Now</string>
+    <string name="onboarding_marshmallow_alertdialog_btn_ok">Allow</string>
+    <string name="onboarding_web_signup_info_header">Sign up on our website</string>
+    <string name="onboarding_web_signup_info_text">We’re adding features to your country’s PayPal app as fast as we can. For now, go to our website to create your account.</string>
+    <string name="onboarding_phone_confirmation_rationale">For your security, let\'s confirm your mobile number. By continuing, you confirm that you\'re authorized to use this phone number and agree to receive a text.\nCarrier fees may apply.</string>
+
+    <!-- Carrier Assisted Onboarding -->
+    <string name="cao_enter_phone_number">Enter your mobile phone</string>
+    <string name="cao_data_rates_consent">By continuing, you confirm that you are authorized to use this phone number and agree to receive an SMS text. Carrier fees may apply.</string>
+    <string name="cao_enter_zip_code">Enter your Billing ZIP</string>
+    <string name="cao_customerinfo_consent">By continuing, you authorize %1$s to disclose the following to PayPal for a faster signup: your name, address, and billing information, if available.</string>
+    <string name="cao_no_thanks">No Thanks</string>
+    <string name="cao_send">Send</string>
+    <string name="cao_next">Next</string>
+    <string name="cao_permission_dialogue_title">Sign up faster by autofilling from your mobile provider</string>
+    <string name="cao_permission_dialogue_message">Just enter your mobile number and billing ZIP code. We\'ll send a confirmation code, and then autofill the rest for you.</string>
+    <string name="cao_permission_dialogue_autofill">Autofill</string>
+    <string name="cao_permission_dialogue_skip">Skip</string>
+    <string name="cao_main_title">Autofill Signup</string>
+    <string name="cao_phone_number_title">Enter your number</string>
+    <string name="cao_zip_code_title">Enter your ZIP</string>
+    <string name="cao_signup_title">Review and create a password</string>
+    <string name="cao_invalid_phone_number">Not a valid phone number, please try again!</string>
+    <string name="cao_createprofile_error">We weren\'t able to send a confirmation code to this mobile number. Check the number and try again.</string>
+    <string name="cao_invalid_zip">Check your Billing ZIP code and try again.</string>
+
+    <!-- First Time Use Page -->
+    <string name="first_time_use_title_uno">The simple and secure way to send, spend, and manage your money.</string>
+    <string name="first_time_use_title_dos">Send money fast to anyone in 100+ countries.</string>
+    <string name="first_time_use_content_dos">All you need is their email address or mobile number to send or request money.</string>
+    <string name="first_time_use_title_tres">Spend securely on millions of sites and apps.</string>
+    <string name="first_time_use_content_tres">Skip entering your bank or card info at checkout and know all your eligible purchases are protected by PayPal.</string>
+    <string name="first_time_use_title_cuatro">And simply manage it all in one place.</string>
+    <string name="first_time_use_content_cuatro">Send, spend, and receive using all your favorite cards and banks. Now keep track with just one account.</string>
+    <string name="first_time_use_sign_in">Log In</string>
+    <string name="first_time_use_sign_up">Sign Up</string>
+    <string name="first_time_use_swipe_to_learn_how">Swipe to learn how</string>
+    <string name="accessibility_help_first_time_use_two_finger_swipe">Use two-finger swipe for more info about the new PayPal app</string>
+
+    <!-- Accessibility String -->
+    <string name="accessibility_first_time_pager" formatted="false">Screen %1$s of %2$s</string>
+
+    <!-- Onboarding Address Search Page -->
+    <string name="onboarding_address_search_no_address_found">I don\'t see my address</string>
+
+    <!-- Option Selection -->
+    <string name="onboarding_option_selection_search">Search</string>
+
+    <!-- Onboarding Enter Card String -->
+    <string name="onboarding_enter_card_header">Link a card to your new account</string>
+    <string name="onboarding_enter_card_subheader">When friends send you money, a debit card is the quickest way to transfer money to your bank.</string>
+    <string name="onboarding_enter_card_skip">Skip</string>
+
+    <!-- New Onboarding Account Activation Tile -->
+    <string name="onboarding_account_activation_tile_title">Ready, set, go with PayPal!</string>
+    <string name="onboarding_explore_account">Explore your account</string>
+    <string name="onboarding_activation_tile_send_money_tile_title">Send money</string>
+    <string name="onboarding_activation_tile_request_money_tile_title">Request money</string>
+    <string name="onboarding_activation_tile_paypal_me_title">Get paid fast with a link</string>
+    <string name="onboarding_activation_tile_cash_card">Get a PayPal debit card</string>
+
+    <!-- Onboarding Address Detail String -->
+    <string name="onboarding_normalize_address_failure">We can\'t prefill this address. Please fill out the form instead.</string>
+
+    <!-- New Onboarding Success Page -->
+    <string name="onboarding_setting_account">Setting up your account</string>
+
+</resources>

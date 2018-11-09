@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_capture_info_title">Einen Scheck einlösen</string>
+    <string name="check_capture_title">Scheck einreichen</string>
+    <string name="check_capture_info_description">Zahlen Sie in drei einfachen Schritten Geld auf Ihr PayPal-Konto ein:</string>
+    <string name="check_capture_info_step_one">1. Machen Sie zunächst ein Foto von der Vorder- und Rückseite Ihres unterzeichneten Schecks.</string>
+    <string name="check_capture_info_step_two">2. Geben Sie dann den Scheckbetrag ein.</string>
+    <string name="check_capture_info_step_three">3. Sobald Sie zugestimmt haben, sollten Sie den Scheck entwerten. Wir zahlen Geld auf Ihr Konto ein.</string>
+    <string name="check_capture_info_footer_note">Dieser Service wird Ihnen von First Century Bank, N.A. und Ingo Money, Inc. zur Verfügung gestellt. Hierbei handelt es sich um Drittanbieter, die unabhängig von PayPal agieren. PayPal wird gegebenenfalls Daten aus Ihrem Profil an Ingo und First Century weitergeben, damit Ihr Scheck eingelöst werden kann.</string>
+    <string name="check_capture_info_start_button">Los geht\'s</string>
+    <string name="check_capture_permission_error">Genehmigungsfehler</string>
+    <string name="check_capture_permission_error_go_back">Zurück</string>
+    <string name="check_capture_permission_rationale_title">Um Ihre Schecks einzulösen, benötigen wir Zugriff auf Ihren Standort, Ihre Kamera und Ihre Anrufliste.</string>
+    <string name="check_capture_permission_rationale_message">Sie werden auf den nächsten Seiten um Ihre Zustimmung gebeten.</string>
+    <string name="check_capture_permission_rationale_title_change_permission">Sie müssen Ihre Berechtigungen so einstellen, dass PayPal auf Ihre Kamera, Ihren Standort und Ihre Telefongespräche zugreifen kann.</string>
+    <string name="check_capture_permission_rationale_action_change_permission">Berechtigungseinstellungen ändern</string>
+</resources>

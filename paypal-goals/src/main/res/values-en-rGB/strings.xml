@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_moneybox_info_title">Organise your money with Goals</string>
+    <string name="goals_subtitle">Set a financial goal – a holiday, a new TV or a rainy day fund – and let us help you reach it.</string>
+    <string name="create_moneybox_info_description">Choose your goals – emergency cash, bills or fun – and put money aside so you have it when you need it. To spend it, simply move it to your balance.</string>
+    <string name="goals_add_money_goal">Add money to Goal</string>
+    <string name="goals_transfer_to_goal">Transfer to Goal</string>
+    <string name="goals_one_time_transfer">One-off transfer</string>
+    <string name="goals_failed_one_time_transfer">Failed one-off transfer</string>
+    <string name="goals_transfer_money_text">Transfer money</string>
+    <string name="goals_transfer_set_up_link">Set up</string>
+    <string name="goals_automatic_transfer_status_off">Automatic transfers are off</string>
+    <string name="goals_automatic_transfer_status_on">Automatic transfers are on</string>
+    <string name="goals_add_money_text">Add money</string>
+    <string name="goals_move_money_out">Move money out</string>
+    <string name="moneybox_goal_reached_message">You\'ve reached your %s goal!</string>
+    <string name="moneybox_goal_reached_sub_message">Transfer all or some of the money to your balance so you can spend it. Or you can keep using this goal to set aside money whenever you like.\n </string>
+    <string name="moneybox_direct_deposit_subtext">Set aside some of the money you received for a holiday, emergency fund or any other goal</string>
+    <string name="moneybox_direct_deposit_activity_subtext">View transaction details</string>
+    <string name="create_goal_heading">Name your Goal</string>
+    <string name="goal_direct_retry_failure">We\'re sorry, something seems to have gone wrong</string>
+    <string name="goal_direct_retry_failure_detail">It looks like something went wrong at our end.</string>
+    <string name="moneybox_create_progress">Creating your Goal</string>
+    <string name="moneybox_direct_deposit_list_heading">Set aside money for a Goal</string>
+    <string name="moneybox_direct_deposit_create_goal_water_text">Holiday, rainy day fund or something special</string>
+    <string name="moneybox_direct_deposit_review_setaside_button_text">Set aside money</string>
+    <string name="balance_transfer_exceed_subtext">You\'ll need to add money to your PayPal balance or change the amount you\'d like to set aside.</string>
+    <string name="goal_direct_tryagain_button_text">Try Again</string>
+</resources>

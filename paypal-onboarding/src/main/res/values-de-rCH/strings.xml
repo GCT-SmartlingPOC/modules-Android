@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_account_already_exists">Diese E-Mail gehört schon zu einem Konto.</string>
+    <string name="onboarding_activation_add_bank_prompt">Fügen Sie Ihr Bankkonto oder Ihre Kreditkarte hinzu, damit Sie unterwegs shoppen und Geld an Freunde senden können.</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paypal_balance">Остаток на счете PayPal</string>
+    <string name="invest_details_title">Остаток на счете Acorns</string>
+    <string name="invest_details_contributed">Ваше пожертвование: </string>
+    <string name="invest_details_net_gain_loss">Общий доход/убыток: </string>
+    <string name="invest_details_data_provided_by">Данные предоставлены Acorns</string>
+    <string name="invest_details_auto_transfers_on">Автоматические переводы включены</string>
+    <string name="invest_details_auto_transfers_off">Автоматические переводы отключены</string>
+    <string name="invest_details_auto_transfers_onhold">Автоматические переводы приостановлены</string>
+    <string name="invest_details_transfer_button_transfer_text">Перевод средств</string>
+    <string name="invest_details_transfer_button_invest_text">Перевод средств</string>
+    <string name="invest_details_manage_button_text">Управление через Acorns</string>
+    <string name="invest_details_activity_transfer_type_manual">Однократный перевод</string>
+    <string name="invest_details_activity_transfer_type_auto">Автоматический перевод</string>
+    <string name="invest_details_activity_transfer_type_withdrawal">Вывод средств</string>
+    <string name="invest_details_activity_transfer_subtype_paused">Приостановлено</string>
+    <string name="invest_details_activity_transfer_subtype_failed">Не выполнено</string>
+    <string name="invest_details_errors_toolbar_title">Инвестировать с Acorns</string>
+    <string name="invest_details_errors_disconnected_header">Ваши счета Acorns и PayPal не подключены друг к другу</string>
+    <string name="invest_details_errors_disconnected_sub_header">Вам необходимо подключить их, чтобы вы могли использовать\nваш счет PayPal через Acorns.</string>
+    <string name="invest_details_errors_disconnected_action_text">Подключиться сейчас</string>
+    <string name="invest_details_errors_paused_header">Ваши взносы находятся на удержании</string>
+    <string name="invest_details_errors_paused_sub_header">Возможно, вы сами заморозили взносы или Acorns заморозил их (в случае если произошел сбой операции). Чтобы узнать, как начать осуществлять взносы снова, войдите в свой счет Acorns.</string>
+    <string name="invest_details_errors_paused_action_text">Перейти к Acorns</string>
+    <string name="invest_details_errors_denied_header">Не удалось создать счет Acorns</string>
+    <string name="invest_details_errors_denied_sub_header">Для получения дополнительной информации свяжитесь с Acorns напрямую.</string>
+    <string name="invest_details_errors_denied_action_text">Связаться с Acorns</string>
+    <string name="invest_details_errors_verify_header">Подтвердить этот счет</string>
+    <string name="invest_details_errors_verify_sub_header">Для подтверждения вашего счета Acorns требуется дополнительная\nинформация.</string>
+    <string name="invest_details_errors_verify_action_text">Подтвердить на Acorns</string>
+    <string name="invest_details_errors_no_data_header">Не удалось получить ваши данные из Acorns</string>
+    <string name="invest_details_errors_no_data_sub_header">Повторите попытку через несколько минут.</string>
+    <string name="invest_details_errors_no_data_action_text">Обновить</string>
+    <string name="invest_details_errors_connection_issue_header">Приносим извинения</string>
+    <string name="invest_details_errors_connection_issue_sub_header">Возникли сложности с отображением этой информации в данный момент. Повторите попытку через несколько минут.</string>
+    <string name="invest_details_errors_connection_issue_action_text">Повторите попытку</string>
+    <string name="invest_details_no_activity_title">Вы еще не пополнили счет</string>
+    <string name="invest_details_no_activity_subtitle">Переведите средства со счета PayPal на счет Acorns, чтобы начать инвестировать.</string>
+    <string name="invest_details_no_pp_funding_title">Инвестируйте через PayPal</string>
+    <string name="invest_details_no_pp_funding_subtitle">Инвестируйте с приложением Acorns через PayPal, чтобы переводить денежные средства быстрее и получать сведения о вашем счете прямо со своего счета PayPal.</string>
+    <string name="invest_details_change_funding">Инвестирование через PayPal</string>
+    <string name="invest_details_pending_subtitle">В целях обеспечения безопасности Acorns выполнит проверку вашего счета и отправит вам электронное письмо с подтверждением в течение 48 часов.</string>
+    <string name="invest_details_pending_special_portfolio_button_text">Подробнее о вашем портфеле</string>
+    <string name="invest_details_pending_special_faq_button_text">См. часто задаваемые вопросы об Acorns</string>
+    <string name="invest_details_pending_title">Вы станете инвестором в ближайшее время!</string>
+    <string name="invest_details_menu_edit_account">Редактировать настройки счета</string>
+    <string name="invest_details_loading_toolbar_title">Инвестировать с Acorns</string>
+    <string name="invest_intro_bottom_button_text">Как это работает</string>
+    <string name="invest_intro_title">Легко инвестируйте средства с Acorns</string>
+    <string name="invest_intro_text">Вам понадобится всего 5 долларов и несколько минут, чтобы настроить инвестиционный счет Acorns. Как только вы привяжете его к счету PayPal, вы сможете начать инвестировать и отслеживать эти операции напрямую в счете PayPal.&lt;br /&gt;&lt;br /&gt;У вас уже есть счет Acorns\? &lt;u&gt;&lt;a href="#"&gt;Войти в систему&lt;/a&gt;&lt;/u&gt;</string>
+    <string name="invest_intro_learn_more_text">Как это работает</string>
+    <string name="invest_details_activity_header_pending">В обработке</string>
+    <string name="invest_details_activity_header_upcoming">ЗАПЛАНИРОВАНО</string>
+    <string name="invest_details_activity_header_completed">Заверш.</string>
+</resources>

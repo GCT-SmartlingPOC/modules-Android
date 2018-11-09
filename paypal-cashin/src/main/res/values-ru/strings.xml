@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ppcash_store_info_title_description">При добавлении наличных в магазине будет взиматься комиссия: %1$s.</string>
+    <string name="ppcash_store_info_barcode_expiry">Срок действия вашего мобильного штрих-кода истекает через %1$s ч.</string>
+    <string name="ppcash_store_info_code_expiry">Срок действия вашего мобильного кода истекает через %1$s ч.</string>
+    <string name="ppcash_store_info_barcode_expiry_more">Срок действия вашего мобильного штрихкода истекает через %1$s ч.</string>
+    <string name="ppcash_store_info_code_expiry_more">Срок действия вашего мобильного кода истекает через %1$s ч.</string>
+    <string name="ppcash_store_info_amount_to_add">Вы можете добавить от %1$s до %2$s на счет PayPal для совершения данной операции. &lt;a href="#"&gt;Подробнее&lt;/a&gt;</string>
+    <string name="ppcash_store_info_time_info">&lt;b&gt;Средства поступят на ваш счет PayPal в течение %1$s мин.&lt;/b&gt;</string>
+    <string name="ppcash_store_info_limit_info">&lt;a href="#"&gt;&lt;b&gt;Ежедневный лимит: %1$s | Ежемесячный лимит: %2$s&lt;/b&gt;&lt;/a&gt;</string>
+    <string name="ppcash_store_info_service_unavailable">&lt;b&gt;Услуга временно недоступна во всех офисах штата Флорида&lt;/b&gt;</string>
+    <string name="ppcash_store_info_instruction_text">Предоставьте свой код в Walmart MoneyCenter или или Службе поддержки клиентов (не кассиру).</string>
+    <string name="ppcash_store_info_generate_barcode">Создать штрих-код</string>
+    <string name="ppcash_store_info_generate_code">Создать код</string>
+    <string name="ppcash_store_info_map_view_fee">Комиссия: %1$s</string>
+    <string name="ppcash_store_info_map_view">Карта</string>
+    <string name="ppcash_store_info_error_title">Приносим извинения</string>
+    <string name="ppcash_store_info_error_content">Возникли сложности с отображением этой информации в данный момент. Повторите попытку через несколько минут.</string>
+    <string name="ppcash_about">О PayPal Cash</string>
+    <string name="ppcash_store_list_content_eligible">Выберите магазин, чтобы создать штрих-код. Вы не оплачиваете комиссию, до тех пор, пока не добавляете средства в магазине.</string>
+    <string name="ppcash_store_list_last_visited">Последний просмотренный магазин</string>
+    <string name="ppcash_store_list_service_fee">Комиссия: %1$s</string>
+    <string name="ppcash_store_list_service_fee_range">Комиссия от %1$s до %2$s</string>
+    <string name="ppcash_cip_dialog_title">Нам нужны дополнительные сведения</string>
+    <string name="ppcash_cip_dialog_body">Как только вы предоставите их, вы сможете пополнять счет PayPal в местных магазинах с комиссией всего %1$s.</string>
+    <string name="ppcash_cip_negative_button_title">Я сделаю это позже</string>
+    <string name="ppcash_cip_positive_button_title">Продолжить</string>
+    <string name="ppcash_barcode_expiry_advise">Срок действия штрих-кода истекает %1$s в %2$s</string>
+    <string name="ppcash_code_expiry_advise">Срок действия кода истекает %1$s через %2$s</string>
+    <string name="ppcash_barcode_page_title">ИНСТРУКЦИИ ДЛЯ КАССИРА</string>
+    <string name="ppcash_barcode_partner_title">Защитите себя от мошеннических действий.</string>
+    <string name="ppcash_barcode_partner_text">Используйте только этот штрих-код, чтобы добавлять средства на ваш собственный счет PayPal. Если вы получите этот штрих-код от кого-либо другого, это является мошенничеством.</string>
+    <string name="ppcash_code_partner_text">Используйте только этот код для пополнения своего счета PayPal. Если вы получили этот код от кого-либо другого, это является мошенничеством.</string>
+    <string name="ppcash_barcode_ppcash_faq_link_text">Как работает PayPal Cash</string>
+    <string name="ppcash_barcode_page_indicator_text_1">Сдвиньте экран и узнайте подробности</string>
+    <string name="ppcash_barcode_page_indicator_text_2">Сдвиньте экран, чтобы вернуться</string>
+    <string name="ppcash_manual_code_step_1_title">1. Введите код</string>
+    <string name="ppcash_manual_code_step_1_body">Введите код, указанный ниже</string>
+    <string name="ppcash_map_show_store_list">Посмотреть магазины</string>
+    <string name="ppcash_map_select_store">Выбрать магазин</string>
+    <string name="ppcash_map_switch_to_list">Список</string>
+    <string name="add_cash_title">Пополнить счет наличными в магазине</string>
+    <string name="add_cash_label">Пополнить счет PayPal</string>
+    <string name="add_cash_content">Возьмите с собой наличные в партнерский магазин и предъявите штрих-код на кассе. Деньги поступят на ваш счет PayPal в течение 15 минут.</string>
+</resources>

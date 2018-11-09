@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Принять</string>
+    <string name="atm_finder_tab_use_app">Использовать приложение</string>
+    <string name="cca_at_atm">Я у банкомата</string>
+    <string name="cca_intro_subject">Получайте наличные без карты</string>
+    <string name="cca_intro_body">Теперь с помощью приложения PayPal вы можете просто сканировать код в банкоматах-участниках и снимать средства быстрее. Это безопаснее, чем с помощью карты.</string>
+    <string name="cca_onboarding_hint">Подождите, ваше устройство активируется для снятия средств через банкомат…</string>
+    <string name="cca_amount_selection_title">Выберите сумму</string>
+    <string name="cca_daily_limit">Макс. суточный лимит на вывод средств</string>
+    <string name="cca_daily_limit_subject_to">В зависимости от доступного остатка</string>
+    <string name="cca_camera_permission_subject">Предоставьте доступ к вашей камере</string>
+    <string name="cca_camera_permission_body">Измените настройки устройства, чтобы вы могли отсканировать код, отображенный на экране банкомата с поддержкой PayPal.</string>
+    <string name="cca_camera_permission_button">Доступ к камере</string>
+    <string name="cca_atm_screen_instruction">Выберите «Мобильные наличные средства» на экране банкомата</string>
+    <string name="cca_phone_scan_instruction">Используйте свой телефон, чтобы отсканировать код, отображенный на экране банкомата</string>
+    <string name="cca_barcode_title">Отсканируйте код</string>
+    <string name="cca_barcode_instruction">Выберите «Мобильные наличные средства» на экране банкомата и используйте камеру своего телефона, чтобы скопировать QR-код.</string>
+    <string name="cca_withdrawal_amount_label">Сумма для вывода средств со счета</string>
+    <string name="cca_balance_too_low_label">Недостаточный остаток на счете</string>
+    <string name="cca_balance_too_low_message">Вы не можете снять наличные средства прямо сейчас, так как ваш доступный остаток на счете PayPal ниже %s минимальной суммы.</string>
+    <string name="cca_success_subject">Заберите наличные средства из банкомата</string>
+    <string name="cca_success_body">В ближайшее время этот перевод отразится в вашем остатке на счете.</string>
+    <string name="cca_fee_subject">Есть комиссия</string>
+    <string name="cca_fee_body">Компания-владелец этого банкомата взимает комиссию. В дополнение к комиссии, взимаемой PayPal за вывод наличных средств из системы через банкомат.</string>
+    <string name="cca_atm_owner_fee">Комиссия компании-владельца банкомата</string>
+    <string name="cca_network_fee">Комиссия PayPal за вывод средств</string>
+    <string name="cca_cancelled">Операция успешно отменена.</string>
+    <string name="processing_transaction">Обработка операции…</string>
+    <string name="min">Мин.</string>
+    <string name="max">Макс.</string>
+    <string name="got_it">Понятно!</string>
+    <string name="amount_requested">Запрашиваемая сумма</string>
+    <string name="receipt">Квитанция</string>
+    <string name="accessibility_fee_info">Нажмите, чтобы узнать о комиссии</string>
+    <string name="cca_available_paypal_balance">Доступно на счете PayPal</string>
+    <string name="cca_daily_cash_withdrawl_limit">Ежедневный лимит на вывод наличных</string>
+    <string name="donate_intro_next">Далее</string>
+    <string name="rtr_info_total">Итого</string>
+    <string name="change_amount_available_balance">На счете PayPal: %s (доступно)</string>
+    <string name="add_funds_next_button">Продолжить</string>
+    <string name="paypal_credit_make_payment_dialog_continue_button">Продолжить</string>
+</resources>

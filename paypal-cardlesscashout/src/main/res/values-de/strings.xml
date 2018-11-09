@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Akzeptieren</string>
+    <string name="atm_finder_tab_use_app">App verwenden</string>
+    <string name="cca_at_atm">Ich bin am Geldautomaten</string>
+    <string name="cca_intro_subject">Bargeld abheben ganz ohne Karte</string>
+    <string name="cca_intro_body">Mit der PayPal-App können Sie jetzt an vielen Geldautomaten einen Code scannen und so schnell und einfach Geld abheben.</string>
+    <string name="cca_onboarding_hint">Warten Sie einen Augenblick, bis Ihr Gerät für die Abbuchung am Geldautomaten aktiviert wurde.</string>
+    <string name="cca_amount_selection_title">Betrag wählen</string>
+    <string name="cca_daily_limit">Max. Abbuchungslimit pro Tag</string>
+    <string name="cca_daily_limit_subject_to">Abhängig vom verfügbaren Guthaben</string>
+    <string name="cca_camera_permission_subject">Erlauben Sie den Zugriff auf Ihre Kamera</string>
+    <string name="cca_camera_permission_body">Ändern Sie Ihre Einstellungen, um den Code am Geldautomaten mit PayPal zu scannen.</string>
+    <string name="cca_camera_permission_button">Zugriff auf die Kamera</string>
+    <string name="cca_atm_screen_instruction">Wählen Sie \"Mobile Cash\" am Geldautomaten aus.</string>
+    <string name="cca_phone_scan_instruction">Mit Ihrem Smartphone können Sie den Code am Geldautomaten scannen.</string>
+    <string name="cca_barcode_title">Code scannen</string>
+    <string name="cca_barcode_instruction">Wählen Sie am Geldautomaten \"Mobile Cash\" aus und scannen Sie mit der Kamera Ihres Smartphones den QR-Code.</string>
+    <string name="cca_withdrawal_amount_label">Abbuchungsbetrag</string>
+    <string name="cca_balance_too_low_label">Guthaben zu niedrig</string>
+    <string name="cca_balance_too_low_message">Sie können zurzeit kein Geld abheben, weil Ihr verfügbares PayPal-Guthaben unter dem Mindestbetrag von %s liegt.</string>
+    <string name="cca_success_subject">Heben Sie Ihr Geld am Geldautomaten ab.</string>
+    <string name="cca_success_body">Diese Auszahlung wird in Kürze von Ihrem PayPal-Guthaben abgebucht.</string>
+    <string name="cca_fee_subject">Hierbei fällt eine Gebühr an.</string>
+    <string name="cca_fee_body">Der Inhaber dieses Geldautomaten verlangt eine Gebühr. Diese Gebühr fällt zusätzlich zu der Gebühr an, die PayPal Ihnen für Abbuchungen an Geldautomaten anderer Automatenverbünde berechnet.</string>
+    <string name="cca_atm_owner_fee">Gebühr für die Nutzung des Geldautomaten</string>
+    <string name="cca_network_fee">PayPal-Gebühr für Abbuchungen am Geldautomaten anderer Automatenverbünde</string>
+    <string name="cca_cancelled">Die Transaktion wurde storniert.</string>
+    <string name="processing_transaction">Transaktion wird verarbeitet...</string>
+    <string name="min">Mind.</string>
+    <string name="max">Max.</string>
+    <string name="got_it">Ok!</string>
+    <string name="amount_requested">Angeforderter Betrag</string>
+    <string name="receipt">Beleg</string>
+    <string name="accessibility_fee_info">Klicken Sie hier, um Informationen zu den Gebühren zu erhalten.</string>
+    <string name="cca_available_paypal_balance">Verfügbares PayPal-Guthaben</string>
+    <string name="cca_daily_cash_withdrawl_limit">Tägliches Abhebelimit für Bargeld</string>
+    <string name="donate_intro_next">Los geht\'s</string>
+    <string name="rtr_info_total">Summe</string>
+    <string name="change_amount_available_balance">PayPal-Guthaben: %s verfügbar</string>
+    <string name="add_funds_next_button">Weiter</string>
+    <string name="paypal_credit_make_payment_dialog_continue_button">Weiter</string>
+</resources>

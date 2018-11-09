@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_out_button_label_continue">계속</string>
+    <string name="cash_out_button_label_code_generate">인출 코드 생성</string>
+    <string name="cash_out_title_first_time_use">현금 인출하기</string>
+    <string name="cash_out_title_amount_entry">금액 입력</string>
+    <string name="cash_out_title_review">세부정보 검토</string>
+    <string name="cash_out_title_show_code">인출 코드</string>
+    <string name="cash_out_first_time_use_header">모든 Walmart 지점에서 PayPal 잔액을 편리하게 사용하세요.</string>
+    <string name="cash_out_first_time_use_sub_header">일일 및 월간 한도가 적용됩니다.</string>
+    <string name="cash_out_first_time_use_instruction1">1. 인출하려는 현금 금액을 입력합니다.</string>
+    <string name="cash_out_first_time_use_instruction2">2. 인출 세부정보를 검토하고 인출 코드를 생성합니다.</string>
+    <string name="cash_out_first_time_use_instruction3">3. Walmart Money Center 또는 고객지원센터 데스크의 출납원에게 인출 코드를 보여 줍니다. 유효한 운전면허증이나 신분증이 있어야 합니다.</string>
+    <string name="cash_out_withdrawal_amount_text_fee_advice">%1$s의 수수료가 공제됩니다.</string>
+    <string name="cash_out_withdrawal_amount_text_limits_advice">일일 한도: %1$s | 월간 한도: %2$s</string>
+    <string name="cash_out_withdrawal_amount_error_text_below_minimum">최소 인출 금액인 %1$s보다 적습니다.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_daily_limit">최대 인출 금액인 %1$s보다 많습니다.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_available_balance">고객님의 사용가능 잔액보다 많습니다.</string>
+    <string name="cash_out_withdrawal_amount_error_text_amount_not_entered">금액을 입력하세요.</string>
+    <string name="cash_out_review_amount_title">인출하는 금액</string>
+    <string name="cash_out_review_fees">수수료</string>
+    <string name="cash_out_review_amount_to_get">받는 금액</string>
+    <string name="cash_out_review_id_text">유효한 정부발급 신분증을 가져오세요.</string>
+    <string name="cash_out_info_acceptableIds">허용되는 ID</string>
+    <string name="cash_out_info_fees">수수료</string>
+    <string name="cash_out_info_fees_content">현금을 인출할 때마다 %2$s에서 %1$s 수수료를 부과합니다.</string>
+    <string name="cash_out_error_screen_description_general">오류가 발생했습니다. 다시 시도해 주세요.</string>
+    <string name="cash_out_error_screen_try_again">다시 시도</string>
+    <string name="uirow_default_error_status">꺼짐</string>
+    <string name="cash_out_withdraw_id_text">유효한 정부발급 신분증을 가져오세요.</string>
+    <string name="cash_out_withdraw_instruction_text">출납원에게 이 코드를 보여주세요.</string>
+    <string name="cash_out_withdraw_map_direction_link_text">가까운 %1$s 찾기</string>
+    <string name="cash_out_withdraw_amount_label">인출 금액</string>
+    <string name="cash_out_withdraw_code_expiry_advise_more">&lt;span&gt;코드는 &lt;b&gt;%d분&lt;/b&gt; 후에 만료됩니다.&lt;/span&gt;</string>
+    <string name="cash_out_withdraw_code_expiry_advise_one">&lt;span&gt;코드는 &lt;b&gt;1분&lt;/b&gt; 후에 만료됩니다.&lt;/span&gt;</string>
+    <string name="cash_out_withdraw_code_expiry_expired">&lt;span&gt;코드가 만료되었습니다.&lt;/span&gt;</string>
+    <string name="cash_out_error_button_caption_retry">다시 시도</string>
+    <string name="cash_out_error_general_message">오류가 발생했습니다. 나중에 다시 시도해 주세요.</string>
+    <string name="gcm_cash_out_success">%1$s %3$s 계좌에서 %2$s의 금액을 인출했습니다. 잔액은 %4$s입니다.</string>
+</resources>

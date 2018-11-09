@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">соответствие требованиям PayPal</string>
+    <string name="paypal_compliance_cip_interstitial_app_bar_text">Подтвердите свои личные данные</string>
+    <string name="paypal_compliance_cip_interstitial_title_uploading">Загрузка...</string>
+    <string name="paypal_compliance_cip_interstitial_title_checking_info">Осуществляется проверка информации</string>
+    <string name="paypal_compliance_cip_interstitial_description_line_one">Это может занять одну минуту.</string>
+    <string name="paypal_compliance_cip_interstitial_description_line_two">Приложение должно быть открыто.</string>
+    <string name="paypal_compliance_cip_interstitial_viewpager_top_text">Как только ваши личные данные будут подтверждены, вы сможете использовать остаток на счете следующим образом…</string>
+    <string name="paypal_compliance_cip_view_pager_p2p_title">Отправить средства друзьям и близким</string>
+    <string name="paypal_compliance_cip_view_pager_purchases_title">Покупать товары с помощью остатка на счете</string>
+    <string name="paypal_compliance_cip_view_pager_balance_title">Откладывать на развлечения</string>
+    <string name="paypal_compliance_cip_intro_title">Чтобы хранить средства на вашем счете PayPal, нам необходима дополнительная информация</string>
+    <string name="paypal_compliance_cip_intro_description">Подтверждение личности клиента является одним из способов обеспечения безопасности вашего счета. Это нужно выполнить всего один раз.</string>
+    <string name="paypal_compliance_cip_mitek_failed_intro_title">Нам нужна дополнительная информация</string>
+    <string name="paypal_compliance_cip_mitek_failed_intro_description">Нам не удалось подтвердить ваши личные данные с помощью документа с фотографией. Для обеспечения безопасности денежных средств в PayPal нам необходимо получить дополнительную информацию от вас.</string>
+    <string name="paypal_compliance_cip_experiment_intro_title">Подтвердите свои личные данные</string>
+    <string name="paypal_compliance_cip_experiment_intro_description">Подтверждение личности клиента является одним из способов обеспечения безопасности вашего счета. Это нужно выполнить всего один раз.</string>
+    <string name="paypal_compliance_cip_experiment_intro_link">Использовать номер социального страхования вместо этого</string>
+    <string name="paypal_compliance_cip_experiment_intro_button">Использовать водительское удостоверение</string>
+    <string name="paypal_compliance_cip_mitek_instructions_title">Положите удостоверение личности на ровную поверхность, и мы сделаем фотографию.</string>
+    <string name="paypal_compliance_cip_id_autocaputre_failed_title">Мы не получили фотографию вашего удостоверения личности</string>
+    <string name="paypal_compliance_cip_id_autocaputre_failed_description">Положите удостоверение личности с фотографией на ровную поверхность и направьте на него свое устройство. Убедитесь, что в помещении хорошее освещение, или включите вспышку.\nДержите устройство ровно и нажмите иконку камеры, чтобы сделать фотографию вручную.</string>
+    <string name="paypal_compliance_cip_id_autocaputre_failed_link">Попробовать еще раз сделать фотографию в автоматическом режиме</string>
+    <string name="paypal_compliance_cip_id_autocapture_failed_button">Сделать фотографию вручную</string>
+    <string name="paypal_compliance_cip_help_description">Положите удостоверение личности на ровную поверхность, и мы сделаем фотографию.</string>
+    <string name="paypal_compliance_cip_mitek_verification_passed_title">Все готово к работе</string>
+    <string name="paypal_compliance_cip_mitek_verification_passed_description">Средства уже доступны на вашем счете PayPal. Отправляйте, тратьте или просто храните средства на счете, чтобы потратить их на развлечения.</string>
+    <string name="paypal_compliance_cip_fraud_user_title">Возникла проблема с вашим счетом</string>
+    <string name="paypal_compliance_cip_fraud_user_description">Чтобы решить ее, свяжитесь с нами.</string>
+    <string name="paypal_compliance_cip_error_title">Похоже, возникли какие-то неполадки</string>
+    <string name="paypal_compliance_cip_error_description">Вернитесь через некоторое время.</string>
+    <string name="paypal_compliance_cip_reviewing_title">Мы отправим вам уведомление</string>
+    <string name="paypal_compliance_cip_reviewing_description">Приносим извинения. Это занимает немного больше времени, чем ожидалось. Когда проверка ваших водительских прав будет завершена, мы отправим вам уведомление. Вы получите его в течение ближайших 5 минут.</string>
+    <string name="paypal_compliance_cip_reviewing_button_text">Сводка о состоянии счета</string>
+    <string name="paypal_compliance_cip_done_button">Готово</string>
+    <string name="paypal_compliance_cip_next_button">Далее</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_title_dialog">Вы уверены\?</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_message_dialog">После завершения обработки вам будет отправлено уведомление.</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_positive_button_dialog">ОТМЕНА</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_negative_button_dialog">ПЕРЕЙТИ В РАЗДЕЛ «ОБЗОР»</string>
+</resources>

@@ -1,0 +1,17 @@
+<!--
+  ~ Copyright (c) 2017 PayPal, Inc.
+  ~
+  ~ All rights reserved.
+  ~
+  ~ THIS CODE AND INFORMATION ARE PROVIDED 'AS IS' WITHOUT WARRANTY OF ANY
+  ~ KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+  ~ IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+  ~ PARTICULAR PURPOSE.
+  -->
+
+<resources>
+
+    <!-- PayPal Card and LiftOff -->
+    <string name="liftoff_enrollment_webview_title">Get the most out of PayPal</string>
+    <string name="liftoff_lite_enrollment_webview_title">PayPal Cash Card</string>
+</resources>

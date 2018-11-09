@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayPal-Investition</string>
+    <string name="paypal_balance">PayPal-Guthaben</string>
+    <string name="invest_details_title">Acorns-Kontostand</string>
+    <string name="invest_details_contributed">Ihr Beitrag: </string>
+    <string name="invest_details_net_gain_loss">Gesamtgewinn/Gesamtverlust: </string>
+    <string name="invest_details_data_provided_by">Daten von Acorns</string>
+    <string name="invest_details_auto_transfers_on">Regelmäßige Überweisungen sind aktiviert.</string>
+    <string name="invest_details_auto_transfers_off">Regelmäßige Überweisungen sind deaktiviert.</string>
+    <string name="invest_details_auto_transfers_onhold">Regelmäßige Überweisungen sind ausgesetzt.</string>
+    <string name="invest_details_transfer_button_transfer_text">Geld abbuchen</string>
+    <string name="invest_details_transfer_button_invest_text">Geld abbuchen</string>
+    <string name="invest_details_manage_button_text">Auf Acorns verwalten</string>
+    <string name="invest_details_activity_transfer_type_manual">Einmalige Überweisung</string>
+    <string name="invest_details_activity_transfer_type_auto">Regelmäßige Überweisung</string>
+    <string name="invest_details_activity_transfer_type_withdrawal">Abbuchung</string>
+    <string name="invest_details_activity_transfer_subtype_paused">Ausgesetzt</string>
+    <string name="invest_details_activity_transfer_subtype_failed">Fehlgeschlagen</string>
+    <string name="invest_details_errors_toolbar_title">Mit Acorns investieren</string>
+    <string name="invest_details_errors_disconnected_header">Ihre Acorns- und PayPal-Konten sind nicht verknüpft</string>
+    <string name="invest_details_errors_disconnected_sub_header">Sie müssen sie verknüpfen, um\nIhr PayPal-Konto mit Acorns verwenden zu können.</string>
+    <string name="invest_details_errors_disconnected_action_text">Jetzt verbinden</string>
+    <string name="invest_details_errors_paused_header">Ihre Beitragszahlungen sind ausgesetzt</string>
+    <string name="invest_details_errors_paused_sub_header">Sie haben die Beitragszahlungen möglicherweise selbst ausgesetzt oder Acorns hat sie ausgesetzt, wenn eine Abbuchung fehlgeschlagen ist. Wenn Sie Informationen brauchen, wie Sie die Beitragszahlungen fortsetzen können, loggen Sie sich in Ihr Acorns-Konto ein.</string>
+    <string name="invest_details_errors_paused_action_text">Zur Website von Acorns gehen</string>
+    <string name="invest_details_errors_denied_header">Acorns konnte kein Konto für Sie eröffnen</string>
+    <string name="invest_details_errors_denied_sub_header">Weitere Informationen erhalten Sie direkt von Acorns.</string>
+    <string name="invest_details_errors_denied_action_text">Acorns kontaktieren</string>
+    <string name="invest_details_errors_verify_header">Konto verifizieren</string>
+    <string name="invest_details_errors_verify_sub_header">Acorns braucht weitere\nInformationen, um Ihr Konto zu verifizieren.</string>
+    <string name="invest_details_errors_verify_action_text">Bei Acorns verifizieren</string>
+    <string name="invest_details_errors_no_data_header">Wir konnten Ihre Daten nicht von Acorns abrufen</string>
+    <string name="invest_details_errors_no_data_sub_header">Bitte versuchen Sie es später noch einmal.</string>
+    <string name="invest_details_errors_no_data_action_text">Aktualisieren</string>
+    <string name="invest_details_errors_connection_issue_header">Entschuldigung</string>
+    <string name="invest_details_errors_connection_issue_sub_header">Wir können Ihnen diese Informationen gerade nicht anzeigen. Versuchen Sie es in Kürze erneut.</string>
+    <string name="invest_details_errors_connection_issue_action_text">Erneut versuchen</string>
+    <string name="invest_details_no_activity_title">Sie haben noch kein Geld eingezahlt.</string>
+    <string name="invest_details_no_activity_subtitle">Geld von PayPal auf Ihr Acorns-Konto abbuchen, um mit der Investition zu beginnen</string>
+    <string name="invest_details_no_pp_funding_title">Ihre Investitionen mit PayPal bezahlen</string>
+    <string name="invest_details_no_pp_funding_subtitle">Bezahlen Sie Ihre Acorns-Investitionen mit PayPal, um Geld schneller zu überweisen und um Ihre Kontoinformationen direkt in Ihrem PayPal-Konto zu erhalten.</string>
+    <string name="invest_details_change_funding">Mit PayPal bezahlen</string>
+    <string name="invest_details_pending_subtitle">Acorns wird zu Ihrer Sicherheit Ihr Konto verifizieren und Ihnen innerhalb von 48 Stunden eine Bestätigung per E-Mail senden</string>
+    <string name="invest_details_pending_special_portfolio_button_text">Erfahren Sie mehr über Ihr Portfolio</string>
+    <string name="invest_details_pending_special_faq_button_text">Werfen Sie einen Blick auf die häufigen Fragen zu Acorns</string>
+    <string name="invest_details_pending_title">Sie werden schon bald ein Investor sein!</string>
+    <string name="invest_details_menu_edit_account">Kontoeinstellungen bearbeiten</string>
+    <string name="invest_details_loading_toolbar_title">Mit Acorns investieren</string>
+    <string name="invest_intro_bottom_button_text">So funktioniert\'s</string>
+    <string name="invest_intro_title">Mit Acorns ganz einfach Geld investieren</string>
+    <string name="invest_intro_text">Sie brauchen nur 5 USD und ein paar Minuten, um ein Konto bei Acorns einzurichten. Sobald Sie das Konto mit PayPal verknüpfen, können Sie direkt von Ihrem PayPal-Konto aus Beiträge investieren und überwachen.&lt;br /&gt;&lt;br /&gt;Haben Sie bereits ein Acorns-Konto\? &lt;u&gt;&lt;a href="#"&gt;Einloggen&lt;/a&gt;&lt;/u&gt;</string>
+    <string name="invest_intro_learn_more_text">So funktioniert\'s</string>
+    <string name="invest_details_activity_header_pending">Offen</string>
+    <string name="invest_details_activity_header_upcoming">Geplant</string>
+    <string name="invest_details_activity_header_completed">Abgeschlossen</string>
+</resources>

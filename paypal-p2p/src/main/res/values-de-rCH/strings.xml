@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send_money_review_friends_and_family_no_fee_explanation">Sie zahlen keine Gebühren, wenn Sie Geld im Inland mit Ihrem Bankkonto oder Guthaben senden.</string>
+    <string name="send_money_review_friends_and_family_freep2p_no_fee_explanation">Sie zahlen keine Gebühren, wenn Sie Geld in CHF innerhalb der Schweiz senden.</string>
+    <string name="send_money_review_friends_and_family_fee_explanation">Es fallen Gebühren an, wenn Sie Geld mit einer Kreditkarte, in ein anderes Land oder in einer anderen Währung senden.</string>
+    <string name="send_money_review_friends_and_family_freep2p_fee_explanation">Es fallen Gebühren an, wenn Sie Geld ins Ausland or in einer anderen Währung senden.</string>
+    <string name="send_money_review_friends_and_family_with_conversion_no_fee_explanation">Sie zahlen keine Gebühren, wenn Sie Geld im Inland mit Ihrem Bankkonto oder Guthaben senden.</string>
+    <string name="send_money_review_friends_and_family_freep2p_with_conversion_no_fee_explanation">Sie zahlen keine Gebühren, wenn Sie Geld in CHF innerhalb der Schweiz senden.</string>
+    <string name="send_money_review_friends_and_family_with_conversion_fee_explanation">Es fallen Gebühren an, wenn Sie Geld mit einer Kreditkarte, in ein anderes Land oder in einer anderen Währung senden.</string>
+    <string name="send_money_review_friends_and_family_freep2p_with_conversion_fee_explanation">Es fallen Gebühren an, wenn Sie Geld ins Ausland or in einer anderen Währung senden.</string>
+    <string name="send_money_funding_instrument_credit_card_fee_explanation">Mit Ihrem PayPal-Guthaben zahlen Sie keine Gebühren, wenn Sie Geld in CHF an Freunde und Familie in der Schweiz senden.</string>
+    <string name="send_money_funding_mix_selector_no_fi_alert_body">Verwenden Sie für diese Zahlung Ihr PayPal-Guthaben (%1$s). Sie können auch eine Kreditkarte in den Einstellungen hinzufügen.</string>
+    <string name="web_view_title_purchase_protection">Käuferschutz</string>
+</resources>

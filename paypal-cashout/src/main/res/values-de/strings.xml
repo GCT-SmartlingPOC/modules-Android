@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_out_button_label_continue">Weiter</string>
+    <string name="cash_out_button_label_code_generate">Code generieren</string>
+    <string name="cash_out_title_first_time_use">Geld abheben</string>
+    <string name="cash_out_title_amount_entry">Betrag eingeben</string>
+    <string name="cash_out_title_review">Angaben überprüfen</string>
+    <string name="cash_out_title_show_code">Code</string>
+    <string name="cash_out_first_time_use_header">Greifen Sie in jeder Walmart-Filiale bequem auf Ihr PayPal-Guthaben zu.</string>
+    <string name="cash_out_first_time_use_sub_header">Es gelten Tages- und Monatslimits.</string>
+    <string name="cash_out_first_time_use_instruction1">1. Geben Sie ein, wie viel Bargeld Sie abheben wollen.</string>
+    <string name="cash_out_first_time_use_instruction2">2. Überprüfen Sie Ihre Angaben und generieren Sie Ihren Code.</string>
+    <string name="cash_out_first_time_use_instruction3">3. Zeigen Sie den Code an einer Kasse im Walmart Money Center oder beim Kundenservice im Geschäft vor. Sie brauchen dazu einen Führerschein oder Personalausweis.</string>
+    <string name="cash_out_withdrawal_amount_text_fee_advice">Eine Gebühr in Höhe von %1$s wird abgezogen.</string>
+    <string name="cash_out_withdrawal_amount_text_limits_advice">Tageslimit: %1$s | Monatslimit: %2$s</string>
+    <string name="cash_out_withdrawal_amount_error_text_below_minimum">Dieser Betrag liegt unter dem Mindestbetrag von %1$s.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_daily_limit">Dieser Betrag liegt über dem maximalen Abbuchungsbetrag von %1$s.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_available_balance">Dieser Betrag übersteigt Ihr verfügbares Guthaben.</string>
+    <string name="cash_out_withdrawal_amount_error_text_amount_not_entered">Geben Sie einen Betrag ein.</string>
+    <string name="cash_out_review_amount_title">Betrag</string>
+    <string name="cash_out_review_fees">Gebühr</string>
+    <string name="cash_out_review_amount_to_get">Sie erhalten</string>
+    <string name="cash_out_review_id_text">Bringen Sie einen gültigen amtlichen Ausweis mit.</string>
+    <string name="cash_out_info_acceptableIds">Akzeptierte Ausweise</string>
+    <string name="cash_out_info_fees">Gebühr</string>
+    <string name="cash_out_info_fees_content">Eine Gebühr in Höhe von %1$s wird jedes Mal von %2$s berechnet, wenn Sie Bargeld abheben.</string>
+    <string name="cash_out_error_screen_description_general">Etwas ist schief gelaufen. Versuchen Sie es erneut.</string>
+    <string name="cash_out_error_screen_try_again">Erneut versuchen</string>
+    <string name="uirow_default_error_status">AUS</string>
+    <string name="cash_out_withdraw_id_text">Bringen Sie einen gültigen amtlichen Ausweis mit.</string>
+    <string name="cash_out_withdraw_instruction_text">Zeigen Sie diesen Code an der Kasse</string>
+    <string name="cash_out_withdraw_map_direction_link_text">Finden Sie %1$s in Ihrer Nähe</string>
+    <string name="cash_out_withdraw_amount_label">Abbuchungsbetrag</string>
+    <string name="cash_out_withdraw_code_expiry_advise_more">&lt;span&gt;Code läuft in &lt;b&gt;%d Min. ab&lt;/b&gt;&lt;/span&gt;</string>
+    <string name="cash_out_withdraw_code_expiry_advise_one">&lt;span&gt;Code läuft in &lt;b&gt;1 Min. ab&lt;/b&gt;&lt;/span&gt;</string>
+    <string name="cash_out_withdraw_code_expiry_expired">&lt;span&gt;Code ist abgelaufen&lt;/span&gt;</string>
+    <string name="cash_out_error_button_caption_retry">Erneut versuchen</string>
+    <string name="cash_out_error_general_message">Etwas ist schief gelaufen. Versuchen Sie es später erneut.</string>
+    <string name="gcm_cash_out_success">%1$s Sie haben %2$s bei %3$s abgebucht. Ihr Guthaben beträgt %4$s</string>
+</resources>

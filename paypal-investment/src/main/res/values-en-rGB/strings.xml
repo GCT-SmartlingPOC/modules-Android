@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayPal-investment</string>
+    <string name="paypal_balance">PayPal balance</string>
+    <string name="invest_details_title">Acorns account value</string>
+    <string name="invest_details_contributed">Your contribution: </string>
+    <string name="invest_details_net_gain_loss">Total gain/loss: </string>
+    <string name="invest_details_transfer_button_transfer_text">Withdraw money</string>
+    <string name="invest_details_transfer_button_invest_text">Withdraw money</string>
+    <string name="invest_details_activity_transfer_type_manual">One-off transfer</string>
+    <string name="invest_details_errors_paused_sub_header">You might have put them on hold or, if you had a transfer that failed, Acorns put your contributions on hold. For instructions on how to start contributing again, log in to your Acorns account.</string>
+    <string name="invest_details_errors_no_data_sub_header">Please check again in a few minutes.</string>
+    <string name="invest_details_errors_connection_issue_header">We\'re sorry</string>
+    <string name="invest_details_errors_connection_issue_sub_header">We\'re having trouble showing you that information at the moment. Please try again in a minute or two.</string>
+    <string name="invest_details_errors_connection_issue_action_text">Try again</string>
+    <string name="invest_details_change_funding">Fund with PayPal</string>
+    <string name="invest_intro_title">Invest money easily with Acorns</string>
+    <string name="invest_intro_text">All you need is $5 and a few minutes to set up an investment account with Acorns. Once you\'ve linked it to PayPal, you can contribute to your investments and monitor them from your PayPal account.&lt;br /&gt;&lt;br /&gt;Already have an Acorns account\? &lt;u&gt;&lt;a href="#"&gt;Log in&lt;/a&gt;&lt;/u&gt;</string>
+</resources>

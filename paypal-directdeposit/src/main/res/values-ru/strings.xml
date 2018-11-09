@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="direct_deposit_account_number_title">Индивидуальный номер счета, присвоенный PayPal</string>
+    <string name="direct_deposit_routing_number_title">маршрутный и транзитный номер ABA</string>
+    <string name="direct_deposit_account_type_title">Тип счета</string>
+    <string name="direct_deposit_bank_address_title">Название и адрес финансового учреждения</string>
+    <string name="direct_deposit_bank_address_desc">Ваши средства будут удерживаться на попечительском счете в%1$s \n</string>
+    <string name="direct_deposit_title">Настроить прямое зачисление средств</string>
+    <string name="direct_deposit_description">Чтобы напрямую зачислять средства на счет PayPal, введите сведения из формы на прямое зачисление средств от своего работодателя.</string>
+    <string name="direct_deposit_tax_refund_title">Сведения о прямом зачислении средств</string>
+    <string name="direct_deposit_tax_refund_link">&lt;br/&gt;&lt;br/&gt;Чтобы зачислить ваш возврат налога, &lt;a href="#"&gt;следуйте этим инструкциям&lt;/a&gt; после заполнения налоговой формы.</string>
+    <string name="direct_deposit_error_title">Приносим извинения</string>
+    <string name="direct_deposit_error_content">Возникли сложности с отображением этой информации в данный момент. Повторите попытку через несколько минут.</string>
+    <string name="direct_deposit_try_again">Повторить попытку</string>
+    <string name="direct_deposit_copy_pill_text">Копировать</string>
+    <string name="direct_deposit_copy_account_number_message">Скопировать номер счета</string>
+    <string name="direct_deposit_copy_routing_number_message">Скопировать код банка</string>
+    <string name="direct_deposit_copy_message_negative">Отмена</string>
+</resources>

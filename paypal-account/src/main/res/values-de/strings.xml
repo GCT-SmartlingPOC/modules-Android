@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_no_internet_title">Keine Internetverbindung</string>
+    <string name="error_no_internet_description">Achten Sie darauf, dass Ihr Gerät nicht im Flugmodus ist und über WLAN oder das Mobilfunknetz verbunden ist.</string>
+    <string name="common_webview_error_header">Entschuldigung…</string>
+    <string name="common_webview_error_sub_header">Wir können Ihnen diese Informationen zurzeit nicht anzeigen.</string>
+    <string name="dialog_sure_button">App bewerten</string>
+    <string name="dialog_remind_me_later_button">Nicht jetzt</string>
+    <string name="dialog_no_thanks_button">Nein danke</string>
+    <string name="dialog_rating_title">Gefällt Ihnen die App\?</string>
+    <string name="dialog_rating_message">Sagen Sie uns, was Sie denken.</string>
+    <string name="account_profile_photo_take">Neues Foto machen</string>
+    <string name="account_profile_photo_delete">Foto löschen</string>
+    <string name="account_profile_photo_delete_dialog_title">Sind Sie sicher\? Wenn Sie Ihr Foto entfernen, wissen Freunde und Familie womöglich nicht, dass Sie es sind.</string>
+    <string name="account_profile_photo_delete_dialog_positive">Löschen</string>
+    <string name="account_profile_photo_delete_dialog_negative">Abbrechen</string>
+    <string name="accessibility_add_your_info">Daten eingeben</string>
+    <string name="account_profile_photo_choose">Vorhandenes Foto wählen</string>
+</resources>

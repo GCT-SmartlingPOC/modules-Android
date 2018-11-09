@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="direct_deposit_account_number_title">PayPals Kontonummer </string>
+    <string name="direct_deposit_routing_number_title">ABA-Bankleitzahl</string>
+    <string name="direct_deposit_account_type_title">Kontotyp</string>
+    <string name="direct_deposit_bank_address_title">Name und Adresse des Finanzinstituts</string>
+    <string name="direct_deposit_bank_address_desc">Ihr Geld wird bei %1$s in ein Treuhandkonto eingezahlt. \n</string>
+    <string name="direct_deposit_title">Überweisung einrichten</string>
+    <string name="direct_deposit_description">Um Ihr Gehalt direkt auf Ihr PayPal-Konto überweisen zu lassen, geben Sie die Details unten auf dem Einzugsermächtigungsformular Ihres Arbeitgebers an.</string>
+    <string name="direct_deposit_tax_refund_title">Details zur Überweisung</string>
+    <string name="direct_deposit_tax_refund_link">&lt;br/&gt;&lt;br/&gt;Um Ihre Steuerrückzahlung auf Ihr PayPal-Konto zu überweisen, folgen Sie beim Ausfüllen Ihrer Steuererklärung &lt;a href="#"&gt;diesen Anweisungen&lt;/a&gt;.</string>
+    <string name="direct_deposit_error_title">Entschuldigung</string>
+    <string name="direct_deposit_error_content">Wir können Ihnen diese Informationen gerade nicht anzeigen. Versuchen Sie es in Kürze erneut.</string>
+    <string name="direct_deposit_try_again">Erneut versuchen</string>
+    <string name="direct_deposit_copy_pill_text">Kopieren</string>
+    <string name="direct_deposit_copy_account_number_message">Kontonummer kopieren</string>
+    <string name="direct_deposit_copy_routing_number_message">Bankleitzahl kopieren</string>
+    <string name="direct_deposit_copy_message_negative">Abbrechen</string>
+</resources>

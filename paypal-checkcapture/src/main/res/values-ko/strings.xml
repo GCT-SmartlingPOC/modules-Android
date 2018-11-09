@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check_capture_info_title">수표 현금화</string>
+    <string name="check_capture_title">수표 캡처</string>
+    <string name="check_capture_info_description">간단하게 3단계로 PayPal 잔액에 금액을 추가하세요.</string>
+    <string name="check_capture_info_step_one">1. 일단 서명한 수표의 양면을 사진으로 찍습니다.</string>
+    <string name="check_capture_info_step_two">2. 그 다음, 수표의 금액을 입력합니다.</string>
+    <string name="check_capture_info_step_three">3. 승인되고 나면 수표를 무효 처리합니다. 금액을 잔액에 추가해 드리겠습니다.</string>
+    <string name="check_capture_info_footer_note">서비스는 PayPal과는 독립적으로 운영되고 있는 제3자 서비스 제공업체인 First Century Bank, N.A. 및 Ingo Money, Inc.에서 제공합니다. PayPal이 수표 현금화 요청에 대한 서비스를 지원하기 위해 일부 프로필 정보를 First Century 및 Ingo와 공유할 수 있습니다.</string>
+    <string name="check_capture_info_start_button">시작하기</string>
+    <string name="check_capture_permission_error">권한 오류</string>
+    <string name="check_capture_permission_error_go_back">뒤로</string>
+    <string name="check_capture_permission_rationale_title">수표를 현금화하려면 PayPal에서 내 위치, 카메라 및 전화에 액세스해야 합니다.</string>
+    <string name="check_capture_permission_rationale_message">다음 화면에서 해당 권한을 부여할 것인지를 묻습니다.</string>
+    <string name="check_capture_permission_rationale_title_change_permission">PayPal이 카메라, 내 위치 및 전화에 액세스하도록 허용하려면 권한을 변경해야 합니다.</string>
+    <string name="check_capture_permission_rationale_action_change_permission">권한 변경</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PayPal Compliance</string>
+    <string name="paypal_compliance_cip_interstitial_app_bar_text">Identität bestätigen</string>
+    <string name="paypal_compliance_cip_interstitial_title_uploading">Hochladen...</string>
+    <string name="paypal_compliance_cip_interstitial_title_checking_info">Ihre Eingaben werden überprüft…</string>
+    <string name="paypal_compliance_cip_interstitial_description_line_one">Das kann einen Moment dauern.</string>
+    <string name="paypal_compliance_cip_interstitial_description_line_two">Bitte lassen Sie Ihre App geöffnet.</string>
+    <string name="paypal_compliance_cip_interstitial_viewpager_top_text">Sobald Ihre Identität bestätigt ist, können Sie Ihr Guthaben für folgende Zwecke verwenden:</string>
+    <string name="paypal_compliance_cip_view_pager_p2p_title">Geld an Freunde und Familie senden</string>
+    <string name="paypal_compliance_cip_view_pager_purchases_title">Mit Ihrem Guthaben einkaufen</string>
+    <string name="paypal_compliance_cip_view_pager_balance_title">Einen geheimen Geldvorrat für Freizeitvergnügen aufbewahren</string>
+    <string name="paypal_compliance_cip_intro_title">Wir brauchen noch einige Informationen von Ihnen</string>
+    <string name="paypal_compliance_cip_intro_description">Ihre Sicherheit steht bei uns an erster Stelle. Daher müssen wir einmalig Ihre Identität bestätigen.</string>
+    <string name="paypal_compliance_cip_mitek_failed_intro_title">Wir brauchen noch einige Informationen</string>
+    <string name="paypal_compliance_cip_mitek_failed_intro_description">Wir konnten Ihre Identität anhand Ihres Lichtbildausweises nicht bestätigen. Wir brauchen noch einige Informationen von Ihnen.</string>
+    <string name="paypal_compliance_cip_experiment_intro_title">Identität bestätigen</string>
+    <string name="paypal_compliance_cip_experiment_intro_description">Ihre Sicherheit steht bei uns an erster Stelle. Daher müssen wir einmalig Ihre Identität bestätigen.</string>
+    <string name="paypal_compliance_cip_experiment_intro_link">Verwenden Sie stattdessen Ihre Social Security Number</string>
+    <string name="paypal_compliance_cip_experiment_intro_button">Verwenden Sie Ihren Führerschein</string>
+    <string name="paypal_compliance_cip_mitek_instructions_title">Legen Sie Ihren Ausweis auf eine flache Unterlage und wir machen ein Foto für Sie.</string>
+    <string name="paypal_compliance_cip_id_autocaputre_failed_title">Wir konnten kein Foto von Ihrem Ausweis machen</string>
+    <string name="paypal_compliance_cip_id_autocaputre_failed_description">Legen Sie Ihren Ausweis auf eine flache Unterlage und richten Sie Ihr Gerät direkt darauf. Achten Sie auf eine gute Beleuchtung oder schalten Sie den Blitz ein.\nHalten Sie Ihr Gerät ruhig und tippen Sie auf das Kamerasymbol, um manuell ein Foto zu machen.</string>
+    <string name="paypal_compliance_cip_id_autocaputre_failed_link">Versuchen Sie es erneut mit einem automatischen Foto</string>
+    <string name="paypal_compliance_cip_id_autocapture_failed_button">Machen Sie manuell ein Foto</string>
+    <string name="paypal_compliance_cip_help_description">Legen Sie Ihren Ausweis auf eine flache Unterlage und wir machen ein Foto für Sie.</string>
+    <string name="paypal_compliance_cip_mitek_verification_passed_title">Sie können loslegen.</string>
+    <string name="paypal_compliance_cip_mitek_verification_passed_description">Das Geld ist jetzt in Ihrem PayPal-Konto verfügbar. Sie können es senden, ausgeben oder ansparen, um sich etwas zu gönnen.</string>
+    <string name="paypal_compliance_cip_fraud_user_title">Es gibt ein Problem mit  Ihrem Konto</string>
+    <string name="paypal_compliance_cip_fraud_user_description">Wenden Sie sich an uns, um dies zu beheben.</string>
+    <string name="paypal_compliance_cip_error_title">Leider ist ein Fehler aufgetreten</string>
+    <string name="paypal_compliance_cip_error_description">Versuchen Sie es bald erneut.</string>
+    <string name="paypal_compliance_cip_reviewing_title">Sie erhalten eine Benachrichtigung</string>
+    <string name="paypal_compliance_cip_reviewing_description">Entschuldigung. Es dauert ein wenig länger als erwartet. Wenn wir mit der Prüfung Ihres Führerscheins fertig sind, senden wir Ihnen eine Benachrichtigung. Schauen Sie in den nächsten 5 Minuten nach.</string>
+    <string name="paypal_compliance_cip_reviewing_button_text">Kontoübersicht</string>
+    <string name="paypal_compliance_cip_done_button">Fertig</string>
+    <string name="paypal_compliance_cip_next_button">Weiter</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_title_dialog">Sind Sie sicher\?</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_message_dialog">Sie erhalten eine Benachrichtigung, sobald wir damit fertig sind.</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_positive_button_dialog">ABBRECHEN</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_negative_button_dialog">Zur Übersicht</string>
+</resources>

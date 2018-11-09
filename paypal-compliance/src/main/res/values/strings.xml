@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">paypal-compliance</string>
+    <!-- Interstitial Page -->
+    <string name="paypal_compliance_cip_interstitial_app_bar_text">Confirm your identity</string>
+    <string name="paypal_compliance_cip_interstitial_title_uploading">Uploading&#8230;</string>
+    <string name="paypal_compliance_cip_interstitial_title_checking_info">Checking your info</string>
+    <string name="paypal_compliance_cip_interstitial_description_line_one">This could take a minute.</string>
+    <string name="paypal_compliance_cip_interstitial_description_line_two">Please keep your app open.</string>
+    <string name="paypal_compliance_cip_interstitial_viewpager_top_text">Once your identity\'s confirmed, you can use your balance to&#8230;</string>
+    <string name="paypal_compliance_cip_view_pager_p2p_title">Send money to friends and family</string>
+    <string name="paypal_compliance_cip_view_pager_purchases_title">Make purchases using your balance</string>
+    <string name="paypal_compliance_cip_view_pager_balance_title">Keep a secret stash of fun money</string>
+    <!-- CIP start screen -->
+    <string name="paypal_compliance_cip_intro_title">To keep your money in PayPal, we need a bit more info</string>
+    <string name="paypal_compliance_cip_intro_description">Confirming customer identities is one of the ways we keep your account secure. You\’ll only do this once.</string>
+    <!-- CIP MiTek Failed Start Screen -->
+    <string name="paypal_compliance_cip_mitek_failed_intro_title">We need a bit more info</string>
+    <string name="paypal_compliance_cip_mitek_failed_intro_description">We couldn\'t confirm your identity using your photo ID. To keep your money in PayPal, we\’ll need a bit more info from you.</string>
+    <!-- CIP Experiment Start Screen -->
+    <string name="paypal_compliance_cip_experiment_intro_title">Confirm your identity</string>
+    <string name="paypal_compliance_cip_experiment_intro_description">Confirming customer identities is one of the ways we keep your account secure. You’ll only do this once.</string>
+    <string name="paypal_compliance_cip_experiment_intro_link">Use your SSN instead</string>
+    <string name="paypal_compliance_cip_experiment_intro_button">Use Your Driver\'s License</string>
+    <!-- CIP MiTek Instructions -->
+    <string name="paypal_compliance_cip_mitek_instructions_title">Place your ID on a flat surface and we\'ll take a photo for you.</string>
+    <!-- CIP ID auto-capture failed -->
+    <string name="paypal_compliance_cip_id_autocaputre_failed_title">We didn\'t get a photo of your ID</string>
+    <string name="paypal_compliance_cip_id_autocaputre_failed_description">Place your photo ID on a flat surface and aim your device directly at it. Make sure you have good lighting or turn on the flash.\nHold your device level and steady, and tap the camera icon to take a photo manually.</string>
+    <string name="paypal_compliance_cip_id_autocaputre_failed_link">Try again for an automatic photo</string>
+    <string name="paypal_compliance_cip_id_autocapture_failed_button">Take a Photo Manually</string>
+    <!-- CIP help -->
+    <string name="paypal_compliance_cip_help_description">Place your ID on a flat surface and we\'ll take a photo for you.</string>
+    <!-- CIP MiTek verification passed -->
+    <string name="paypal_compliance_cip_mitek_verification_passed_title">You\'re all set</string>
+    <string name="paypal_compliance_cip_mitek_verification_passed_description">Your money is now available in your PayPal balance. You can send it, spend it, or just keep it as your secret stash of fun money.</string>
+    <!-- CIP Fraud User -->
+    <string name="paypal_compliance_cip_fraud_user_title">There\'s an issue with  your account</string>
+    <string name="paypal_compliance_cip_fraud_user_description">To help resolve it, please contact us.</string>
+    <!-- CIP Network or server error -->
+    <string name="paypal_compliance_cip_error_title">We\'re sorry, things don\'t appear to be working right now</string>
+    <string name="paypal_compliance_cip_error_description">Check back in a little while.</string>
+    <!-- CIP Dexter reviewing -->
+    <string name="paypal_compliance_cip_reviewing_title">We\'ll send you an update</string>
+    <string name="paypal_compliance_cip_reviewing_description">Sorry about that. It\'s taking a little longer than we expected. When we\'re done reviewing your driver\'s license, we\'ll send you a notification. Look for it in the next 5 minutes.</string>
+    <string name="paypal_compliance_cip_reviewing_button_text">Account Summary</string>
+    <string name="paypal_compliance_cip_done_button">Done</string>
+    <string name="paypal_compliance_cip_next_button">Next</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_title_dialog">Are you sure?</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_message_dialog">We\'ll send you an update as soon as we\'re done.</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_positive_button_dialog">CANCEL</string>
+    <string name="paypal_compliance_cip_exit_interstitial_screen_negative_button_dialog">GO TO SUMMARY</string>
+</resources>

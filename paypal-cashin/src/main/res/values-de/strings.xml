@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ppcash_store_info_title_description">Wenn Sie Geld im Laden einzahlen, wird eine Gebühr in Höhe von %1$s berechnet.</string>
+    <string name="ppcash_store_info_barcode_expiry">Ihr Barcode verfällt in %1$s Stunde.</string>
+    <string name="ppcash_store_info_code_expiry">Ihr Barcode verfällt in %1$s Stunde.</string>
+    <string name="ppcash_store_info_barcode_expiry_more">Ihr Barcode verfällt in %1$s Stunden.</string>
+    <string name="ppcash_store_info_code_expiry_more">Ihr Barcode verfällt in %1$s Stunden.</string>
+    <string name="ppcash_store_info_amount_to_add">Sie können bei dieser Transaktion %1$s bis zu %2$s auf Ihr PayPal-Konto einzahlen. &lt;a href="#"&gt;Mehr erfahren&lt;/a&gt;</string>
+    <string name="ppcash_store_info_time_info">&lt;b&gt;Das Geld ist nach nur %1$s Minuten in Ihrem PayPal-Konto.&lt;/b&gt;</string>
+    <string name="ppcash_store_info_limit_info">&lt;a href="#"&gt;&lt;b&gt;Tageslimit: %1$s | Monatslimit: %2$s&lt;/b&gt;&lt;/a&gt;</string>
+    <string name="ppcash_store_info_service_unavailable">&lt;b&gt;Service vorübergehend an allen Standorten in Florida nicht verfügbar&lt;/b&gt;</string>
+    <string name="ppcash_store_info_instruction_text">Gehen Sie mit Ihrem Code zum Walmart MoneyCenter oder zum Kundenservice im Geschäft (nicht zum Kassierer).</string>
+    <string name="ppcash_store_info_generate_barcode">Barcode generieren</string>
+    <string name="ppcash_store_info_generate_code">Code erzeugen</string>
+    <string name="ppcash_store_info_map_view_fee">Gebühr: %1$s</string>
+    <string name="ppcash_store_info_map_view">Karte</string>
+    <string name="ppcash_store_info_error_title">Entschuldigung</string>
+    <string name="ppcash_store_info_error_content">Wir können Ihnen diese Informationen gerade nicht anzeigen. Versuchen Sie es in Kürze erneut.</string>
+    <string name="ppcash_about">Mehr zu PayPal Cash</string>
+    <string name="ppcash_store_list_content_eligible">Wählen Sie einen Laden aus, um einen Barcode zu erstellen. Sie zahlen erst eine Gebühr, wenn Sie Geld im Laden einzahlen.</string>
+    <string name="ppcash_store_list_last_visited">Zuletzt besuchter Laden</string>
+    <string name="ppcash_store_list_service_fee">Gebühr: %1$s</string>
+    <string name="ppcash_store_list_service_fee_range">Gebühr: %1$s bis %2$s</string>
+    <string name="ppcash_cip_dialog_title">Wir brauchen weitere Informationen</string>
+    <string name="ppcash_cip_dialog_body">Anschließend können Sie für nur %1$s in Läden Bargeld auf Ihr PayPal-Konto einzahlen.</string>
+    <string name="ppcash_cip_negative_button_title">Ich möchte das später erledigen</string>
+    <string name="ppcash_cip_positive_button_title">Weiter</string>
+    <string name="ppcash_barcode_expiry_advise">Barcode läuft am %1$s um %2$s ab</string>
+    <string name="ppcash_code_expiry_advise">Code verfällt am %1$s um %2$s</string>
+    <string name="ppcash_barcode_page_title">Informationen für den Kassierer</string>
+    <string name="ppcash_barcode_partner_title">Schützen Sie sich vor Betrug.</string>
+    <string name="ppcash_barcode_partner_text">Verwenden Sie diesen Barcode nur, um Geld auf Ihr eigenes PayPal-Konto einzuzahlen. Wenn Sie diesen Barcode von jemand anderem erhalten, ist es ein Betrugsversuch.</string>
+    <string name="ppcash_code_partner_text">Verwenden Sie diesen Code nur, um Geld auf Ihr eigenes PayPal-Konto einzuzahlen. Wenn Sie diesen Code von jemand anderem erhalten, ist es ein Betrugsversuch.</string>
+    <string name="ppcash_barcode_ppcash_faq_link_text">So funktioniert PayPal Cash</string>
+    <string name="ppcash_barcode_page_indicator_text_1">Streichen und mehr erfahren</string>
+    <string name="ppcash_barcode_page_indicator_text_2">Streichen, um zur vorigen Seite zurückzukehren</string>
+    <string name="ppcash_manual_code_step_1_title">1. Code eingeben</string>
+    <string name="ppcash_manual_code_step_1_body">Geben Sie den unten angezeigten Code ein.</string>
+    <string name="ppcash_map_show_store_list">Läden anzeigen</string>
+    <string name="ppcash_map_select_store">Laden auswählen</string>
+    <string name="ppcash_map_switch_to_list">Liste</string>
+    <string name="add_cash_title">Bargeld im Laden einzahlen</string>
+    <string name="add_cash_label">Bargeld auf PayPal-Konto einzahlen</string>
+    <string name="add_cash_content">Gehen Sie mit Ihrem Bargeld in einen teilnehmenden Laden und zeigen Sie dem Kassierer Ihren Barcode. Das Geld ist nach nur 15 Minuten in Ihrem PayPal-Konto.</string>
+</resources>

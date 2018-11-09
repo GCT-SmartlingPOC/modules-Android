@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_no_internet_description">Please make sure your device is not in flight mode and is connected to either Wi-Fi or mobile data.</string>
+    <string name="common_webview_error_header">We\'re sorry</string>
+    <string name="common_webview_error_sub_header">We can\'t show you that information right now.</string>
+    <string name="dialog_rating_title">Happy with the app so far\?</string>
+    <string name="dialog_rating_message">Please give us your feedback.</string>
+    <string name="accessibility_add_your_info">Add your information</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_out_button_label_continue">Продолжить</string>
+    <string name="cash_out_button_label_code_generate">Создать код для вывода средств</string>
+    <string name="cash_out_title_first_time_use">Получить деньги</string>
+    <string name="cash_out_title_amount_entry">Введите сумму</string>
+    <string name="cash_out_title_review">Проверьте данные</string>
+    <string name="cash_out_title_show_code">Код для вывода средств</string>
+    <string name="cash_out_first_time_use_header">Удобный доступ к остатку на вашем счете PayPal во всех магазинах Walmart.</string>
+    <string name="cash_out_first_time_use_sub_header">Применяются суточные и месячные лимиты.</string>
+    <string name="cash_out_first_time_use_instruction1">1. Укажите сумму, которую хотите снять со счета.</string>
+    <string name="cash_out_first_time_use_instruction2">2. Проверьте данные о выводе средств и создайте код для вывода средств.</string>
+    <string name="cash_out_first_time_use_instruction3">3. Покажите код для вывода средств кассиру в Walmart Money Center или на стойке обслуживания покупателей. Убедитесь, что у вас есть с собой действительное водительское удостоверение или удостоверение личности.</string>
+    <string name="cash_out_withdrawal_amount_text_fee_advice">Будет удержана комиссия %1$s</string>
+    <string name="cash_out_withdrawal_amount_text_limits_advice">Ежедневный лимит: %1$s | Ежемесячный лимит: %2$s</string>
+    <string name="cash_out_withdrawal_amount_error_text_below_minimum">Эта сумма меньше минимальной суммы для вывода средств в размере %1$s.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_daily_limit">Эта сумма превышает максимальную сумму для вывода средств %1$s.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_available_balance">Эта сумма превышает доступный остаток на счете.</string>
+    <string name="cash_out_withdrawal_amount_error_text_amount_not_entered">Введите сумму денежных средств.</string>
+    <string name="cash_out_review_amount_title">Сумма, снимаемая со счета</string>
+    <string name="cash_out_review_fees">Комиссия</string>
+    <string name="cash_out_review_amount_to_get">Сумма, которую вы получите</string>
+    <string name="cash_out_review_id_text">Предоставьте действительное удостоверение личности государственного образца</string>
+    <string name="cash_out_info_acceptableIds">Приемлемые удостоверения личности</string>
+    <string name="cash_out_info_fees">Комиссия</string>
+    <string name="cash_out_info_fees_content">Каждый раз, когда вы получаете наличные, %1$s взимает комиссию в размере %2$s.</string>
+    <string name="cash_out_error_screen_description_general">Возникла ошибка. Повторите попытку.</string>
+    <string name="cash_out_error_screen_try_again">Повторите попытку</string>
+    <string name="uirow_default_error_status">Откл.</string>
+    <string name="cash_out_withdraw_id_text">Предоставьте действительное удостоверение личности государственного образца</string>
+    <string name="cash_out_withdraw_instruction_text">Покажите этот код кассиру</string>
+    <string name="cash_out_withdraw_map_direction_link_text">Найдите %1$s рядом с вами</string>
+    <string name="cash_out_withdraw_amount_label">Сумма для вывода средств со счета</string>
+    <string name="cash_out_withdraw_code_expiry_advise_more">&lt;span&gt;Срок действия кода истекает через &lt;b&gt;%d мин.&lt;/b&gt;&lt;/span&gt;</string>
+    <string name="cash_out_withdraw_code_expiry_advise_one">&lt;span&gt;Срок действия кода истекает через &lt;b&gt;1 минуту&lt;/b&gt;&lt;/span&gt;</string>
+    <string name="cash_out_withdraw_code_expiry_expired">&lt;span&gt;Срок действия кода истек&lt;/span&gt;</string>
+    <string name="cash_out_error_button_caption_retry">Повторите попытку</string>
+    <string name="cash_out_error_general_message">Возникла ошибка. Повторите попытку позднее.</string>
+    <string name="gcm_cash_out_success">%1$s Вы вывели %2$s на %3$s. Ваш остаток составляет %4$s</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cash_out_title_first_time_use">Get Cash</string>
+    <string name="cash_out_title_show_code">Withdrawal code</string>
+    <string name="cash_out_first_time_use_instruction1">1. Enter the amount you want to withdraw.</string>
+    <string name="cash_out_first_time_use_instruction3">3. Show the withdrawal code to a cashier at a Walmart Money Centre or Customer Service desk. Make sure you bring a valid driving licence or ID card.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_daily_limit">This exceeds the maximum withdrawal of %1$s.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_available_balance">This exceeds the amount you have available in your PayPal balance.</string>
+    <string name="cash_out_review_amount_to_get">Amount you\'ll receive</string>
+    <string name="cash_out_info_acceptableIds">Acceptable IDS</string>
+    <string name="cash_out_error_screen_description_general">We\'re sorry, something seems to have gone wrong. Please try again.</string>
+    <string name="cash_out_error_general_message">We\'re sorry, something seems to have gone wrong. Please try again later.</string>
+</resources>

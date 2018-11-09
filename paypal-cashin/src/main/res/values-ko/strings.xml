@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ppcash_store_info_title_description">매장에서 현금을 추가할 때 %1$s의 수수료가 부과됩니다.</string>
+    <string name="ppcash_store_info_barcode_expiry">모바일 바코드는 %1$s시간 후에 만료됩니다.</string>
+    <string name="ppcash_store_info_code_expiry">모바일 코드는 %1$s시간 후에 만료됩니다.</string>
+    <string name="ppcash_store_info_barcode_expiry_more">모바일 바코드는 %1$s시간 후에 만료됩니다.</string>
+    <string name="ppcash_store_info_code_expiry_more">모바일 코드는 %1$s시간 후에 만료됩니다.</string>
+    <string name="ppcash_store_info_amount_to_add">이 거래에 대하여 PayPal 계정에 %1$s에서 %2$s까지 추가할 수 있습니다. &lt;a href="#"&gt;더 알아보기&lt;/a&gt;</string>
+    <string name="ppcash_store_info_time_info">&lt;b&gt;금액은 단 %1$s분 이내에 PayPal 계정에 추가됩니다.&lt;/b&gt;</string>
+    <string name="ppcash_store_info_limit_info">&lt;a href="#"&gt;&lt;b&gt;일일 한도: %1$s | 월간 한도: %2$s&lt;/b&gt;&lt;/a&gt;</string>
+    <string name="ppcash_store_info_service_unavailable">&lt;b&gt;모든 플로리다 지역에서 서비스를 일시적으로 사용할 수 없습니다.&lt;/b&gt;</string>
+    <string name="ppcash_store_info_instruction_text">코드를 받아 월마트 MoneyCenter 또는 고객지원센터 데스크(출납원 아님)로 가져가세요.</string>
+    <string name="ppcash_store_info_generate_barcode">바코드 생성</string>
+    <string name="ppcash_store_info_generate_code">코드 생성</string>
+    <string name="ppcash_store_info_map_view_fee">%1$s 수수료</string>
+    <string name="ppcash_store_info_map_view">지도</string>
+    <string name="ppcash_store_info_error_title">죄송합니다.</string>
+    <string name="ppcash_store_info_error_content">해당 정보를 표시하는 중 문제가 발생했습니다. 잠시 후에 다시 시도해 주세요.</string>
+    <string name="ppcash_about">PayPal Cash 정보</string>
+    <string name="ppcash_store_list_content_eligible">바코드를 생성하려면 아래에서 매장을 선택하세요. 매장에서 금액을 추가하기 전에는 수수료가 부과되지 않습니다.</string>
+    <string name="ppcash_store_list_last_visited">마지막으로 방문한 매장</string>
+    <string name="ppcash_store_list_service_fee">%1$s 수수료</string>
+    <string name="ppcash_store_list_service_fee_range">%1$s에서 %2$s의 수수료</string>
+    <string name="ppcash_cip_dialog_title">추가 정보가 필요합니다.</string>
+    <string name="ppcash_cip_dialog_body">이 정보를 제공하면 현지 매장에서 단 %1$s의 수수료로 PayPal 잔액에 현금을 추가할 수 있게 됩니다.</string>
+    <string name="ppcash_cip_negative_button_title">나중에 하기</string>
+    <string name="ppcash_cip_positive_button_title">계속</string>
+    <string name="ppcash_barcode_expiry_advise">바코드는 %1$s %2$s에 만료됩니다.</string>
+    <string name="ppcash_code_expiry_advise">코드는 %1$s %2$s에 만료됩니다.</string>
+    <string name="ppcash_barcode_page_title">출납원용 지시사항</string>
+    <string name="ppcash_barcode_partner_title">사기를 방지하세요.</string>
+    <string name="ppcash_barcode_partner_text">PayPal 계정에 금액을 추가하려면 이 바코드만 이용하세요. 다른 사람에게서 이 바코드를 받을 경우 이는 사기에 이용되는 것입니다.</string>
+    <string name="ppcash_code_partner_text">PayPal 계정에 금액을 추가하려면 이 코드만 이용하세요. 다른 사람에게서 이 코드를 받을 경우 이는 사기에 이용되는 것입니다.</string>
+    <string name="ppcash_barcode_ppcash_faq_link_text">PayPal Cash 사용법</string>
+    <string name="ppcash_barcode_page_indicator_text_1">쓸어넘겨서 더 알아보기</string>
+    <string name="ppcash_barcode_page_indicator_text_2">쓸어넘겨서 돌아가기</string>
+    <string name="ppcash_manual_code_step_1_title">1. 코드 입력</string>
+    <string name="ppcash_manual_code_step_1_body">아래에 표시된 코드를 입력하세요.</string>
+    <string name="ppcash_map_show_store_list">매장 보기</string>
+    <string name="ppcash_map_select_store">매장 선택</string>
+    <string name="ppcash_map_switch_to_list">목록</string>
+    <string name="add_cash_title">매장에서 현금 추가</string>
+    <string name="add_cash_label">PayPal에 현금 추가</string>
+    <string name="add_cash_content">협력 매장에 현금을 가져와서 출납원에게 바코드를 보여주세요.  금액이 단 15분 만에 PayPal 잔액에 추가됩니다.</string>
+</resources>

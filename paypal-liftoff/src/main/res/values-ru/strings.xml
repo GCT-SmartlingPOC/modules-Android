@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="liftoff_enrollment_webview_title">Пользуйтесь всеми возможностями PayPal</string>
+    <string name="liftoff_lite_enrollment_webview_title">Карта PayPal Cash</string>
+</resources>

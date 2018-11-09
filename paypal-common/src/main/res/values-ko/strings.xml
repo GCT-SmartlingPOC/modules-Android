@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert_dialog_default_negative">취소</string>
+    <string name="error_no_connection">연결 안 됨</string>
+    <string name="send_email">이메일</string>
+    <string name="lets_get_started">시작하기</string>
+    <string name="empty_list">표시할 값 없음</string>
+    <string name="app_config_reset_button">재설정</string>
+    <string name="app_config_edit_button">편집</string>
+    <string name="change_endpoint_success_dialog_title">엔드포인트가 변경됨</string>
+    <string name="app_config_success_dialog_title">앱 구성이 변경됨</string>
+    <string name="enable_login_from_home_success_dialog_title">홈에서 로그인 활성화 성공</string>
+    <string name="app_config_search_placeholder">검색</string>
+    <string name="accessibility_toolbar_back">뒤로</string>
+    <string name="accessibility_progress_indicator">진행 중</string>
+    <string name="accessibility_backspace">백스페이스</string>
+    <string name="complete_action_using">연락 수단</string>
+    <string name="general_page_error">이 페이지에 문제가 있는 것 같습니다.</string>
+    <string name="general_intent_handling_error">장애가 발생한 것 같습니다.</string>
+    <string name="search_box_hint">이름, 이메일 또는 휴대폰 입력</string>
+    <string name="done_label">완료</string>
+    <string name="on">켜짐</string>
+    <string name="off_caps">꺼짐</string>
+    <string name="accessibility_close">취소</string>
+    <string name="accessibility_number_pad_double_zero">0 두 번</string>
+    <string name="payment_generic_error_message">죄송합니다. 문제가 발생한 것 같습니다. 잠시 후 다시 시도해 주세요.</string>
+    <string name="withdraw_error_text">불러올 수 없음</string>
+    <string name="card_expired_msg">만료됨</string>
+    <string name="verify_apps_unconfimed_dialog_title">사용하기 전에…</string>
+    <string name="verify_apps_unconfimed_dialog_message">휴대폰 설정에 있는 보안에서 \"앱 인증하기\"를 켜주세요. PayPal 앱을 더욱 안전하게 이용하는 데 도움이 됩니다. 켜기 전에는 로그인이 되지 않습니다.</string>
+    <string name="verify_apps_unconfimed_positive_button">설정으로 이동</string>
+    <string name="verify_apps_unconfimed_negative_button">취소</string>
+    <string name="marshmallow_storage_camera_permission_required">사진을 추가하려면 PayPal이 카메라 및 모바일에 저장된 사진에 액세스하도록 허용하세요.</string>
+    <string name="marshmallow_camera_permission_required">사진을 찍으려면 PayPal이 카메라에 액세스하도록 허용하세요.</string>
+    <string name="marshmallow_storage_permission_required">사진을 추가하려면 PayPal이 모바일에 저장된 사진에 액세스하도록 허용하세요.</string>
+    <string name="phone_settings">설정</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_no_internet_title">인터넷 연결 안 됨</string>
+    <string name="error_no_internet_description">기기가 Wi-Fi나 모바일 데이터를 통해 인터넷에 연결되어 있는지, 그리고 비행기 모드가 아닌지 확인하세요.</string>
+    <string name="common_webview_error_header">죄송합니다...</string>
+    <string name="common_webview_error_sub_header">지금은 해당 정보를 표시할 수 없습니다.</string>
+    <string name="dialog_sure_button">앱 평가하기</string>
+    <string name="dialog_remind_me_later_button">나중에</string>
+    <string name="dialog_no_thanks_button">아니요</string>
+    <string name="dialog_rating_title">앱이 마음에 드세요\?</string>
+    <string name="dialog_rating_message">피드백을 보내주시기 바랍니다.</string>
+    <string name="account_profile_photo_take">사진 새로 찍기</string>
+    <string name="account_profile_photo_delete">사진 삭제</string>
+    <string name="account_profile_photo_delete_dialog_title">계속하시겠어요\? 사진을 삭제하면 친구 및 가족이 고객님을 알아보지 못할 수 있습니다.</string>
+    <string name="account_profile_photo_delete_dialog_positive">삭제</string>
+    <string name="account_profile_photo_delete_dialog_negative">취소</string>
+    <string name="accessibility_add_your_info">정보 추가</string>
+    <string name="account_profile_photo_choose">기존 사진 선택</string>
+</resources>

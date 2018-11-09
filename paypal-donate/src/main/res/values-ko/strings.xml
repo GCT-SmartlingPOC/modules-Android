@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="donation_home_tile_title">기부</string>
+    <string name="donation_home_tile_subtitle">자선단체 지원</string>
+    <string name="donate_intro_title">관심 있는 자선단체에 기부하세요.</string>
+    <string name="donate_intro_body">휴대폰을 통해 바로 국내 및 국제 자선단체에 기부할 수 있습니다. 탭하기만 하면 기분 좋은 기부가 이루어집니다.</string>
+    <string name="donate_intro_next">시작!</string>
+    <string name="donate_location_turn_on_location_services">위치 서비스 켜기</string>
+    <string name="donate_location_body">기기 설정을 변경해 주변에 빠르고 안전한 PayPal 결제를 받는 가맹점을 확인하세요.</string>
+    <string name="donate_skip">건너뛰기</string>
+    <string name="donate_next">다음</string>
+    <string name="donate_search_hint">자선단체 찾기</string>
+    <string name="donate_tab_for_you">추천 단체</string>
+    <string name="donate_tab_popular">인기 단체</string>
+    <string name="donate_see_nearby_charities_subject">근처 자선단체 보기</string>
+    <string name="donate_see_nearby_charities_text">손쉽게 지역 자선단체를 후원하세요. 위치 서비스를 활성화하면 주변을 변화시킬 방법을 찾을 수 있습니다.</string>
+    <string name="donate_popular_footer_text">PayPal Giving Fund를 통해 기부할 수 있는 다른 자선단체 검색</string>
+    <string name="donate_type_featured">추천</string>
+    <string name="donate_type_all">모든 자선단체</string>
+    <string name="donate_type_nearby">근처</string>
+    <string name="donate_type_search_results">검색 결과</string>
+    <string name="donate_charity_ein">EIN: %1$s-%2$s</string>
+    <string name="donate_charity_number">자선단체 번호: %1$s</string>
+    <string name="donate_ca_cra">CRA 번호:%1$s</string>
+    <string name="donate_us_ppgf_disclaimer">PayPal은 이 사이트에서 모금된 기부금에 대한 모든 거래 비용을 제공하여 기부된 선물 100%%가 자선단체에 사용될 수 있도록 합니다. 내 기부는 IRS 등록 501(c)(3) 비영리 조직(연방 납세 번호: 45-0931286)인 PayPal Giving Fund에 모금됩니다. PayPal Giving Fund는 기부에 대한 영수증을 제공하며 여기에는 &lt;a href="%1$s"&gt;기부자 서비스 약관&lt;/a&gt;이 적용됩니다. PayPal에서는 기부금을 받는 자선단체가 미국 국세청(IRS)의 면세 자격이 있으며 인정된 경제 제재 목록에 포함되지 않는지 확인합니다. PayPal Giving Fund에 등록된 자선단체는 일반적으로 PayPal Giving Fund에 기부금이 들어온 후 15일에서 45일 이내에 PayPal 계정을 통해 자금을 지급받게 됩니다. PayPal Giving Fund에 등록되지 않은 자선단체도 추가적으로 심사하여 적합한 것으로 판정되는 경우 일반적으로 90일 이내에 실물 수표 등 다른 수단을 통해 자금을 지급받게 됩니다. PayPal Giving Fund는 모든 기부금을 무이자 계정에 보관합니다. PayPal Giving Fund는 모금되는 모든 기부금에 대한 최고 재량권을 가지고 있으며, 드물게 자선단체가 법적 또는 기타 자격 요건을 충족하지 않을 때 &lt;a href="%2$s"&gt;비영리 단체 인증 정책&lt;/a&gt;에 설명된 바와 같이 자금을 전용할 수 있습니다.</string>
+    <string name="donate_gb_ppgf_enrolled_disclaimer">PayPal과 함께면 나눔의 선물이 더 커집니다. 기부금은 등록된 자선단체인 PayPal Giving Fund UK(No. 1110538)에 모금됩니다. PayPal Giving Fund에서 Gift Aid를 추가하는 링크가 포함된 기부금 영수증을 이메일로 보내 드립니다. PayPal Giving Fund는 PayPal의 지원으로 이 사이트에서 모금된 기부금 전액을 자선단체에 전달합니다. &lt;br /&gt;&lt;br /&gt;고객님이 추천한 자선단체는 일반적인 경우 원래 기부일로부터 15-45일 이내에 자금을 받게 됩니다. 자주 발생하는 일은 아니나, 고객님이 추천한 자선단체에 자금을 전달하지 못할 때도 있습니다. 이 경우 기부금을 재배정하기 전에 유사한 다른 자선단체를 추천해 달라는 요청을 드립니다. 자세한 내용은 PayPal Giving Fund의 &lt;a href="%1$s"&gt;기부금 전달 정책&lt;/a&gt;을 참조해 주세요.</string>
+    <string name="donate_gb_ppgf_unenrolled_disclaimer">PayPal과 함께면 나눔의 선물이 더 커집니다. 기부금은 등록된 자선단체인 PayPal Giving Fund UK(No. 1110538)에 모금됩니다. PayPal Giving Fund에서 Gift Aid를 추가하는 링크가 포함된 기부금 영수증을 이메일로 보내 드립니다. PayPal Giving Fund는 PayPal의 지원으로 이 사이트에서 모금된 기부금 전액을 자선단체에 전달합니다. &lt;br /&gt;&lt;br /&gt; 고객님이 추천한 자선단체는 일반적인 경우 원래 기부일로부터 90일 이내 또는 PayPal Giving Fund에 등록된 경우 15-45일 이내에 자금을 받게 됩니다. 자주 발생하는 일은 아니나, 고객님이 추천한 자선단체에 자금을 전달하지 못할 때도 있습니다. 이 경우 기부금을 재배정하기 전에 유사한 다른 자선단체를 추천해 달라는 요청을 드립니다. 자세한 내용은 PayPal Giving Fund의 &lt;a href="%1$s"&gt;기부금 전달 정책&lt;/a&gt;을 참조해 주세요.</string>
+    <string name="donate_au_ppgf_disclaimer">기부금은 호주 세금 공제 보조 기금이자 호주 자선 및 비영리 단체(ACNC)에 등록된 자선단체인 PayPal Giving Fund(ABN 65 105 950 945)에 모금됩니다. 자세한 내용은 &lt;a href="%1$s"&gt;PayPal 정책&lt;/a&gt;을 참조하세요.</string>
+    <string name="donate_ca_ppgf_disclaimer">PayPal은 이 사이트에서 모금된 기부금에 대한 모든 거래 비용을 제공하여 기부된 선물 100%%가 자선단체에 사용될 수 있도록 합니다. 기부금은 캐나다 국세청에 등록된 자선단체인 PayPal Giving Fund Canada에 모금됩니다(CRA# 081286775RR0001). PayPal Giving Fund Canada는 기부에 대한 영수증을 제공하며 여기에는 &lt;a href="%1$s"&gt;기부자 서비스 약관&lt;/a&gt;이 적용됩니다. PayPal에서는 기부금을 받는 자선단체가 캐나다 국세청에 등록된 상태이며 인정된 경제 제재 목록에 포함되지 않는지 확인합니다. PayPal Giving Fund Canada에 등록된 자선단체는 일반적으로 PayPal Giving Fund Canada에 기부금이 들어온 후 15일에서 45일 이내에 PayPal 계정을 통해 자금을 지급받게 됩니다. PayPal Giving Fund Canada에 등록되지 않은 자선단체도 추가적으로 심사하여 적합한 것으로 판정되는 경우 일반적으로 90일 이내에 실물 수표 등 다른 수단을 통해 자금을 지급받게 됩니다. PayPal Giving Fund Canada는 모든 기부금을 무이자 계정에 보관합니다. PayPal Giving Fund Canada는 모금되는 모든 기부금에 대한 최고 재량권을 가지고 있으며, 드물게 자선단체가 법적 또는 기타 자격 요건을 충족하지 않을 때 &lt;a href="%2$s"&gt;자선단체 인증 정책&lt;/a&gt;에 설명된 바와 같이 자금을 전용할 수 있습니다.</string>
+    <string name="donate_disclaimer_default">기부금은 이 페이지에서 설명된 %1$s 단체에 모금됩니다. 아래 기부 버튼을 클릭하고 기부 금액을 선택하면 앞서 언급된 자선단체를 위해 기부를 진행하는 데 동의하는 것입니다.</string>
+    <string name="donate_policy_webview_header">PayPal Giving Fund 정책</string>
+    <string name="donate_charity_website">웹사이트 방문</string>
+    <string name="donate_charity_bookmark">자선단체 책갈피 지정</string>
+    <string name="donate_charity_source">출처: %1$s</string>
+    <string name="paypal_giving_fund">PayPal Giving Fund 프로필</string>
+    <string name="charity_commission_public_information">자선단체 수수료 공개 정보</string>
+    <string name="australian_charities_and_not_for_profits_commission">호주 자선 및 비영리 단체(ACNC)</string>
+    <string name="canada_revenue_agency">캐나다 국세청(CRA)</string>
+    <string name="donate_minimum">최소 기부액 %1$s</string>
+    <string name="donate_share_user_info_us">내 이름과 이메일을 자선단체와 공유</string>
+    <string name="donate_share_user_info_uk_enrolled">이 자선단체와 고객님의 이름 및 이메일을 공유하여 기부금 내역을 알 수 있도록 합니다.</string>
+    <string name="donate_share_user_info_uk_un_enrolled">이 자선단체가 PayPal Giving Fund에 등록하는 경우 고객님의 이름 및 이메일을 공유합니다.</string>
+    <string name="donate_share_user_info_au">해당 자선단체와 고객님의 이름 및 이메일 주소를 공유합니다. 이 확인란을 선택하면 고객님이 추천한 자선단체가 연락할 수 있습니다.</string>
+    <string name="donate_share_user_info_ca_enrolled">고객님이 추천한 자선단체와 고객님의 이름, 이메일 주소 및 기부 세부정보를 공유하여 연락할 수 있도록 합니다.</string>
+    <string name="donate_share_user_info_ca_un_enrolled">고객님이 추천한 자선단체가 PayPal Giving Fund에 등록하는 경우 고객님의 이름, 이메일 주소 및 기부 세부정보를 공유하여 연락할 수 있도록 합니다.</string>
+    <string name="donate_description">PayPal Giving Fund로 %1$s에 기부하세요.</string>
+    <string name="donate_description_global">%1$s에 기부</string>
+    <string name="donate_webview_header_default">PayPal Giving Fund로 기부할 수 있습니다.</string>
+    <string name="donate_webview_header_global">PayPal로 기부하기</string>
+    <string name="donate_done">완료</string>
+    <string name="donate_more">다시 기부</string>
+    <string name="donate_success_title">%1$s을(를) 기부했습니다.</string>
+    <string name="donate_success_title_2">%1$s의 금액을 %2$s 님에게 기부했습니다.</string>
+    <string name="donate_success_title_3">기부해 주셔서 감사합니다.</string>
+    <string name="donate_success_details">고객님의 따뜻한 기부는 고객님이 뜻을 두고 있는 좋은 일의 발전을 위해 사용됩니다.</string>
+    <string name="donate_success_share_this_cause">기부활동 공유</string>
+    <string name="donate_success_share_title">PayPal Giving Fund로 기부할 수 있습니다.</string>
+    <string name="donate_success_share_text">%1$s을(를) 돕기 위해 기부했습니다. 함께 동참하세요. 함께하면 더 나은 세상을 만들 수 있습니다. %2$s</string>
+    <string name="donate_success_view_activity">활동에서 기부 확인 가능</string>
+    <string name="donate_pending_title">기부 대기 중</string>
+    <string name="donate_pending_details">규정에 따라 이 결제를 검토해야 합니다. 24-72시간 이내에 기부 상태에 대해 알려드리겠습니다.</string>
+    <string name="donate_pending_view_activity">활동내역에서 거래 보기</string>
+    <string name="donate_empty_header">검색 결과가 없습니다.</string>
+    <string name="donate_empty_text">새 자선단체가 계속해서 추가되고 있습니다. 다시 확인해 주세요.</string>
+    <string name="donate_error_message">저희 쪽에 장애가 발생한 것 같습니다. 다시 시도해 주세요. </string>
+    <string name="donate_alert_dialog_title">계속하시겠어요\?</string>
+    <string name="donate_alert_dialog_text"> 돌아가시겠어요\? </string>
+    <string name="donate_alert_dialog_invalid_link_title">자선단체 링크에 오류가 있습니다.</string>
+    <string name="donate_alert_dialog_invalid_link_text">다른 사람이 고객님과 자선단체를 공유하려 했지만 잘못된 주소를 복사한 것 같습니다. 자선단체를 검색해 보세요.</string>
+    <string name="donate_try_again">다시 시도 필요</string>
+    <string name="accessibility_donate_webview_leave">기부 사이트 나가기</string>
+    <string name="accessibility_donate_clear">지우기</string>
+    <string name="donate_charity_list_error_header">불러올 수 없음</string>
+    <string name="donate_charity_list_error">저희 쪽에 장애가 발생한 것 같습니다. 잠시 후에 다시 시도해 주세요.</string>
+</resources>
