@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <string name="app_name">PayPal Modules</string>
-    <string name="container_modules_authority_name">com.PayPal.android.p2pmobile.container.modules</string>
-    <string name="config_deep_link_url_scheme">config_PayPal_modules</string>
-    <string name="deep_link_url_scheme">PayPal_modules</string>
-</resources>
