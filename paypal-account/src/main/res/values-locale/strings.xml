@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- Common Error -->
+    <string name="error_no_internet_title">No internet connection</string>
+    <string name="error_no_internet_description">Please make sure your device is not in flight mode and is connected to either Wi-Fi or mobile data.</string>
+    <string name="common_webview_error_header">We\'re sorry...</string>
+    <string name="common_webview_error_sub_header">We can\'t show you that information right now.</string>
+
+    <!-- App Rating dialogs -->
+    <string name="dialog_sure_button">Rate the App</string>
+    <string name="dialog_remind_me_later_button">Not Now</string>
+    <string name="dialog_no_thanks_button">No thanks</string>
+    <string name="dialog_rating_title">Happy with the app so far?</string>
+    <string name="dialog_rating_message">Your feedback is always appreciated.</string>
+
+    <string name="account_profile_photo_take">Take new photo</string>
+    <string name="account_profile_photo_delete">Delete photo</string>
+    <string name="account_profile_photo_delete_dialog_title">Are you sure? If you remove your photo, friends and family might not know it\'s you.</string>
+    <string name="account_profile_photo_delete_dialog_positive">Delete</string>
+    <string name="account_profile_photo_delete_dialog_negative">Cancel</string>
+    <string name="accessibility_add_your_info">Add your information</string>
+
+    <string name="account_profile_photo_choose">Choose existing photo</string>
+    <string name="fragment_profile_list_paypal_me">PayPal.Me</string>
+</resources>
