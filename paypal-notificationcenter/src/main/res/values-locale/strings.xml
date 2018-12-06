@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="fragment_message_center_title">Message Centre</string>
+    <string name="message_center_all_done_title">All done for now</string>
+    <string name="message_center_all_done_subtitle">Check back later for handy tips and recommendations to keep your account in tip top shape.</string>
+    <string name="message_center_morning_salutation">Good morning %1$s</string>
+    <string name="message_center_afternoon_salutation">Good afternoon %1$s</string>
+    <string name="message_center_evening_salutation">Good evening %1$s</string>
+    <string name="message_center_header_TO_DO">To do</string>
+    <string name="message_center_header_MORE_TO_EXPLORE">More To Explore</string>
+    <string name="message_center_header_PAYPAL_TIPS">PayPal tips</string>
+    <string name="message_center_header_UNKNOWN">Unknown</string>
+    <string name="accessibility_notification_center_dismiss">Dismiss</string>
+</resources>
