@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Button Labels -->
+    <string name="cash_out_button_label_continue">Continue</string>
+    <string name="cash_out_button_label_code_generate">Generate Withdrawal Code</string>
+
+    <!-- Toolbar Titles -->
+    <string name="cash_out_title_first_time_use">Get Cash</string>
+    <string name="cash_out_title_amount_entry">Enter the amount</string>
+    <string name="cash_out_title_review">Review Details</string>
+    <string name="cash_out_title_show_code">Withdrawal Code</string>
+
+    <!-- first time use screen -->
+    <string name="cash_out_first_time_use_header">Conveniently access your PayPal balance at all Walmart locations.</string>
+    <string name="cash_out_first_time_use_sub_header">Daily &amp; monthly limits apply.</string>
+    <string name="cash_out_first_time_use_instruction1">1. Enter the amount you want to withdraw.</string>
+    <string name="cash_out_first_time_use_instruction2">2. Review your withdrawal details and generate your withdrawal code.</string>
+    <string name="cash_out_first_time_use_instruction3">3. Show the withdrawal code to a cashier at a Walmart Money Centre or Customer Service desk. Make sure you bring a valid driving licence or ID card.</string>
+
+    <!-- Enter Withdrawal Amount Screen -->
+    <string name="cash_out_withdrawal_amount_text_fee_advice">A %1$s fee will be deducted</string>
+    <string name="cash_out_withdrawal_amount_text_limits_advice">Daily limit: %1$s | Monthly limit: %1$s</string>
+    <string name="cash_out_withdrawal_amount_error_text_below_minimum">This is less than the minimum withdrawal amount of %1$s.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_daily_limit">This is more than the maximum withdrawal of %1$s.</string>
+    <string name="cash_out_withdrawal_amount_error_text_above_available_balance">This is more than your available balance.</string>
+    <string name="cash_out_withdrawal_amount_error_text_amount_not_entered">Please enter an amount.</string>
+
+    <!-- Review screen -->
+    <string name="cash_out_review_amount_title">Amount you\'re withdrawing</string>
+    <string name="cash_out_review_fees">Fee</string>
+    <string name="cash_out_review_amount_to_get">Amount you\'ll get</string>
+    <string name="cash_out_review_id_text">Bring a valid government-issued ID</string>
+
+    <!-- Info screen -->
+    <string name="cash_out_info_acceptableIds">Acceptable IDS</string>
+    <string name="cash_out_info_fees">Fee</string>
+	<string name="cash_out_info_fees_content">A %1$s fee is charged by %1$s every time you get cash.</string>
+
+    <!-- Error Screens -->
+    <string name="cash_out_error_screen_description_general">We\'re sorry, something seems to have gone wrong. Try again. </string>
+    <string name="cash_out_error_screen_try_again">Please try again</string>
+
+    <!-- UIRow -->
+    <string name="uirow_default_error_status">OFF</string>
+
+    <!-- Withdraw Code Screen -->
+    <string name="cash_out_withdraw_id_text">Bring a valid government-issued ID</string>
+    <string name="cash_out_withdraw_instruction_text">Show this code to the cashier</string>
+    <string name="cash_out_withdraw_map_direction_link_text">Find a %1$s near you</string>
+    <string name="cash_out_withdraw_amount_label">Withdrawal amount</string>
+    <string name="cash_out_withdrawal_expiry_time_format" translatable="false">hh:mm a</string>
+    <string name="cash_out_withdraw_code_expiry_advise_more"><![CDATA[<span>Code expires in <b>%%1$d mins</b></span>]]></string>
+    <string name="cash_out_withdraw_code_expiry_advise_one"><![CDATA[<span>Code expires in <b>1 min</b></span>]]></string>
+    <string name="cash_out_withdraw_code_expiry_expired"><![CDATA[<span>Code has expired</span>]]></string>
+
+    <!-- Error Screen -->
+    <string name="cash_out_error_button_caption_retry">Please try again</string>
+    <string name="cash_out_error_button_caption_confirm">OK</string>
+    <string name="cash_out_error_general_message">We\'re sorry, something seems to have gone wrong. Please try again later.</string>
+
+    <!-- Push Notification -->
+    <string name="gcm_cash_out_success">%%1$s You withdrew %%2$s at %%3$s. Your balance is %%4$s</string>
+</resources>
