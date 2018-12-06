@@ -147,11 +147,11 @@
     <string name="credit_paypal_later_message">We\'re taking you to your plan details</string>
     <string name="paypal_later_tile_title">PayPal Later</string>
     <plurals name="credit_paypal_later_open_plans">
-        <item quantity="one">%1$d OPEN PLAN</item>
+        <item quantity="one">%1$d OPEN PLANS</item>
         <item quantity="other">%1$d OPEN PLANS</item>
     </plurals>
     <plurals name="credit_paypal_later_overdue_plans">
-        <item quantity="one">%1$d PLAN OVERDUE</item>
+        <item quantity="one">%1$d PLANS OVERDUE</item>
         <item quantity="other">%1$d PLANS OVERDUE</item>
     </plurals>
     <string name="credit_no_open_plans">NO OPEN PLANS</string>
