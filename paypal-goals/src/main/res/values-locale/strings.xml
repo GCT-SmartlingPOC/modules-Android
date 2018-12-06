@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="moneybox_text_single_goal_available">YOU HAVE %1$s GOAL</string>
+    <string name="moneybox_text_multiple_goals_available">YOU HAVE %1$s GOALS</string>
+    <string name="moneybox_text_single_goal_reached">YOU\'VE REACHED %1$s GOAL</string>
+    <string name="moneybox_text_multiple_goals_reached">YOU\'VE REACHED %1$s GOALS</string>
+    <string name="moneybox_text_goals_unavailable">CREATE A GOAL</string>
+    <string name="moneybox_tile_title">Manage Goals</string>
+    <string name="create_moneybox_btn_title">Create a Goal</string>
+    <string name="create_moneybox_info_title">Organise your money with Goals</string>
+    <string name="goals_title">Goals</string>
+    <string name="goals_subtitle">Set a financial goal – a holiday, a new TV or a rainy day fund – and let us help you reach it.</string>
+    <string name="add_moneyBox">Add a Goal</string>
+    <string name="goal_reached_message">%1$s target reached</string>
+    <string name="accessibility_moneybox_add">Add new Moneybox</string>
+    <string name="create_moneybox_info_description">Choose your goals – emergency cash, bills or fun – and put money aside so you have it when you need it. To spend it, simply move it to your balance.</string>
+    <string name="goals_create_goal">Create a Goal</string>
+    <string name="goals_moneybox_manage_goal">Manage Goal</string>
+    <string name="goals_add_money_goal">Add Money To Goal</string>
+    <string name="goals_automatic_transfer">Automatic transfer</string>
+    <string name="goals_automatic_transfer_title">Automatic transfers</string>
+    <string name="goals_failed_automatic_transfer">Failed automatic transfer</string>
+    <string name="goals_paused_automatic_transfer">Paused automatic transfer</string>
+    <string name="goals_transfer_to_goal">Transfer to goal</string>
+    <string name="goals_one_time_transfer">One-off transfer</string>
+    <string name="goals_failed_one_time_transfer">Failed one-off transfer</string>
+    <string name="goals_upcoming">SCHEDULED</string>
+    <string name="goals_pending">PENDING</string>
+    <string name="goals_completed">COMPLETED</string>
+    <string name="goals_manage_goal_text">Manage Goal</string>
+    <string name="goals_move_money_out_text">Transfer money out</string>
+    <string name="goals_transfer_money_text">Withdraw Money</string>
+    <string name="goals_leave__it_for_now">Leave it for now</string>
+    <string name="goals_transfer_set_up_link">Set up</string>
+    <string name="goals_no_goal_activity_title_text">You haven\'t added money yet</string>
+    <string name="goals_no_goal_activity_details_text">Set up automatic transfers or just add money whenever you have some extra cash.</string>
+    <string name="goals_goal_reached_text">You\'ve reached your target of </string>
+    <string name="goal_amount">Target amount: %1$s</string>
+    <string name="goals_automatic_transfer_status_off">Automatic withdrawals are off</string>
+    <string name="goals_automatic_transfer_status_on">&lt;font color=\"#8E000000\"&gt; %1$s &lt;/font&gt; &lt;font color=\"#000000\"&gt; %2$s &lt;/font&gt;</string>
+    <string name="goals_automatic_transfer_status_paused">Automatic transfers are PAUSED</string>
+    <string name="goals_on_hold_text">ON HOLD</string>
+    <string name="goals_paused">PAUSED</string>
+    <string name="goals_percentage">%1$d%%</string>
+    <string name="goals_add_money_text">Add Money</string>
+    <string name="goals_automatic_transfer_paused_text">Transfer all or some of the money to your balance so you can spend it. Or you can keep using this goal to set aside money whenever you\'d like.</string>
+    <string name="goals_reached_full_text">We\'ve also paused your recurring transfers, which you can restart at any time.</string>
+    <string name="goals_setup_auto_transfer">Set up automatic transfers</string>
+    <string name="goals_move_money_out">Move money out</string>
+    <string name="moneybox_goal_reached_message">You\'ve reached your %1$s goal!</string>
+    <string name="moneybox_goal_reached_sub_message">Set aside a different amount\n </string>
+    <string name="moneybox_goal_reached_pause_transfer_sub_message">&gt;</string>
+    <string name="goals_add_some_money">Add money</string>
+    <string name="goals_transfer_money_out">Transfer money out</string>
+    <string name="goals_change_auto_transfers">Change automatic transfers</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+    <string name="moneybox_direct_deposit_headertext">You received %1$s from %1$s on %1$s</string>
+    <string name="moneybox_direct_deposit_paypalbalance">PayPal balance: %1$s</string>
+    <string name="moneybox_direct_deposit_subtext">Set aside some of the money you received for a holiday, emergency fund or any other goal</string>
+    <string name="moneybox_direct_deposit_activity_subtext">View transaction details</string>
+    <string name="moneybox_user_ppbalance">Balance</string>
+    <string name="new_goal">New Goal</string>
+    <string name="create_goal_heading">Name your goal</string>
+    <string name="goal_direct_retry_failure">We\'re sorry, something seems to have gone wrong,</string>
+    <string name="goal_direct_retry_failure_detail">It looks like something went wrong at our end.</string>
+    <string name="create_goal_button">Create Goal</string>
+    <string name="moneybox_create_progress">Creating your goal</string>
+    <string name="moneybox_transfer_progress">Just a moment</string>
+    <string name="moneybox_direct_deposit_list_heading">Set aside money for a goal</string>
+    <string name="moneybox_direct_deposit_create_goal_water_text">Holiday, rainy day fund or something special</string>
+    <string name="moneybox_direct_deposit_review_tool_setspecific_amount">Set aside a specific amount</string>
+    <string name="moneybox_direct_deposit_review_setaside_button_text">Set Aside Money</string>
+    <string name="moneybox_direct_deposit_review_bottom_text">We\'ll transfer this amount from your PayPal balance to your Goal immediately. You can move it back at any time.</string>
+    <string name="moneybox_direct_deposit_other_amounts_to_label">to</string>
+    <string name="moneybox_direct_deposit_review_main_text">You received %1$s. How much do you want to set aside?</string>
+    <string name="moneybox_direct_deposit_review_predefine_bottom_text">We\'ll transfer %1$s from your PayPal balance to your Goal immediately. You can move it back at any time.</string>
+    <string name="moneybox_direct_deposit_review_setaside_link_text">Nicely done! You\\’re %1$s closer to your goal.</string>
+    <string name="goals_other_amounts_arrow">This amount exceeds your PayPal balance</string>
+    <string name="moneybox_direct_deposit_review_movemoney">MOVE MONEY TO</string>
+    <string name="moneybox_direct_deposit_review_tool_heading">Choose how much to set aside</string>
+    <string name="moneybox_direct_deposit_3_percent">3%</string>
+    <string name="moneybox_direct_deposit_5_percent">5%</string>
+    <string name="moneybox_direct_deposit_10_percent">10%</string>
+    <string name="goal_direct_gotolist_failure_button_text">Go to Goals</string>
+    <string name="moneybox_direct_deposit_transfer_success_text">You’ll need to add money to your PayPal balance or change the amount you’d like to set aside.</string>
+    <string name="moneybox_direct_deposit_view_goal">View Goal</string>
+    <string name="balance_transfer_exceed">\@string/goals_add_some_money</string>
+    <string name="balance_transfer_exceed_subtext">\@string/goals_transfer_money_out</string>
+    <string name="goal_direct_tryagain_button_text">Please try again</string>
+    <string-array name="moneybox_details_list_item_labels">
+        <item>@string/goals_change_auto_transfers</item>
+        <item>@string/goals_add_some_money</item>
+        <item>@string/goals_transfer_money_out</item>
+    </string-array>
+    <string-array name="moneybox_details_list_with_setup_and_move_money_item_labels">
+        <item>@string/goals_setup_auto_transfer</item>
+        <item>@string/goals_add_some_money</item>
+        <item>@string/goals_change_auto_transfers</item>
+    </string-array>
+    <string-array name="moneybox_details_list_without_move_money_item_labels">
+        <item>@string/goals_add_some_money</item>
+        <item>@string/goals_setup_auto_transfer</item>
+    </string-array>
+    <string-array name="moneybox_details_list_with_setup_without_move_money_item_labels">
+        <item>%1$s %2$s</item>
+        <item>You\'ll need to connect them to use\nyour PayPal account with Acorns.</item>
+    </string-array>
+    <string name="goal_transaction_amount">Transfer all or some of the money to your balance so you can spend it. Or you can keep using this goal to set aside money whenever you\'d like.</string>
+</resources>
