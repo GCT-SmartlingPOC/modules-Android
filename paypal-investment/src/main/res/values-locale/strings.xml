@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">PayPal-investment</string>
+    <string name="paypal_balance">PayPal balance</string>
+
+    <string name="invest_details_title">Acorns account value</string>
+    <string name="invest_details_contributed">Your contribution: </string>
+    <string name="invest_details_net_gain_loss">Total gain/loss: </string>
+    <string name="invest_details_data_provided_by">Data provided by Acorns</string>
+    <string name="invest_details_auto_transfers_on">Recurring transfers are ON</string>
+    <string name="invest_details_auto_transfers_off">Recurring transfers are OFF</string>
+    <string name="invest_details_auto_transfers_onhold">Recurring transfers are PAUSED</string>
+    <string name="invest_details_transfer_button_transfer_text">Withdraw Money</string>
+    <string name="invest_details_transfer_button_invest_text">Withdraw Money</string>
+    <string name="invest_details_manage_button_text">Manage on Acorns</string>
+    <string name="invest_details_activity_transfer_type_manual">One-off transfer</string>
+    <string name="invest_details_activity_transfer_type_auto">Recurring transfer</string>
+    <string name="invest_details_activity_transfer_type_withdrawal">Withdrawal</string>
+    <string name="invest_details_activity_transfer_subtype_paused">Paused</string>
+    <string name="invest_details_activity_transfer_subtype_failed">Failed</string>
+    <string name="invest_details_errors_toolbar_title">Invest with Acorns</string>
+    <string name="invest_details_errors_disconnected_header">Your Acorns and PayPal accounts aren\'t connected</string>
+    <string name="invest_details_errors_disconnected_sub_header">We\'ll charge your PayPal balance first. %1$s</string>
+    <string name="invest_details_errors_disconnected_action_text">Connect Now</string>
+    <string name="invest_details_errors_paused_header">Your contributions are on hold</string>
+    <string name="invest_details_errors_paused_sub_header">You might have put them on hold or, if you had a transfer that failed, Acorns put your contributions on hold. For instructions on how to start contributing again, log in to your Acorns account.</string>
+    <string name="invest_details_errors_paused_action_text">Go to Acorns</string>
+    <string name="invest_details_errors_denied_header">Acorns couldn\'t create an account for you</string>
+    <string name="invest_details_errors_denied_sub_header">Contact Acorns directly for more information.</string>
+    <string name="invest_details_errors_denied_action_text">Contact Acorns</string>
+    <string name="invest_details_errors_verify_header">Verify this account</string>
+    <string name="invest_details_errors_verify_sub_header">Acorns needs some more information to verify your account.</string>
+    <string name="invest_details_errors_verify_action_text">Verify on Acorns</string>
+    <string name="invest_details_errors_no_data_header">We couldn\'t retrieve your data from Acorns</string>
+    <string name="invest_details_errors_no_data_sub_header">Please check again in a few minutes.</string>
+    <string name="invest_details_errors_no_data_action_text">Refresh</string>
+    <string name="invest_details_errors_connection_issue_header">We\'re sorry,</string>
+    <string name="invest_details_errors_connection_issue_sub_header">we\'re having trouble showing you that information at the moment. Please try again in a minute or two.</string>
+    <string name="invest_details_errors_connection_issue_action_text">Please try again</string>
+    <string name="invest_details_no_activity_title">You haven\'t added money yet</string>
+    <string name="invest_details_no_activity_subtitle">Transfer money from PayPal to Acorns to start investing.</string>
+    <string name="invest_details_no_pp_funding_title">Fund your investments with PayPal</string>
+    <string name="invest_details_no_pp_funding_subtitle">Fund your Acorns investment account using PayPal to transfer money faster and get your account information right from your PayPal account.</string>
+    <string name="invest_details_change_funding">Fund with PayPal</string>
+    <string name="invest_details_pending_subtitle">For your security, Acorns will verify your account and send you a confirmation email within 48 hours.</string>
+    <string name="invest_details_pending_special_portfolio_button_text">Learn About Your Portfolio</string>
+    <string name="invest_details_pending_special_faq_button_text">Check Out Acorns\' FAQs</string>
+    <string name="invest_details_pending_title">You\'ll be an investor shortly!</string>
+    <string name="invest_details_menu_edit_account">Edit account settings</string>
+    <string name="invest_details_activity_amount_positive">+ %1$s</string>
+    <string name="invest_details_activity_amount_negative">- %1$s</string>
+    <string name="invest_details_loading_toolbar_title">Invest with Acorns</string>
+    <string name="invest_intro_bottom_button_text">See How It Works</string>
+    <string name="invest_intro_title">Invest money easily with Acorns</string>
+    <string name="invest_intro_text"><![CDATA[I have read and agree to PayPal\'s <a href=\"]]>{0}<![CDATA[\">User Agreement</a> & <a href=\"]]>{1}<![CDATA[\">Privacy Policy</a>.]]></string>
+    <string name="invest_intro_learn_more_text">See how it works</string>
+    <string name="invest_details_activity_header_pending">PENDING</string>
+    <string name="invest_details_activity_header_upcoming">SCHEDULED</string>
+    <string name="invest_details_activity_header_completed">COMPLETED</string>
+</resources>
