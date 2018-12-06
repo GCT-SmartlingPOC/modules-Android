@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- PayPal Card -->
+    <string name="ppcard_details_automatic_topup">Automatic top-up</string>
+    <string name="ppcard_details_change_pin">Change PIN</string>
+    <string name="ppcard_details_swipe_to_load">Reload card at a store</string>
+    <string name="ppcard_details_atm_finder">Find an ATM</string>
+    <string name="ppcard_details_report_lost_card">Report your card as lost or stolen</string>
+    <string name="ppcard_details_manage_notifications">Manage Cash Card notifications</string>
+    <string name="ppcard_details_report_lost_or_damaged_card">Report lost, stolen or damaged card</string>
+    <string name="ppcard_details_card_suffix">Card ending</string>
+    <string name="ppcard_details_card_partial_number">••••%1$s</string>
+    <string name="ppcard_details_card_reissue_requested">We\'re reissuing your card\nending ••••%%1$s.</string>
+    <string name="ppcard_details_card_reissue_shipped">Your replacement card is\nscheduled to arrive by %%1$s.</string>
+    <string name="ppcard_details_card_reissue_activate">Activate</string>
+    <string name="ppcard_details_card_reissue_not_receive">Didn\'t get your card?</string>
+    <string name="ppcard_spending_info">Your daily spending limits are %1$s for purchases and %1$s for cash withdrawals.</string>
+    <string name="ppcard_card_activation_title">Activate your card</string>
+    <string name="ppcard_card_error_message">We\'re sorry, please try again later</string>
+    <string name="ppcard_set_pin_done_description">Use it to withdraw money from an ATM or complete a purchase using debit.</string>
+    <string name="ppcard_set_pin_done_title">You\'ve created a PIN</string>
+    <string name="ppcard_change_pin_title">Change your PIN</string>
+    <string name="ppcard_confirm_pin_title">Confirm your PIN</string>
+    <string name="ppcard_change_pin_done_title">You changed your PIN</string>
+    <string name="ppcard_change_pin_done_1_product">You can use your new PIN to get cash at ATMs and pay with your %1$s.</string>
+    <string name="ppcard_change_pin_done_2_products">You can use your new PIN to get cash at ATMs and pay with your %1$s and %1$s.</string>
+    <string name="ppcard_change_pin_done_more_products">You can use your new PIN to get cash at ATMs and pay with your %1$s, %1$s, and %1$s.</string>
+    <string name="ppcard_done">Done</string>
+    <string name="ppcard_card_lost_title">Card Lost or Stolen</string>
+    <string name="ppcard_card_lost_damage_title">Lost, stolen or damaged card</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="ppcard_swipe_to_load_title">Reload card at a store</string>
+    <string name="ppcard_swipe_to_load_content">Find a store and present your cash and PayPal Cash Card to add money to your balance in %%1$d minutes.\n\nFEES AND LIMITS\n\nRetailers may charge up to %%2$s to load money.\nDaily limit: %%3$s | Monthly limit: %%4$s</string>
+    <string name="ppcard_swipe_to_load_featured_retailers">Featured Retailers:</string>
+    <string name="ppcard_card_replace_title">Get your card</string>
+
+    <string name="gcm_liftoff_card_activation">It\'s been %1$s days since your card was sent to you by post. Activate it now.</string>
+    <string name="gcm_liftoff_action_label_activate_card">Activate card</string>
+    <string name="gcm_liftoff_action_label_not_receive_card">I didn\'t receive my card</string>
+    <string name="gcm_liftoff_remote_input_label_default">Enter input</string>
+    <string name="gcm_liftoff_remote_input_label_expiry_date">Expiry date (MM/YY)</string>
+    <string name="gcm_liftoff_card_returned">Your PayPal Cash Card has been returned to us. Please confirm your address so we can send you your card again.</string>
+    <string name="gcm_liftoff_card_returned_second_attempt">Your PayPal Cash Card has been returned to us for the second time.Call Customer Service on %1$s so we can send you your card.</string>
+
+    <!-- EMV -->
+    <string name="title_ppcard_nfc_activation">PayPal Cash Card</string>
+    <string name="title_ppcard_nfc_activation_detecting">Activate your card</string>
+
+    <string name="emv_progressBar_title">Detecting your card...</string>
+    <string name="emv_progressBar_protip">Pro Tip: Once your card has been saved, use it to make purchases in shops.</string>
+    <string name="emv_progressBar_mess">Hold your card against the back of your phone to activate it</string>
+
+    <string name="emv_nfcTurnOn_title">Turn on NFC</string>
+    <string name="emv_nfcTurnOn_message">You\'ll need to turn on NFC in your phone\'s settings.</string>
+    <string name="emv_nfcTurnOn_pos">Turn it On</string>
+    <string name="emv_nfcTurnOn_neg">Not Now</string>
+
+    <string name="emv_button_tap_to_activate_body">Hold your card against the back of your phone to activate it</string>
+    <string name="emv_activate_manually">Activate your card manually by entering your card\'s details</string>
+    <string name="emv_call_to_activate_body">Call us to activate your card over the phone</string>
+    <string name="emv_customer_service_instruction">If you haven\'t received your card, call Customer Service on %1$s.</string>
+
+    <string name="emv_error_dialog_pos">Retry</string>
+    <string name="emv_error_dialog_neg">Cancel</string>
+    <string name="emv_error_failed_to_detect_title">Failed to detect</string>
+    <string name="emv_error_failed_to_detect_content">Hold your card against the back of your phone.</string>
+    <string name="emv_error_not_ppcard_title">This isn\'t your PayPal Cash Card</string>
+    <string name="emv_error_not_ppccard_content">Hold your PayPal Cash Card against the back of your phone.</string>
+
+    <string name="emv_card_detected_dialog_pos">Continue</string>
+    <string name="emv_card_detected_dialog_title">Card detected</string>
+    <string name="emv_card_detected_dialog_content">We\'ve detected your card. We\'re now ready to activate your card.</string>
+</resources>
